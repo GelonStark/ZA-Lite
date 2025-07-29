@@ -1,0 +1,42 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【1】等待目标中 images/battery.png
+【2】等待目标中 images/battery.png
+【3】等待目标中 images/battery.png
+【4】等待目标中 images/battery.png
+【5】等待目标中 images/battery.png
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 754, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 245, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+        ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 77, in match_tpl
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 754, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 245, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+        ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 77, in match_tpl
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 768, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 765, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

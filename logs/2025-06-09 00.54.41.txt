@@ -1,0 +1,74 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：101 
+任务开始，执行 1 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【目标出现】images/tactics.png 置信度是：0.9765976667404175
+【目标出现】images/train.png 置信度是：0.9761390089988708
+【目标出现】images/sidebar_disc.png 置信度是：0.9976671934127808
+【目标出现】images/go.png 置信度是：0.9999022483825684
+【目标出现】images/confirm.png 置信度是：0.983951985836029
+【1】等待目标中 images/bait_disc.png
+【2】等待目标中 images/bait_disc.png
+【3】等待目标中 images/bait_disc.png
+【4】等待目标中 images/bait_disc.png
+【目标出现】images/bait_disc.png 置信度是：1.0
+【1】等待目标中 images/disc_6.png
+【目标出现】images/disc_6.png 置信度是：0.9920307397842407
+【目标出现】images/level.png 置信度是：0.9822466373443604
+【目标出现】images/level.png 置信度是：0.9822466373443604
+【目标出现】images/next_step.png 置信度是：0.9843056797981262
+【目标出现】images/squad_preset.png 置信度是：0.9859579205513
+【目标出现】images/squad_6.png 置信度是：0.9724382758140564
+【目标出现】images/select_squad.png 置信度是：0.9704110026359558
+【目标出现】images/start_battle.png 置信度是：0.9768550992012024
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+-------------------------------战斗结束---------------------------------
+---------任务结束-----------
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 735, in <module>
+    input('按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

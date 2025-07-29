@@ -1,0 +1,85 @@
+2025-07-26 19:22:23 [TRACE] 【线程启动】全局监听
+2025-07-26 19:22:23 [TRACE] 【线程启动】终止监听
+2025-07-26 19:22:23 [DEBUG] 今日执行 1 次零号空洞
+2025-07-26 19:22:25 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-26 19:22:27 [DEBUG] 发现已存在的游戏窗口
+2025-07-26 19:22:31 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-26 19:22:31 [TRACE] 【线程启动】空洞搜索
+2025-07-26 19:22:31 [TRACE] 【线程启动】空洞监听
+2025-07-26 19:22:31 [TRACE] 【线程启动】空洞战斗
+2025-07-26 19:22:31 [DEBUG] 正在返回菜单
+2025-07-26 19:22:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:39 [TRACE] 退出战斗返回菜单
+2025-07-26 19:22:39 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit_battle.png 置信度：0.9938647747039795
+2025-07-26 19:22:40 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.983948290348053
+2025-07-26 19:22:41 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:42 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:43 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:43 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:44 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:44 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:45 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:46 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:46 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-26 19:22:46 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow/mission_completed.png 置信度：0.9999996423721313
+2025-07-26 19:22:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:22:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 19:23:00 [TRACE] 现在处于大厅
+2025-07-26 19:23:00 [INFO] 执行零号空洞任务中
+2025-07-26 19:23:01 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png
+2025-07-26 19:23:01 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png 置信度：0.9763131737709045
+2025-07-26 19:23:02 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\zero_hollow.png 置信度：0.9999942183494568
+2025-07-26 19:23:04 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\go_hollow.png 置信度：0.9945051074028015
+2025-07-26 19:23:05 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\confirm.png 置信度：0.9839483499526978
+2025-07-26 19:23:06 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-26 19:23:07 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-26 19:23:08 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-26 19:23:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png 置信度：0.9999890327453613
+2025-07-26 19:23:09 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy.png 置信度：0.9999997019767761
+2025-07-26 19:23:10 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png
+2025-07-26 19:23:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png 置信度：1.0
+2025-07-26 19:23:12 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_step.png 置信度：0.9862734079360962
+2025-07-26 19:23:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png 置信度：0.9862332344055176
+2025-07-26 19:23:15 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_5.png 置信度：0.9780274033546448
+2025-07-26 19:23:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\select_squad.png 置信度：0.9694607853889465
+2025-07-26 19:23:17 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\start_battle.png 置信度：0.9807148575782776
+2025-07-26 19:23:18 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-26 19:23:18 [ERROR] 【线程错误】Thread-4 (hollow_listener)
+
+Traceback (most recent call last):
+  File "C:\Python\Lib\threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "C:\Python\Lib\threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\ZA-Lite\tasks\hollow.py", line 68, in hollow_listener
+    template_gray = cv2.cvtColor(cv2.imread(tpl), cv2.COLOR_BGR2GRAY)  # 模板BGR转灰度图
+                                 ~~~~~~~~~~^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\gelon\\Desktop\\ZA-Lite\\assets/images/hollow\\resoniu111m.png'
+
+2025-07-26 19:23:19 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-26 19:23:19 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:20 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:20 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:22 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:23 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:23 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-26 19:23:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-26 19:23:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-26 19:23:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-26 19:23:25 [TRACE] 【目标检测】屏幕内没有目标

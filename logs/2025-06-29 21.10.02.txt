@@ -1,0 +1,17 @@
+[90m2025-06-29 21:10:02[0m [[34m[1mDEBUG[0m] <[34m[1m初始化完毕..ZenlessZoneZero Automation开始任务[0m>
+[90m2025-06-29 21:10:04[0m [[31m[1mERROR[0m] <[31m[1m有可用的更新！ <1.0.4>，前往更新器获取[0m>
+【发现已存在的游戏窗口】
+[90m2025-06-29 21:10:11[0m [[34m[1mDEBUG[0m] <[34m[1m拉起游戏窗口[0m>
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度是：0.9999994039535522
+Using CPU. Note: This module is much faster with a GPU.
+[92m【剩余电量:318】[0m
+---------任务结束-----------
+[90m2025-06-29 21:10:14[0m [[1mINFO[0m] <[1m任务完成✅，电量剩余：318[0m>
+[90m2025-06-29 21:10:14[0m [[33m[1mWARNING[0m] <[33m[1m程序已经结束，按回车键退出(Enter)[0m>
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 787, in <module>
+    input('按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

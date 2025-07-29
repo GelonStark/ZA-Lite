@@ -1,0 +1,59 @@
+2025-07-23 15:02:45 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 15:02:47 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 15:02:51 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 15:02:51 [DEBUG] 正在返回菜单
+2025-07-23 15:02:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:02:57 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:02:59 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:01 [TRACE] 现在处于大厅
+2025-07-23 15:03:02 [INFO] 正在喝咖啡..
+2025-07-23 15:03:02 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 15:03:03 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png
+2025-07-23 15:03:04 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png 置信度：0.9999829530715942
+2025-07-23 15:03:08 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png
+2025-07-23 15:03:09 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png 置信度：0.9527686834335327
+2025-07-23 15:03:10 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\loc_cafe.png 置信度：0.975777804851532
+2025-07-23 15:03:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.9618179202079773
+2025-07-23 15:03:12 [DEBUG] 正在返回菜单
+2025-07-23 15:03:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:14 [TRACE] 现在处于大厅
+2025-07-23 15:03:15 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999194741249084
+2025-07-23 15:03:18 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\order.png 置信度：0.9998438954353333
+2025-07-23 15:03:20 [DEBUG] 正在返回菜单
+2025-07-23 15:03:20 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:24 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:26 [TRACE] 现在处于主菜单
+2025-07-23 15:03:26 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999995827674866
+2025-07-23 15:03:26 [INFO] 当前电量为：47，执行 0 次循环
+2025-07-23 15:03:26 [DEBUG] 正在返回菜单
+2025-07-23 15:03:27 [TRACE] 现在处于主菜单
+2025-07-23 15:03:27 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999999403953552
+2025-07-23 15:03:27 [INFO] 当前电量为：47，执行 0 次循环
+2025-07-23 15:03:27 [DEBUG] 正在返回菜单
+2025-07-23 15:03:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:40 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:03:41 [TRACE] 现在处于大厅
+2025-07-23 15:03:42 [INFO] 领取奖励中
+2025-07-23 15:03:42 [ERROR] 每日任务发生未知错误
+2025-07-23 15:03:42 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 608, in start_daily
+    reward()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 254, in reward
+    press('images/lobby.png','f2')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\features\match_template.py", line 76, in press
+    match_tpl(tpl,'press',key,skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\features\match_template.py", line 21, in match_tpl
+    template = cv2.imread(tpl)  # 读取模板
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'images/lobby.png'
+
+2025-07-23 15:03:42 [WARNING] 程序已经结束，按回车键退出(Enter)

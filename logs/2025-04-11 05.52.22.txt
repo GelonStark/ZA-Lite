@@ -1,0 +1,22 @@
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 612, in <module>
+    with open('config.json','r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+
+Exception:初始化失败
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 612, in <module>
+    with open('config.json','r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 691, in <module>
+    input('Exception:初始化失败\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

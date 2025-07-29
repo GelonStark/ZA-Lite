@@ -1,0 +1,63 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：320 
+任务开始，执行 8 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765910506248474
+【目标出现】images/train.png 置信度是：0.976133406162262
+【目标出现】images/sidebar_core.png 置信度是：0.9952865839004517
+【目标出现】images/core_9.png 置信度是：0.9996747374534607
+【1】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.9839357733726501
+【1】等待目标中 images/double_on.png
+【2】等待目标中 images/double_on.png
+【3】等待目标中 images/double_on.png
+【4】等待目标中 images/double_on.png
+【5】等待目标中 images/double_on.png
+【6】等待目标中 images/double_on.png
+【7】等待目标中 images/double_on.png
+【8】等待目标中 images/double_on.png
+【跳过】images/double_on.png
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【跳过】images/confirm.png
+【目标出现】images/level.png 置信度是：0.9822532534599304
+【目标出现】images/level.png 置信度是：0.9822530150413513
+【1】等待目标中 images/next_step.png
+【2】等待目标中 images/next_step.png
+【3】等待目标中 images/next_step.png
+【4】等待目标中 images/next_step.png
+【5】等待目标中 images/next_step.png
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 692, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 643, in <lambda>
+    TASK=lambda :core(task_list[task_index])
+                 ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 447, in core
+    click('images/next_step.png')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 74, in click
+    match_tpl(tpl,'click',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 72, in match_tpl
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)

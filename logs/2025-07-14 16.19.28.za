@@ -1,0 +1,115 @@
+2025-07-14 16:19:31 [DEBUG] 【线程启动】Obj_Sea
+2025-07-14 16:19:31 [DEBUG] 【线程启动】GLo_liS
+2025-07-14 16:19:32 [DEBUG] 【线程启动】HoL_Bat
+2025-07-14 16:19:34 [DEBUG] 【线程启动】Atk_dEt
+2025-07-14 16:19:35 [DEBUG] 【线程启动】Ter_liS
+2025-07-14 16:19:36 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-14 16:19:38 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-14 16:19:38 [DEBUG] 发现已存在的游戏窗口
+2025-07-14 16:19:41 [INFO] 执行零号空洞任务中
+2025-07-14 16:19:41 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:19:44 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:19:45 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9258831143379211
+2025-07-14 16:19:47 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9452087879180908
+2025-07-14 16:19:48 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.900532603263855
+2025-07-14 16:19:50 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:19:51 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9194048047065735
+2025-07-14 16:19:54 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9094849824905396
+2025-07-14 16:19:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9836461544036865
+2025-07-14 16:19:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-14 16:19:57 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:19:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-14 16:19:58 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:19:58 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9043940901756287
+2025-07-14 16:19:58 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:20:00 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.937673032283783
+2025-07-14 16:20:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-14 16:20:02 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9716041684150696
+2025-07-14 16:20:04 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:20:04 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.934982180595398
+2025-07-14 16:20:07 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:20:08 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9229134917259216
+2025-07-14 16:20:09 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-14 16:20:10 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9547205567359924
+2025-07-14 16:20:15 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:20:16 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9156482219696045
+2025-07-14 16:20:17 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.917544960975647
+2025-07-14 16:20:18 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9379885792732239
+2025-07-14 16:20:20 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9379847049713135
+2025-07-14 16:20:23 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9842722415924072
+2025-07-14 16:20:25 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9139670133590698
+2025-07-14 16:20:25 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9222196936607361
+2025-07-14 16:20:27 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9482826590538025
+2025-07-14 16:20:29 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9482842683792114
+2025-07-14 16:20:31 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9656509757041931
+2025-07-14 16:20:34 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:20:34 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:20:35 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:20:36 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-14 16:20:37 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9384760856628418
+2025-07-14 16:20:38 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8167515993118286
+2025-07-14 16:20:40 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:20:45 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.932460367679596
+2025-07-14 16:20:45 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:20:47 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:20:48 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:20:48 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:20:50 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.984264075756073
+2025-07-14 16:20:51 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:20:52 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:20:52 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9343198537826538
+2025-07-14 16:20:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-14 16:20:54 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:20:54 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:20:55 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:20:55 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:20:56 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-14 16:20:58 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.96245938539505
+2025-07-14 16:20:58 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9119653105735779
+2025-07-14 16:21:00 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:21:02 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9357302188873291
+2025-07-14 16:21:04 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9253749847412109
+2025-07-14 16:21:06 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9726512432098389
+2025-07-14 16:21:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:08 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:21:08 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9508916735649109
+2025-07-14 16:21:11 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:21:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-14 16:21:12 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9031070470809937
+2025-07-14 16:21:13 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:21:14 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9250919818878174
+2025-07-14 16:21:16 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:17 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:21:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-14 16:21:18 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:19 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:21:19 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-14 16:21:20 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9554098844528198
+2025-07-14 16:21:22 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:23 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9617447257041931
+2025-07-14 16:21:23 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:24 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:25 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:21:25 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9031997323036194
+2025-07-14 16:21:27 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:21:28 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:29 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:29 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-14 16:21:30 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:31 [TRACE] 【目标检测】无法对齐！
+2025-07-14 16:21:31 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-14 16:21:33 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9320254325866699
+2025-07-14 16:21:35 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8920769095420837
+2025-07-14 16:21:35 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9232479333877563
+2025-07-14 16:21:37 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9689925909042358
+2025-07-14 16:21:42 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:21:44 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-14 16:21:44 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9303560256958008
+2025-07-14 16:21:45 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9383689761161804
+2025-07-14 16:21:52 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9282447099685669
+2025-07-14 16:21:52 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-14 16:21:54 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8800857663154602
+2025-07-14 16:21:54 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 16:21:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9250652194023132
+2025-07-14 16:21:58 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9398903846740723
+2025-07-14 16:22:00 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9153434038162231

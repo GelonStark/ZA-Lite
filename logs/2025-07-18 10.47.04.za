@@ -1,0 +1,48 @@
+2025-07-18 10:47:08 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-18 10:47:13 [DEBUG] 权限检查通过
+2025-07-18 10:47:14 [INFO] 现在执行 999 次零号空洞
+2025-07-18 10:47:14 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-18 10:47:16 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-18 10:47:16 [TRACE] 【线程启动】Hol_Sea
+2025-07-18 10:47:16 [TRACE] 【线程启动】Hol_liS
+2025-07-18 10:47:16 [TRACE] 【线程启动】HoL_Bat
+2025-07-18 10:47:16 [TRACE] 【线程启动】ATt_dEt
+2025-07-18 10:47:16 [TRACE] 【线程启动】Ter_liS
+2025-07-18 10:47:16 [TRACE] 【线程启动】Glo_Lis
+2025-07-18 10:47:16 [DEBUG] 启动游戏：
+2025-07-18 10:47:17 [ERROR] 空洞任务发生未知错误
+2025-07-18 10:47:17 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Hollow.py", line 319, in start_hollow
+    getwin()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 268, in getwin
+    subprocess.Popen(f'{path} -popupwindow -screen-width 1920 -screen-height 1080 -screen-fullscreen 1') #启动参数
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\subprocess.py", line 1038, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\subprocess.py", line 1550, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+                             # no special security
+                             ^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+                             cwd,
+                             ^^^^
+                             startupinfo)
+                             ^^^^^^^^^^^^
+OSError: [WinError 87] 参数错误。
+
+2025-07-18 10:47:17 [TRACE] 【线程启动】ATt_dEt
+2025-07-18 10:47:17 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-18 10:47:19 [DEBUG] 启动游戏：
+2025-07-18 10:47:20 [ERROR] [WinError 87] 参数错误。
+2025-07-18 10:47:20 [ERROR] 路径错误或管理员权限缺失
+2025-07-18 10:47:20 [WARNING] 程序已经结束，按回车键退出(Enter)

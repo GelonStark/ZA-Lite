@@ -1,0 +1,17 @@
+2025-07-01 00:41:53 [WARNING] <有可用的更新！ <1.0.4>，前往更新器获取>
+2025-07-01 00:41:58 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-07-01 00:42:00 [DEBUG] <【发现已存在的游戏窗口】>
+2025-07-01 00:42:03 [SUCCESS] <ZA程序开始介入操作，请保持游戏画面处于前台，终止按下Alt>
+2025-07-01 00:42:03 [ERROR] <----------------未知错误-------------------->
+2025-07-01 00:42:03 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 794, in run
+    win[0].activate()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 246, in activate
+    _raiseWithLastError()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 99, in _raiseWithLastError
+    raise PyGetWindowException('Error code from Windows: %s - %s' % (errorCode, _formatMessage(errorCode)))
+pygetwindow.PyGetWindowException: Error code from Windows: 0 - 操作成功完成。
+>
+2025-07-01 00:42:03 [WARNING] <程序已经结束，按回车键退出(Enter)>

@@ -1,0 +1,12 @@
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 647, in <module>
+    old_print(123)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 646, in old_print
+    sys.stdout.writ(text)
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NewOutput' object has no attribute 'writ'. Did you mean: 'write'?
+
+Exception:初始化失败
+按回车键退出(Enter)

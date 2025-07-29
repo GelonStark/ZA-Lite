@@ -1,0 +1,33 @@
+2025-07-01 15:42:45 [WARNING] <有可用的更新！ <1.0.4>，前往更新器获取>
+2025-07-01 15:42:50 [DEBUG] <权限检查通过>
+2025-07-01 15:42:51 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-07-01 15:42:53 [DEBUG] <【发现已存在的游戏窗口】>
+2025-07-01 15:42:57 [SUCCESS] <ZA-Lite1.0.5程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-01 15:42:57 [TRACE] <【目标出现】images/quit_battle.png 置信度是：0.993861734867096>
+2025-07-01 15:42:58 [TRACE] <【1】等待目标中 images/confirm.png>
+2025-07-01 15:42:59 [TRACE] <【2】等待目标中 images/confirm.png>
+2025-07-01 15:42:59 [TRACE] <【3】等待目标中 images/confirm.png>
+2025-07-01 15:43:00 [TRACE] <【4】等待目标中 images/confirm.png>
+2025-07-01 15:43:01 [TRACE] <【5】等待目标中 images/confirm.png>
+2025-07-01 15:43:01 [TRACE] <【6】等待目标中 images/confirm.png>
+2025-07-01 15:43:02 [TRACE] <【7】等待目标中 images/confirm.png>
+2025-07-01 15:43:02 [TRACE] <【8】等待目标中 images/confirm.png>
+2025-07-01 15:43:02 [ERROR] <----------------未知错误-------------------->
+2025-07-01 15:43:02 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 812, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 247, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 175, in menu
+    click('images/confirm.png')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 82, in click
+    match_tpl(tpl,'click',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 80, in match_tpl
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+>
+2025-07-01 15:43:02 [WARNING] <程序已经结束，按回车键退出(Enter)>

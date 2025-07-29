@@ -1,0 +1,40 @@
+2025-07-19 00:33:34 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-19 00:33:39 [DEBUG] 权限检查通过
+2025-07-19 00:33:40 [INFO] 现在执行 2 次零号空洞
+2025-07-19 00:33:40 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-19 00:33:42 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-19 00:33:42 [TRACE] 【线程启动】Hol_Sea
+2025-07-19 00:33:42 [TRACE] 【线程启动】Hol_liS
+2025-07-19 00:33:42 [TRACE] 【线程启动】HoL_Bat
+2025-07-19 00:33:42 [TRACE] 【线程启动】ATt_dEt
+2025-07-19 00:33:42 [TRACE] 【线程启动】Ter_liS
+2025-07-19 00:33:42 [TRACE] 【线程启动】Glo_Lis
+2025-07-19 00:33:42 [DEBUG] 发现已存在的游戏窗口
+2025-07-19 00:33:45 [DEBUG] 正在返回菜单
+2025-07-19 00:33:45 [TRACE] 现在处于主菜单
+2025-07-19 00:33:47 [INFO] 执行零号空洞任务中
+2025-07-19 00:33:47 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:48 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:48 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:49 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:49 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:50 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:50 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:51 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:52 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:52 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:53 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:53 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:54 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:54 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:55 [TRACE] 【15】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:56 [TRACE] 【16】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:56 [TRACE] 【17】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:57 [TRACE] 【18】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:57 [TRACE] 【19】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:58 [TRACE] 【20】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 00:33:58 [ERROR] ----------等待超时,开始重试----------
+2025-07-19 00:33:59 [DEBUG] 正在返回菜单
+2025-07-19 00:33:59 [TRACE] 现在处于主菜单
+2025-07-19 00:34:00 [INFO] 执行零号空洞任务中
+2025-07-19 00:34:00 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png

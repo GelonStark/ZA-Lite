@@ -1,0 +1,116 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【1】等待目标中 images/old_guide.png
+【2】等待目标中 images/old_guide.png
+【3】等待目标中 images/old_guide.png
+【4】等待目标中 images/old_guide.png
+【5】等待目标中 images/old_guide.png
+【6】等待目标中 images/old_guide.png
+【7】等待目标中 images/old_guide.png
+【目标出现】images/old_guide.png 置信度是：1.0
+【目标出现】images/map_sixcent.png 置信度是：0.9976769089698792
+【1】等待目标中 images/loc_newsstand.png
+【2】等待目标中 images/loc_newsstand.png
+【3】等待目标中 images/loc_newsstand.png
+【4】等待目标中 images/loc_newsstand.png
+【5】等待目标中 images/loc_newsstand.png
+【6】等待目标中 images/loc_newsstand.png
+【7】等待目标中 images/loc_newsstand.png
+【8】等待目标中 images/loc_newsstand.png
+【9】等待目标中 images/loc_newsstand.png
+【10】等待目标中 images/loc_newsstand.png
+【11】等待目标中 images/loc_newsstand.png
+【12】等待目标中 images/loc_newsstand.png
+【13】等待目标中 images/loc_newsstand.png
+【14】等待目标中 images/loc_newsstand.png
+【15】等待目标中 images/loc_newsstand.png
+【16】等待目标中 images/loc_newsstand.png
+【17】等待目标中 images/loc_newsstand.png
+【18】等待目标中 images/loc_newsstand.png
+【19】等待目标中 images/loc_newsstand.png
+【20】等待目标中 images/loc_newsstand.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/old_guide.png 置信度是：0.9991537928581238
+【目标出现】images/map_sixcent.png 置信度是：0.9995160102844238
+【1】等待目标中 images/loc_newsstand.png
+【2】等待目标中 images/loc_newsstand.png
+【3】等待目标中 images/loc_newsstand.png
+【4】等待目标中 images/loc_newsstand.png
+【5】等待目标中 images/loc_newsstand.png
+【6】等待目标中 images/loc_newsstand.png
+【7】等待目标中 images/loc_newsstand.png
+【8】等待目标中 images/loc_newsstand.png
+【9】等待目标中 images/loc_newsstand.png
+【10】等待目标中 images/loc_newsstand.png
+【11】等待目标中 images/loc_newsstand.png
+【12】等待目标中 images/loc_newsstand.png
+【13】等待目标中 images/loc_newsstand.png
+【14】等待目标中 images/loc_newsstand.png
+【15】等待目标中 images/loc_newsstand.png
+【16】等待目标中 images/loc_newsstand.png
+【17】等待目标中 images/loc_newsstand.png
+【18】等待目标中 images/loc_newsstand.png
+【19】等待目标中 images/loc_newsstand.png
+【20】等待目标中 images/loc_newsstand.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【1】等待目标中 images/old_guide.png
+【目标出现】images/old_guide.png 置信度是：0.999986469745636
+【目标出现】images/map_sixcent.png 置信度是：0.9979748725891113
+【1】等待目标中 images/loc_newsstand.png
+【目标出现】images/loc_newsstand.png 置信度是：0.9984127283096313
+【目标出现】images/confirm.png 置信度是：0.9618164300918579
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【1】等待目标中 images/dog_sleep.png
+【2】等待目标中 images/dog_sleep.png
+【3】等待目标中 images/dog_sleep.png
+【4】等待目标中 images/dog_sleep.png
+【5】等待目标中 images/dog_sleep.png
+【6】等待目标中 images/dog_sleep.png
+【7】等待目标中 images/dog_sleep.png
+【8】等待目标中 images/dog_sleep.png
+【跳过】images/dog_sleep.png
+【1】等待目标中 images/dog_wake.png
+【2】等待目标中 images/dog_wake.png
+【3】等待目标中 images/dog_wake.png
+【4】等待目标中 images/dog_wake.png
+【5】等待目标中 images/dog_wake.png
+【6】等待目标中 images/dog_wake.png
+【7】等待目标中 images/dog_wake.png
+【8】等待目标中 images/dog_wake.png
+【跳过】images/dog_wake.png
+【1】等待目标中 images/dog_wake2.png
+【2】等待目标中 images/dog_wake2.png
+【3】等待目标中 images/dog_wake2.png
+【4】等待目标中 images/dog_wake2.png
+【5】等待目标中 images/dog_wake2.png
+【6】等待目标中 images/dog_wake2.png
+【7】等待目标中 images/dog_wake2.png
+【8】等待目标中 images/dog_wake2.png
+【跳过】images/dog_wake2.png
+【目标出现】images/lottery.png 置信度是：0.9977379441261292
+---------任务结束-----------
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 735, in <module>
+    input('按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

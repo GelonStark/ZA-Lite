@@ -1,0 +1,34 @@
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 647, in <module>
+    old_print(123)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 646, in old_print
+    sys.stdout.write(text)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 630, in write
+    self.file.write(text)
+    ~~~~~~~~~~~~~~~^^^^^^
+TypeError: write() argument must be str, not int
+
+Exception:初始化失败
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 647, in <module>
+    old_print(123)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 646, in old_print
+    sys.stdout.write(text)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 630, in write
+    self.file.write(text)
+    ~~~~~~~~~~~~~~~^^^^^^
+TypeError: write() argument must be str, not int
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 727, in <module>
+    input('Exception:初始化失败\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

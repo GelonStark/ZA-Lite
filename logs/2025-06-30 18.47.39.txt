@@ -1,0 +1,42 @@
+2025-06-30 18:47:39 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-06-30 18:47:41 [WARNING] <有可用的更新！ <1.0.4>，前往更新器获取>
+2025-06-30 18:47:46 [DEBUG] <【发现已存在的游戏窗口】>
+2025-06-30 18:47:49 [SUCCESS] <自动化程序已经介入操作，中途需要终止按下Alt>
+2025-06-30 18:47:49 [TRACE] <【现在处于主菜单】>
+2025-06-30 18:47:50 [INFO] <正在喝咖啡..>
+2025-06-30 18:47:50 [TRACE] <【目标出现】images/lobby.png 置信度是：0.9999196529388428>
+2025-06-30 18:47:52 [TRACE] <【1】等待目标中 images/old_guide.png>
+2025-06-30 18:47:52 [TRACE] <【2】等待目标中 images/old_guide.png>
+2025-06-30 18:47:53 [TRACE] <【3】等待目标中 images/old_guide.png>
+2025-06-30 18:47:54 [TRACE] <【4】等待目标中 images/old_guide.png>
+2025-06-30 18:47:54 [TRACE] <【5】等待目标中 images/old_guide.png>
+2025-06-30 18:47:55 [TRACE] <【6】等待目标中 images/old_guide.png>
+2025-06-30 18:47:55 [TRACE] <【7】等待目标中 images/old_guide.png>
+2025-06-30 18:47:56 [TRACE] <【8】等待目标中 images/old_guide.png>
+2025-06-30 18:47:57 [TRACE] <【9】等待目标中 images/old_guide.png>
+2025-06-30 18:47:57 [TRACE] <【10】等待目标中 images/old_guide.png>
+2025-06-30 18:47:58 [TRACE] <【11】等待目标中 images/old_guide.png>
+2025-06-30 18:47:59 [TRACE] <【12】等待目标中 images/old_guide.png>
+2025-06-30 18:47:59 [TRACE] <【13】等待目标中 images/old_guide.png>
+2025-06-30 18:48:00 [TRACE] <【14】等待目标中 images/old_guide.png>
+2025-06-30 18:48:00 [TRACE] <【15】等待目标中 images/old_guide.png>
+2025-06-30 18:48:01 [ERROR] <----------------未知错误-------------------->
+2025-06-30 18:48:01 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 763, in run
+    coffee()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 398, in coffee
+    map_select("images/map_sixcent.png")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 566, in map_select
+    click('images/old_guide.png')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 82, in click
+    match_tpl(tpl,'click',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 80, in match_tpl
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+>
+2025-06-30 18:48:01 [WARNING] <程序已经结束，按回车键退出(Enter)>

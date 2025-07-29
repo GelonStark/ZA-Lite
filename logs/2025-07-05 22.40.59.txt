@@ -1,0 +1,13 @@
+2025-07-05 22:41:06 [WARNING] <有可用的更新！ <1.0.4> ，前往更新器获取>
+2025-07-05 22:41:11 [DEBUG] <权限检查通过>
+2025-07-05 22:41:12 [DEBUG] <初始化完毕..ZA开始任务>
+2025-07-05 22:41:14 [DEBUG] <发现已存在的游戏窗口>
+2025-07-05 22:41:17 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-05 22:41:17 [ERROR] <----------------未知错误-------------------->
+2025-07-05 22:41:17 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 810, in run
+    if TASK is not None and not timeout:
+       ^^^^
+NameError: name 'TASK' is not defined
+>
+2025-07-05 22:41:17 [WARNING] <程序已经结束，按回车键退出(Enter)>

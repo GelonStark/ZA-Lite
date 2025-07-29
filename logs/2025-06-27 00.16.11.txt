@@ -1,0 +1,21 @@
+【发现已存在的游戏窗口】
+【正在返回菜单】 请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】 battery (confidence:0.9999994039535522)
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：200 
+任务开始，执行 2 次循环
+【现在处于主菜单】
+【等待目标中】 lobby (1)
+【等待目标中】 lobby (2)
+【目标出现】 lobby (confidence:0.9999196529388428)
+【等待目标中】 tactics (1)
+【等待目标中】 tactics (2)
+【等待目标中】 tactics (3)
+【等待目标中】 tactics (4)
+【等待目标中】 tactics (5)
+【等待目标中】 tactics (6)
+【等待目标中】 tactics (7)
+【等待目标中】 tactics (8)
+【等待目标中】 tactics (9)
+【等待目标中】 tactics (10)

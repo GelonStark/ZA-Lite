@@ -1,0 +1,69 @@
+【发现已存在的游戏窗口】
+【正在返回菜单】请保持游戏画面处于前台[1]
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度：0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：189 
+任务开始，执行 1 次循环
+
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度：0.9999196529388428
+【目标出现】images/tactics.png 置信度：0.9766026139259338
+【目标出现】images/train.png 置信度：0.9761331081390381
+【等待目标中】images/go.png[1]
+【等待目标中】images/go.png[2]
+【等待目标中】images/go.png[3]
+【等待目标中】images/go.png[4]
+【等待目标中】images/go.png[5]
+【等待目标中】images/go.png[6]
+【等待目标中】images/go.png[7]
+【等待目标中】images/go.png[8]
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 742, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 685, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 521, in upgrade
+    click('images/go.png')
+    ~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 79, in click
+    match_tpl(tpl,'click',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 77, in match_tpl
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 742, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 685, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 521, in upgrade
+    click('images/go.png')
+    ~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 79, in click
+    match_tpl(tpl,'click',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 77, in match_tpl
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 768, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 765, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

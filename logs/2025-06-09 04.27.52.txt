@@ -1,0 +1,50 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.976581335067749
+【目标出现】images/daily.png 置信度是：0.9965630173683167
+【1】等待目标中 images/daily_reward.png
+【2】等待目标中 images/daily_reward.png
+【目标出现】images/daily_reward.png 置信度是：0.9567433595657349
+【目标出现】images/confirm.png 置信度是：0.9713429808616638
+【目标出现】images/weekly_reward.png 置信度是：0.9983778595924377
+【1】等待目标中 images/weekly_reward_2.png
+【2】等待目标中 images/weekly_reward_2.png
+【3】等待目标中 images/weekly_reward_2.png
+【4】等待目标中 images/weekly_reward_2.png
+【5】等待目标中 images/weekly_reward_2.png
+【6】等待目标中 images/weekly_reward_2.png
+【7】等待目标中 images/weekly_reward_2.png
+【8】等待目标中 images/weekly_reward_2.png
+【9】等待目标中 images/weekly_reward_2.png
+【10】等待目标中 images/weekly_reward_2.png
+【11】等待目标中 images/weekly_reward_2.png
+【12】等待目标中 images/weekly_reward_2.png
+【13】等待目标中 images/weekly_reward_2.png
+【14】等待目标中 images/weekly_reward_2.png
+【15】等待目标中 images/weekly_reward_2.png
+【跳过】images/weekly_reward_2.png
+【目标出现】images/weekly_reward_3.png 置信度是：0.9951388835906982
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【1】等待目标中 images/monthly_ads.png
+【2】等待目标中 images/monthly_ads.png
+【3】等待目标中 images/monthly_ads.png
+【4】等待目标中 images/monthly_ads.png
+【5】等待目标中 images/monthly_ads.png
+【6】等待目标中 images/monthly_ads.png
+【7】等待目标中 images/monthly_ads.png
+【8】等待目标中 images/monthly_ads.png
+【跳过】images/monthly_ads.png
+【目标出现】images/monthly_task.png 置信度是：0.9991451501846313
+【目标出现】images/monthly_claim.png 置信度是：0.9986187815666199
+【目标出现】images/monthly_battlepass.png 置信度是：0.9969909191131592
+【目标出现】images/monthly_claim.png 置信度是：0.9594877362251282
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台

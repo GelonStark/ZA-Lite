@@ -1,0 +1,17 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999197125434875
+【1】等待目标中 images/old_guide.png
+【目标出现】images/old_guide.png 置信度是：1.0
+【1】等待目标中 images/map_sixcent.png
+【2】等待目标中 images/map_sixcent.png
+【3】等待目标中 images/map_sixcent.png
+【4】等待目标中 images/map_sixcent.png
+【5】等待目标中 images/map_sixcent.png
+【6】等待目标中 images/map_sixcent.png
+【7】等待目标中 images/map_sixcent.png
+【8】等待目标中 images/map_sixcent.png
+【9】等待目标中 images/map_sixcent.png

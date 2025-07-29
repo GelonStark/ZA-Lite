@@ -1,0 +1,79 @@
+2025-07-24 20:53:23 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-24 20:53:28 [DEBUG] 权限检查通过
+2025-07-24 20:53:29 [DEBUG] 跳过零号空洞
+2025-07-24 20:53:31 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-24 20:53:33 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 20:53:37 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 20:53:37 [DEBUG] 正在返回菜单
+2025-07-24 20:53:38 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:40 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:42 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:53:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:10 [TRACE] 现在处于大厅
+2025-07-24 20:54:10 [INFO] 正在喝咖啡..
+2025-07-24 20:54:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:54:12 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\old_guide.png
+2025-07-24 20:54:13 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\old_guide.png 置信度：0.9999962449073792
+2025-07-24 20:54:17 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png
+2025-07-24 20:54:18 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png 置信度：0.9739865064620972
+2025-07-24 20:54:19 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\loc_cafe.png 置信度：0.9960359930992126
+2025-07-24 20:54:20 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9618180990219116
+2025-07-24 20:54:21 [DEBUG] 正在返回菜单
+2025-07-24 20:54:21 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:23 [TRACE] 现在处于大厅
+2025-07-24 20:54:24 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:54:27 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\order.png 置信度：0.9998438954353333
+2025-07-24 20:54:29 [DEBUG] 正在返回菜单
+2025-07-24 20:54:29 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:35 [TRACE] 现在处于主菜单
+2025-07-24 20:54:36 [INFO] 当前电量为：25，停止消耗体力
+2025-07-24 20:54:36 [DEBUG] 正在返回菜单
+2025-07-24 20:54:36 [TRACE] 现在处于主菜单
+2025-07-24 20:54:36 [INFO] 当前电量为：25，停止消耗体力
+2025-07-24 20:54:36 [DEBUG] 正在返回菜单
+2025-07-24 20:54:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:54:39 [TRACE] 现在处于大厅
+2025-07-24 20:54:39 [INFO] 领取奖励中
+2025-07-24 20:54:39 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:54:41 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\tactics.png 置信度：0.9765965938568115
+2025-07-24 20:54:42 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily.png 置信度：0.9965630173683167
+2025-07-24 20:54:43 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:44 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:45 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:45 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:46 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:46 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:47 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:48 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:48 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:54:48 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:49 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:50 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:50 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:51 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:52 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:52 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:53 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:53 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:54:54 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png
+2025-07-24 20:54:54 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png
+2025-07-24 20:54:55 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png
+2025-07-24 20:54:55 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png
+2025-07-24 20:54:56 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png
+2025-07-24 20:54:57 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png
+2025-07-24 20:54:57 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png
+2025-07-24 20:54:58 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png

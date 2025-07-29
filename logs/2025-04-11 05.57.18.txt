@@ -1,0 +1,63 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999999403953552
+【1】等待目标中 images/map_sixcent.png
+【2】等待目标中 images/map_sixcent.png
+【3】等待目标中 images/map_sixcent.png
+【4】等待目标中 images/map_sixcent.png
+【5】等待目标中 images/map_sixcent.png
+【6】等待目标中 images/map_sixcent.png
+【7】等待目标中 images/map_sixcent.png
+【8】等待目标中 images/map_sixcent.png
+【9】等待目标中 images/map_sixcent.png
+【10】等待目标中 images/map_sixcent.png
+【目标出现】images/map_sixcent.png 置信度是：0.9448065757751465
+【目标出现】images/loc_cafe.png 置信度是：0.9999994039535522
+【目标出现】images/confirm.png 置信度是：0.9935162663459778
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/order.png 置信度是：0.9999999403953552
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：233 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/tactics.png 置信度是：0.9978095293045044
+【目标出现】images/combat.png 置信度是：0.9966528415679932
+【目标出现】images/hunt_5.png 置信度是：0.9632353186607361
+【1】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.9997768402099609
+【1】等待目标中 images/hunt_off.png
+【2】等待目标中 images/hunt_off.png
+【3】等待目标中 images/hunt_off.png
+【4】等待目标中 images/hunt_off.png
+【5】等待目标中 images/hunt_off.png
+【6】等待目标中 images/hunt_off.png
+【7】等待目标中 images/hunt_off.png
+【8】等待目标中 images/hunt_off.png
+【9】等待目标中 images/hunt_off.png
+【10】等待目标中 images/hunt_off.png
+【11】等待目标中 images/hunt_off.png
+【12】等待目标中 images/hunt_off.png
+【13】等待目标中 images/hunt_off.png
+【目标出现】images/hunt_off.png 置信度是：0.9798961877822876
+【目标出现】images/confirm.png 置信度是：0.9808728694915771
+【目标出现】images/level.png 置信度是：0.9861096739768982

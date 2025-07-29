@@ -1,0 +1,30 @@
+【启动游戏】 D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+Exception in thread Thread-2 (global_listener):
+Traceback (most recent call last):
+  File "C:\Python\Lib\threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "C:\Python\Lib\threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 276, in global_listener
+    template_gray = cv2.cvtColor(cv2.imread(tpl), cv2.COLOR_BGR2GRAY)  # 模板BGR转灰度图
+                                 ~~~~~~~~~~^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'images/battle_miyabi.png'
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台

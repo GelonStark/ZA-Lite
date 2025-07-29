@@ -1,0 +1,32 @@
+2025-07-06 02:33:25 [WARNING] <有可用的更新！ 前往更新器获取<1.0.4> >
+2025-07-06 02:33:30 [DEBUG] <权限检查通过>
+2025-07-06 02:33:31 [DEBUG] <初始化完毕..开始日常任务流程>
+2025-07-06 02:33:33 [DEBUG] <发现已存在的游戏窗口>
+2025-07-06 02:33:36 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-06 02:33:36 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:38 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:40 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:42 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:44 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:46 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:48 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:50 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:52 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:54 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:56 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:33:58 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:34:00 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:34:02 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-06 02:34:02 [ERROR] <----------------未知错误-------------------->
+2025-07-06 02:34:02 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 824, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 247, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 192, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+>
+2025-07-06 02:34:02 [WARNING] <程序已经结束，按回车键退出(Enter)>

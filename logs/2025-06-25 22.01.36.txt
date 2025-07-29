@@ -1,0 +1,17 @@
+¡¾·¢ÏÖÒÑ´æÔÚµÄÓÎÏ·´°¿Ú¡¿
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃĞÅ¶ÈÊÇ£º1.0
+Using CPU. Note: This module is much faster with a GPU.
+µ±Ç°µçÁ¿Îª£º59 
+ÈÎÎñ¿ªÊ¼£¬Ö´ĞĞ 0 ´ÎÑ­»·
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃĞÅ¶ÈÊÇ£º0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+[31m¡¾Ê£ÓàµçÁ¿:59¡¿[0m
+---------ÈÎÎñ½áÊø-----------
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 764, in <module>
+    input('°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

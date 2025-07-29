@@ -1,0 +1,53 @@
+¡¾·¢ÏÖÒÑ´æÔÚµÄÓÎÏ·´°¿Ú¡¿
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃĞÅ¶ÈÊÇ£º0.9999998211860657
+1341 24
+Using CPU. Note: This module is much faster with a GPU.
+233
+µ±Ç°µçÁ¿Îª£º233 
+ÈÎÎñ¿ªÊ¼£¬Ö´ĞĞ 3 ´ÎÑ­»·
+[93mÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨[0m
+[93mÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨[0m
+[93mÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨[0m
+[93mÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨[0m
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 736, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 690, in <lambda>
+    TASK=lambda :hunt(task_list[task_index])
+                 ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 492, in hunt
+    menu('leave')
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 166, in menu
+    result2=cv2.matchTemplate(screenshot_gray,tpl2_gray,cv2.TM_CCOEFF_NORMED)
+KeyboardInterrupt
+
+Exception:Ö÷Ïß³Ì³ö´í
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 736, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 690, in <lambda>
+    TASK=lambda :hunt(task_list[task_index])
+                 ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 492, in hunt
+    menu('leave')
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 166, in menu
+    result2=cv2.matchTemplate(screenshot_gray,tpl2_gray,cv2.TM_CCOEFF_NORMED)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 757, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 754, in run
+    input('Exception:Ö÷Ïß³Ì³ö´í\n°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

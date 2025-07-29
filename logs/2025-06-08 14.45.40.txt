@@ -1,0 +1,75 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：320 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765910506248474
+【目标出现】images/train.png 置信度是：0.9761336445808411
+【目标出现】images/go.png 置信度是：0.9999022483825684
+【目标出现】images/confirm.png 置信度是：0.9839509725570679
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【4】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9999297261238098
+【目标出现】images/upgrade_promotion.png 置信度是：0.9956003427505493
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 692, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 637, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 491, in upgrade
+    move(task_name)
+    ~~~~^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 78, in move
+    match_tpl(tpl,'move',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 29, in match_tpl
+    template = cv2.imread(tpl)  # 读取模板
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'images/promotion_rupture.pngimages/promotion_attack.png'
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 692, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 637, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 491, in upgrade
+    move(task_name)
+    ~~~~^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 78, in move
+    match_tpl(tpl,'move',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 29, in match_tpl
+    template = cv2.imread(tpl)  # 读取模板
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'images/promotion_rupture.pngimages/promotion_attack.png'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 713, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 710, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

@@ -1,0 +1,30 @@
+2025-06-30 19:28:25 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-06-30 19:28:26 [DEBUG] <【发现已存在的游戏窗口】>
+2025-06-30 19:28:30 [SUCCESS] <ZA程序开始介入操作，请保持游戏画面处于前台，终止按下Alt>
+2025-06-30 19:28:30 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:32 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:34 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:36 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:37 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:39 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:41 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:43 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:45 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:47 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:49 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:51 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:53 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:28:53 [ERROR] <----------------未知错误-------------------->
+2025-06-30 19:28:53 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 763, in run
+    coffee()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 396, in coffee
+    menu('leave')
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 192, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+>
+2025-06-30 19:28:53 [WARNING] <程序已经结束，按回车键退出(Enter)>

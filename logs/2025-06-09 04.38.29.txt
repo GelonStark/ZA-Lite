@@ -1,0 +1,109 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：138 
+任务开始，执行 2 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765781760215759
+【目标出现】images/combat.png 置信度是：0.9763121008872986
+【目标出现】images/go.png 置信度是：0.9890552163124084
+【1】等待目标中 images/hunt_3.png
+【2】等待目标中 images/hunt_3.png
+【目标出现】images/hunt_3.png 置信度是：0.9485120177268982
+【1】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.983942985534668
+【1】等待目标中 images/hunt_off.png
+【2】等待目标中 images/hunt_off.png
+【3】等待目标中 images/hunt_off.png
+【4】等待目标中 images/hunt_off.png
+【5】等待目标中 images/hunt_off.png
+【6】等待目标中 images/hunt_off.png
+【7】等待目标中 images/hunt_off.png
+【8】等待目标中 images/hunt_off.png
+【跳过】images/hunt_off.png
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【跳过】images/confirm.png
+【目标出现】images/level.png 置信度是：0.9822466373443604
+【目标出现】images/level.png 置信度是：0.9822466373443604
+【目标出现】images/next_step.png 置信度是：0.9829246401786804
+【目标出现】images/squad_preset.png 置信度是：0.9859579205513
+【目标出现】images/squad_6.png 置信度是：0.9824460744857788
+【目标出现】images/select_squad.png 置信度是：0.9705055356025696
+【目标出现】images/start_battle.png 置信度是：0.9764728546142578
+【目标检测】ALIGNED！0.7828353047370911
+【目标出现】images/select.png 置信度是：0.9996985197067261
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+True
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+True
+正在战斗中
+True
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中

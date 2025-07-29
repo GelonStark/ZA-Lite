@@ -1,0 +1,41 @@
+【发现已存在的游戏窗口】
+【目标出现】images/quit_battle.png 置信度是：0.9999999403953552
+【目标出现】images/confirm.png 置信度是：0.9999998807907104
+【1】等待目标中 images/quit.png
+【2】等待目标中 images/quit.png
+【3】等待目标中 images/quit.png
+【4】等待目标中 images/quit.png
+【5】等待目标中 images/quit.png
+【目标出现】images/quit.png 置信度是：0.9999998807907104
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：176 
+任务开始，执行 2 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/tactics.png 置信度是：0.9978101849555969
+【目标出现】images/train.png 置信度是：0.9961405992507935
+【目标出现】images/sidebar_disc.png 置信度是：0.9999304413795471
+【目标出现】images/go.png 置信度是：0.9988210797309875
+【目标出现】images/confirm.png 置信度是：0.9999998807907104
+【1】等待目标中 images/disc_2.png
+【2】等待目标中 images/disc_2.png
+【3】等待目标中 images/disc_2.png
+【4】等待目标中 images/disc_2.png
+【5】等待目标中 images/disc_2.png
+【6】等待目标中 images/disc_2.png
+【7】等待目标中 images/disc_2.png
+【目标出现】images/disc_2.png 置信度是：0.9924759864807129
+【目标出现】images/level.png 置信度是：0.983143150806427
+【目标出现】images/level.png 置信度是：0.9831435084342957
+【目标出现】images/next_step.png 置信度是：0.9812008142471313
+【目标出现】images/squad_preset.png 置信度是：0.9999907612800598
+【目标出现】images/squad_4.png 置信度是：0.9897797703742981
+【目标出现】images/select_squad.png 置信度是：0.9907194375991821

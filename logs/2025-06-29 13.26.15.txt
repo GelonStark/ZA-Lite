@@ -1,0 +1,14 @@
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 729, in run
+    logger.add(sink=sys.stdout,level="info",format="<white>{time}</white>")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\loguru\_logger.py", line 937, in add
+    levelno = self.level(level).no
+              ~~~~~~~~~~^^^^^^^
+  File "C:\Python\Lib\site-packages\loguru\_logger.py", line 1598, in level
+    raise ValueError("Level '%s' does not exist" % name) from None
+ValueError: Level 'info' does not exist
+
+Exception:主线程出错
+按回车键退出(Enter)

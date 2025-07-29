@@ -1,0 +1,238 @@
+2025-07-23 19:16:40 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-23 19:16:45 [TRACE] 【线程启动】全局监听
+2025-07-23 19:16:45 [TRACE] 【线程启动】Ter_liS
+2025-07-23 19:16:45 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 19:16:47 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 19:16:51 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 19:16:51 [DEBUG] 正在返回菜单
+2025-07-23 19:16:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:16:53 [TRACE] 现在处于大厅
+2025-07-23 19:16:54 [INFO] 领取奖励中
+2025-07-23 19:16:54 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9944981932640076
+2025-07-23 19:16:55 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\tactics.png 置信度：0.9766026139259338
+2025-07-23 19:16:57 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily.png 置信度：0.9965623021125793
+2025-07-23 19:16:58 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:16:58 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:16:59 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:17:00 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:17:00 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:17:01 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:17:02 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:17:02 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:17:03 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\daily_reward.png
+2025-07-23 19:17:03 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:04 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:04 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:05 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:05 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:06 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:07 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:07 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:08 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:17:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward.png 置信度：0.9983786344528198
+2025-07-23 19:17:09 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:09 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:10 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:10 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:10 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:10 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:10 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:11 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:11 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:11 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:11 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:11 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:12 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:12 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:12 [TRACE] 【15】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:12 [TRACE] 【16】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:12 [TRACE] 【17】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:13 [TRACE] 【18】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:13 [TRACE] 【19】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:13 [TRACE] 【20】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:13 [TRACE] 【21】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:13 [TRACE] 【22】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:13 [TRACE] 【23】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:14 [TRACE] 【24】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:14 [TRACE] 【25】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:14 [TRACE] 【26】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:14 [TRACE] 【27】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:14 [TRACE] 【28】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:15 [TRACE] 【29】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:15 [TRACE] 【30】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:15 [TRACE] 【31】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:15 [TRACE] 【32】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:15 [TRACE] 【33】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:16 [TRACE] 【34】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:16 [TRACE] 【35】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:16 [TRACE] 【36】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:16 [TRACE] 【37】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:16 [TRACE] 【38】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:17 [TRACE] 【39】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:17 [TRACE] 【40】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:17 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_2.png
+2025-07-23 19:17:17 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\weekly_reward_3.png 置信度：0.9951372742652893
+2025-07-23 19:17:18 [DEBUG] 正在返回菜单
+2025-07-23 19:17:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:17:21 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:17:23 [TRACE] 现在处于大厅
+2025-07-23 19:17:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 19:17:25 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:25 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:26 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:27 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:27 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:28 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:28 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:29 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:29 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_ads.png
+2025-07-23 19:17:29 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_task.png 置信度：0.9991435408592224
+2025-07-23 19:17:31 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_claim.png 置信度：0.9986116290092468
+2025-07-23 19:17:32 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_battlepass.png 置信度：0.9969902038574219
+2025-07-23 19:17:33 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\monthly_claim.png 置信度：0.9593343138694763
+2025-07-23 19:17:35 [DEBUG] 正在返回菜单
+2025-07-23 19:17:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:17:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:17:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:17:41 [TRACE] 现在处于主菜单
+2025-07-23 19:17:41 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\mail.png 置信度：1.0
+2025-07-23 19:17:43 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\mail_claim.png 置信度：0.9999872446060181
+2025-07-23 19:17:44 [DEBUG] 正在返回菜单
+2025-07-23 19:17:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:17:46 [TRACE] 现在处于主菜单
+2025-07-23 19:17:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\events.png 置信度：1.0
+2025-07-23 19:17:48 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_event.png
+2025-07-23 19:17:49 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_event.png 置信度：1.0
+2025-07-23 19:17:52 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:52 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:53 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:54 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:54 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:55 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:56 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:56 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:57 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift.png
+2025-07-23 19:17:57 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:17:58 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:17:58 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:17:59 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:17:59 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:00 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:01 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:01 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:02 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:02 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:02 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:03 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:04 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:04 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:05 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:05 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:06 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:07 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:07 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:07 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:08 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:08 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:09 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:10 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:10 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:11 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:11 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_event.png 置信度：0.9999998211860657
+2025-07-23 19:18:14 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:15 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:16 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:16 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:17 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:18 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:19 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:19 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:20 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_gift_2.png
+2025-07-23 19:18:20 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:21 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:21 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:22 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:23 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:23 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:24 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:24 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:25 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim.png
+2025-07-23 19:18:25 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:26 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:26 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:27 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:27 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:28 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:28 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:29 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:30 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\event_claim_2.png
+2025-07-23 19:18:30 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:30 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:31 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:31 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:32 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:33 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:33 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:34 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:34 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png
+2025-07-23 19:18:34 [DEBUG] 正在返回菜单
+2025-07-23 19:18:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:18:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:18:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:18:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:18:42 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:18:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:18:46 [TRACE] 现在处于大厅
+2025-07-23 19:18:47 [INFO] 前往刮刮卡报刊亭
+2025-07-23 19:18:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 19:18:48 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png 置信度：0.9988412261009216
+2025-07-23 19:18:53 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png
+2025-07-23 19:18:54 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png 置信度：0.9684818387031555
+2025-07-23 19:18:54 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\loc_newsstand.png 置信度：0.9806563258171082
+2025-07-23 19:18:56 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.96181720495224
+2025-07-23 19:18:57 [DEBUG] 正在返回菜单
+2025-07-23 19:18:57 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:18:59 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:19:01 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:19:03 [TRACE] 现在处于大厅
+2025-07-23 19:19:07 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:07 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:08 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:09 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:09 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:10 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:10 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:11 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:12 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_sleep.png
+2025-07-23 19:19:12 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:12 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:13 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:13 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:14 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:15 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:15 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:16 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:16 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake.png
+2025-07-23 19:19:16 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:17 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:18 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:18 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:19 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:20 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:20 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:21 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:21 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\dog_wake_2.png
+2025-07-23 19:19:21 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lottery.png 置信度：0.9977379441261292
+2025-07-23 19:19:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lottery_2.png 置信度：0.9916616678237915
+2025-07-23 19:19:28 [DEBUG] 正在返回菜单
+2025-07-23 19:19:28 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:19:30 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:19:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 19:19:34 [TRACE] 现在处于主菜单
+2025-07-23 19:19:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999997615814209
+2025-07-23 19:19:35 [ERROR] list index out of range
+2025-07-23 19:19:35 [INFO] 电量剩余：89
+2025-07-23 19:19:35 [SUCCESS] <--------每日任务结束-------->
+2025-07-23 19:19:35 [DEBUG] 游戏在30秒后关闭
+2025-07-23 19:20:05 [WARNING] 程序已经结束，按回车键退出(Enter)

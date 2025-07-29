@@ -1,0 +1,87 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765881896018982
+【目标出现】images/daily.png 置信度是：0.9965629577636719
+【1】等待目标中 images/daily_reward.png
+【2】等待目标中 images/daily_reward.png
+【3】等待目标中 images/daily_reward.png
+【4】等待目标中 images/daily_reward.png
+【5】等待目标中 images/daily_reward.png
+【6】等待目标中 images/daily_reward.png
+【7】等待目标中 images/daily_reward.png
+【8】等待目标中 images/daily_reward.png
+【跳过】images/daily_reward.png
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【跳过】images/confirm.png
+【目标出现】images/weekly_reward.png 置信度是：0.9983760118484497
+【1】等待目标中 images/weekly_reward_2.png
+【2】等待目标中 images/weekly_reward_2.png
+【3】等待目标中 images/weekly_reward_2.png
+【4】等待目标中 images/weekly_reward_2.png
+【5】等待目标中 images/weekly_reward_2.png
+【6】等待目标中 images/weekly_reward_2.png
+【7】等待目标中 images/weekly_reward_2.png
+【8】等待目标中 images/weekly_reward_2.png
+【9】等待目标中 images/weekly_reward_2.png
+【10】等待目标中 images/weekly_reward_2.png
+【11】等待目标中 images/weekly_reward_2.png
+【12】等待目标中 images/weekly_reward_2.png
+【13】等待目标中 images/weekly_reward_2.png
+【14】等待目标中 images/weekly_reward_2.png
+【15】等待目标中 images/weekly_reward_2.png
+【16】等待目标中 images/weekly_reward_2.png
+【17】等待目标中 images/weekly_reward_2.png
+【18】等待目标中 images/weekly_reward_2.png
+【19】等待目标中 images/weekly_reward_2.png
+【20】等待目标中 images/weekly_reward_2.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 718, in run
+    reward()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 384, in reward
+    menu('leave')    #每日奖励
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 184, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 718, in run
+    reward()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 384, in reward
+    menu('leave')    #每日奖励
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 184, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 737, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 734, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

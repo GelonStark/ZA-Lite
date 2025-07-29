@@ -1,0 +1,41 @@
+2025-07-05 22:58:27 [WARNING] <有可用的更新！ <1.0.4> ，前往更新器获取>
+2025-07-05 22:58:32 [DEBUG] <权限检查通过>
+2025-07-05 22:58:33 [DEBUG] <初始化完毕..ZA开始任务>
+2025-07-05 22:58:35 [DEBUG] <发现已存在的游戏窗口>
+2025-07-05 22:58:38 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-05 22:58:38 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-05 22:58:40 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-05 22:58:42 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-05 22:58:44 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-05 22:58:46 [TRACE] <【现在处于主菜单】>
+2025-07-05 22:58:47 [TRACE] <【1】等待目标中 images/battery.png>
+2025-07-05 22:58:47 [TRACE] <【2】等待目标中 images/battery.png>
+2025-07-05 22:58:48 [TRACE] <【3】等待目标中 images/battery.png>
+2025-07-05 22:58:48 [TRACE] <【4】等待目标中 images/battery.png>
+2025-07-05 22:58:49 [TRACE] <【5】等待目标中 images/battery.png>
+2025-07-05 22:58:50 [TRACE] <【6】等待目标中 images/battery.png>
+2025-07-05 22:58:50 [TRACE] <【7】等待目标中 images/battery.png>
+2025-07-05 22:58:51 [TRACE] <【8】等待目标中 images/battery.png>
+2025-07-05 22:58:51 [TRACE] <【9】等待目标中 images/battery.png>
+2025-07-05 22:58:52 [TRACE] <【10】等待目标中 images/battery.png>
+2025-07-05 22:58:53 [TRACE] <【11】等待目标中 images/battery.png>
+2025-07-05 22:58:53 [TRACE] <【12】等待目标中 images/battery.png>
+2025-07-05 22:58:54 [TRACE] <【13】等待目标中 images/battery.png>
+2025-07-05 22:58:54 [TRACE] <【14】等待目标中 images/battery.png>
+2025-07-05 22:58:55 [TRACE] <【15】等待目标中 images/battery.png>
+2025-07-05 22:58:55 [TRACE] <【16】等待目标中 images/battery.png>
+2025-07-05 22:58:56 [TRACE] <【17】等待目标中 images/battery.png>
+2025-07-05 22:58:57 [TRACE] <【18】等待目标中 images/battery.png>
+2025-07-05 22:58:57 [TRACE] <【19】等待目标中 images/battery.png>
+2025-07-05 22:58:58 [TRACE] <【20】等待目标中 images/battery.png>
+2025-07-05 22:58:58 [ERROR] <--------等待超时,开始重试-------->
+2025-07-05 22:58:58 [ERROR] <----------------未知错误-------------------->
+2025-07-05 22:58:58 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 824, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 248, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+    ^^^
+TypeError: cannot unpack non-iterable NoneType object
+>
+2025-07-05 22:58:58 [WARNING] <程序已经结束，按回车键退出(Enter)>

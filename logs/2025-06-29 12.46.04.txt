@@ -1,0 +1,19 @@
+【发现已存在的游戏窗口】
+【正在返回菜单】 请保持游戏画面处于前台 [1]【正在返回菜单】 请保持游戏画面处于前台 [2]【正在返回菜单】 请保持游戏画面处于前台 [3]
+【现在处于主菜单】
+【目标出现】 battery (confidence:1.0)
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：318 
+任务开始，执行 5 次循环
+【现在处于主菜单】
+【目标出现】 lobby (confidence:0.9999196529388428)
+【目标出现】 tactics (confidence:0.9766026139259338)
+【目标出现】 combat (confidence:0.9763113260269165)
+【目标出现】 go (confidence:0.9890551567077637)
+【目标出现】 hunt_6 (confidence:0.9999996423721313)
+【等待目标中】 confirm [1]
+【目标出现】 confirm (confidence:0.983942985534668)
+【等待目标中】 hunt_off [1]【等待目标中】 hunt_off [2]【等待目标中】 hunt_off [3]【等待目标中】 hunt_off [4]
+【目标出现】 hunt_off (confidence:1.0)
+【目标出现】 confirm (confidence:0.9839574098587036)
+【目标出现】 level (confidence:0.9822465181350708)

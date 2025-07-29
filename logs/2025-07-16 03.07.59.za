@@ -1,0 +1,118 @@
+2025-07-16 03:08:03 [INFO] 【零号空洞】现在执行 1 次
+2025-07-16 03:08:03 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-16 03:08:05 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-16 03:08:05 [DEBUG] 【线程启动】Obj_Sea
+2025-07-16 03:08:05 [DEBUG] 【线程启动】GLo_liS
+2025-07-16 03:08:05 [DEBUG] 【线程启动】HoL_Bat
+2025-07-16 03:08:05 [DEBUG] 【线程启动】Atk_dEt
+2025-07-16 03:08:05 [DEBUG] 【线程启动】Ter_liS
+2025-07-16 03:08:05 [DEBUG] 发现已存在的游戏窗口
+2025-07-16 03:08:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:10 [INFO] 【退出战斗返回菜单】
+2025-07-16 03:08:10 [TRACE] 【目标出现】images/quit_battle.png 置信度：0.9938648343086243
+2025-07-16 03:08:11 [TRACE] 【目标出现】images/confirm.png 置信度：0.9839509725570679
+2025-07-16 03:08:12 [TRACE] 【1】等待目标中 images/quit.png
+2025-07-16 03:08:13 [TRACE] 【2】等待目标中 images/quit.png
+2025-07-16 03:08:14 [TRACE] 【3】等待目标中 images/quit.png
+2025-07-16 03:08:14 [TRACE] 【4】等待目标中 images/quit.png
+2025-07-16 03:08:15 [TRACE] 【5】等待目标中 images/quit.png
+2025-07-16 03:08:15 [TRACE] 【6】等待目标中 images/quit.png
+2025-07-16 03:08:16 [TRACE] 【7】等待目标中 images/quit.png
+2025-07-16 03:08:16 [TRACE] 【8】等待目标中 images/quit.png
+2025-07-16 03:08:17 [TRACE] 【跳过】images/quit.png
+2025-07-16 03:08:17 [TRACE] 【目标出现】images/hollow/mission_completed.png 置信度：0.9999996423721313
+2025-07-16 03:08:18 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:20 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:24 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:26 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:28 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:30 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:08:32 [INFO] 【现在处于主菜单】
+2025-07-16 03:08:34 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-16 03:08:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png 置信度：0.9762977957725525
+2025-07-16 03:08:36 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png 置信度：0.9999998807907104
+2025-07-16 03:08:37 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/go_hollow.png 置信度：0.9945209622383118
+2025-07-16 03:08:38 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/confirm.png 置信度：0.9839553833007812
+2025-07-16 03:08:39 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-16 03:08:40 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-16 03:08:41 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-16 03:08:41 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png 置信度：0.9999920725822449
+2025-07-16 03:08:42 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy.png 置信度：0.9999997019767761
+2025-07-16 03:08:43 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-16 03:08:44 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png 置信度：1.0
+2025-07-16 03:08:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_step.png 置信度：0.9855967164039612
+2025-07-16 03:08:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/start_battle.png 置信度：0.9774268269538879
+2025-07-16 03:08:48 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-16 03:08:48 [INFO] 执行零号空洞任务中
+2025-07-16 03:08:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:50 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-16 03:08:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:51 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-16 03:08:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:53 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-16 03:08:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:55 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-16 03:08:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:57 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-16 03:08:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:08:59 [TRACE] 【全局监听】无任何模板已持续：11秒
+2025-07-16 03:08:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:01 [TRACE] 【全局监听】无任何模板已持续：13秒
+2025-07-16 03:09:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:03 [TRACE] 【全局监听】无任何模板已持续：15秒
+2025-07-16 03:09:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:06 [TRACE] 【全局监听】无任何模板已持续：17秒
+2025-07-16 03:09:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:08 [TRACE] 【全局监听】无任何模板已持续：19秒
+2025-07-16 03:09:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-16 03:09:10 [TRACE] 【全局监听】无任何模板已持续：21秒
+2025-07-16 03:09:10 [WARNING] 空洞任务失败，跳过本轮
+2025-07-16 03:09:10 [SUCCESS] 本轮耗时:0分钟
+2025-07-16 03:09:10 [SUCCESS] 完成空洞 0 次 
+2025-07-16 03:09:10 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:09:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:09:14 [INFO] 【退出战斗返回菜单】
+2025-07-16 03:09:14 [TRACE] 【目标出现】images/quit_battle.png 置信度：0.9938615560531616
+2025-07-16 03:09:15 [TRACE] 【目标出现】images/confirm.png 置信度：0.9839486479759216
+2025-07-16 03:09:16 [TRACE] 【1】等待目标中 images/quit.png
+2025-07-16 03:09:17 [TRACE] 【2】等待目标中 images/quit.png
+2025-07-16 03:09:18 [TRACE] 【3】等待目标中 images/quit.png
+2025-07-16 03:09:18 [TRACE] 【4】等待目标中 images/quit.png
+2025-07-16 03:09:19 [TRACE] 【5】等待目标中 images/quit.png
+2025-07-16 03:09:19 [TRACE] 【6】等待目标中 images/quit.png
+2025-07-16 03:09:20 [TRACE] 【7】等待目标中 images/quit.png
+2025-07-16 03:09:20 [TRACE] 【8】等待目标中 images/quit.png
+2025-07-16 03:09:21 [TRACE] 【跳过】images/quit.png
+2025-07-16 03:09:21 [TRACE] 【目标出现】images/hollow/mission_completed.png 置信度：0.9999996423721313
+2025-07-16 03:09:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 03:09:24 [TRACE] 正在返回菜单,请保持游戏画面处于前台

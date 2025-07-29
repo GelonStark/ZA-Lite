@@ -1,0 +1,9 @@
+2025-07-23 14:39:56 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 14:39:57 [ERROR] 每日任务发生未知错误
+2025-07-23 14:39:57 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 598, in start_daily
+    time.sleep(2)
+    ~~~~~~~~~~^^^
+KeyboardInterrupt
+
+2025-07-23 14:39:57 [WARNING] 程序已经结束，按回车键退出(Enter)

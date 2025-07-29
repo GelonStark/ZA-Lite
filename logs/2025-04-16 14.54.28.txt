@@ -1,0 +1,25 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：101 
+任务开始，执行 1 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999999403953552
+【目标出现】images/tactics.png 置信度是：0.9978103041648865
+【目标出现】images/train.png 置信度是：0.9961403608322144
+【目标出现】images/go.png 置信度是：0.9988223910331726
+【目标出现】images/confirm.png 置信度是：0.9999999403953552
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9947903156280518
+【目标出现】images/upgrade_custom.png 置信度是：0.9990336298942566
+【目标出现】images/custom_3.png 置信度是：1.0
+【目标出现】images/level.png 置信度是：0.9999997019767761
+【目标出现】images/level.png 置信度是：0.9999292492866516
+【目标出现】images/next_step.png 置信度是：0.9872258901596069
+【目标出现】images/squad_preset.png 置信度是：0.9999947547912598
+【目标出现】images/squad_6.png 置信度是：0.9691162705421448
+【目标出现】images/select_squad.png 置信度是：0.9907386302947998
+【目标出现】images/start_battle.png 置信度是：0.983223557472229
+正在战斗中

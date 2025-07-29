@@ -1,0 +1,32 @@
+2025-07-23 15:16:27 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 15:16:29 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 15:16:33 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 15:16:33 [DEBUG] 正在返回菜单
+2025-07-23 15:16:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:16:35 [TRACE] 现在处于大厅
+2025-07-23 15:16:36 [INFO] 正在喝咖啡..
+2025-07-23 15:16:36 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999194741249084
+2025-07-23 15:16:37 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png 置信度：0.9999668002128601
+2025-07-23 15:16:42 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png
+2025-07-23 15:16:43 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png 置信度：0.9586281776428223
+2025-07-23 15:16:43 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\loc_cafe.png 置信度：0.99245685338974
+2025-07-23 15:16:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.961817741394043
+2025-07-23 15:16:46 [DEBUG] 正在返回菜单
+2025-07-23 15:16:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:16:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:16:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:16:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:16:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:16:55 [TRACE] 现在处于大厅
+2025-07-23 15:16:56 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 15:16:59 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\order.png 置信度：0.9998438954353333
+2025-07-23 15:17:00 [DEBUG] 正在返回菜单
+2025-07-23 15:17:01 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:03 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:10 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:14 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:17:16 [TRACE] 正在返回菜单,请保持游戏画面处于前台

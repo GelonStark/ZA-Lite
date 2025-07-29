@@ -1,0 +1,60 @@
+2025-07-24 20:25:59 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-24 20:26:04 [DEBUG] 权限检查通过
+2025-07-24 20:26:05 [INFO] 现在执行 1 次零号空洞
+2025-07-24 20:26:05 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-24 20:26:05 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 20:26:11 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 20:26:11 [TRACE] 【线程启动】空洞搜索
+2025-07-24 20:26:11 [TRACE] 【线程启动】空洞监听
+2025-07-24 20:26:11 [TRACE] 【线程启动】空洞战斗
+2025-07-24 20:26:11 [DEBUG] 正在返回菜单
+2025-07-24 20:26:11 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:13 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:15 [TRACE] 现在处于大厅
+2025-07-24 20:26:16 [INFO] 执行零号空洞任务中
+2025-07-24 20:26:16 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\ZA-Lite\tasks\hollow.py", line 358, in start_hollow
+    click(rpaih.file("combat.png"))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\ZA-Lite\utils\match_template.py", line 77, in click
+    match_tpl(tpl,'click',skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\ZA-Lite\utils\match_template.py", line 21, in match_tpl
+    template = cv2.imread(tpl)  # 读取模板
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\gelon\\Desktop\\ZA-Lite\\images/hollow\\combat.png'
+
+2025-07-24 20:26:16 [ERROR] <--------空洞任务发生未知错误-------->
+2025-07-24 20:26:16 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-24 20:26:18 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 20:26:22 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 20:26:22 [DEBUG] 正在返回菜单
+2025-07-24 20:26:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:24 [TRACE] 现在处于大厅
+2025-07-24 20:26:25 [INFO] 正在喝咖啡..
+2025-07-24 20:26:25 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:26:26 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\old_guide.png 置信度：0.9981213212013245
+2025-07-24 20:26:31 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png
+2025-07-24 20:26:31 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png 置信度：0.9767545461654663
+2025-07-24 20:26:32 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\loc_cafe.png 置信度：0.9994127154350281
+2025-07-24 20:26:33 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9618179202079773
+2025-07-24 20:26:35 [DEBUG] 正在返回菜单
+2025-07-24 20:26:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:45 [TRACE] 现在处于大厅
+2025-07-24 20:26:46 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:26:49 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\order.png 置信度：0.9998441934585571
+2025-07-24 20:26:50 [DEBUG] 正在返回菜单
+2025-07-24 20:26:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:26:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:27:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:27:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:27:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台

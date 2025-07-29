@@ -1,0 +1,17 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度是：0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：53 
+任务开始，执行 0.53 次循环
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 725, in run
+    for _ in range(cycle):
+             ~~~~~^^^^^^^
+TypeError: 'float' object cannot be interpreted as an integer
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+Traceback (most recent call last):
+Exception ignored in atexit callback <function reset_all at 0x0000012C4C201800>Exception ignored in sys.unraisablehook

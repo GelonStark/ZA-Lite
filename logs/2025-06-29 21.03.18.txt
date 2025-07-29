@@ -1,0 +1,92 @@
+[90m2025-06-29 21:03:18[0m [[34m[1mDEBUG[0m] <[34m[1m³õÊ¼»¯Íê±Ï..ZenlessZoneZero Automation¿ªÊ¼ÈÎÎñ[0m>
+[90m2025-06-29 21:03:20[0m [[31m[1mERROR[0m] <[31m[1mÓĞ¿ÉÓÃµÄ¸üĞÂ£¡ <1.0.4>£¬Ç°Íù¸üĞÂÆ÷»ñÈ¡[0m>
+¡¾Æô¶¯ÓÎÏ·¡¿ D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+[90m2025-06-29 21:03:28[0m [[34m[1mDEBUG[0m] <[34m[1mÀ­ÆğÓÎÏ·´°¿Ú[0m>
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃĞÅ¶ÈÊÇ£º0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+[92m¡¾Ê£ÓàµçÁ¿:318¡¿[0m
+---------ÈÎÎñ½áÊø-----------
+--- Logging error in Loguru Handler #1 ---
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Python\Lib\site-packages\loguru\_handler.py", line 206, in emit
+    self._sink.write(str_record)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\loguru\_simple_sinks.py", line 16, in write
+    self._stream.write(message)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 633, in write
+    self.file.write(text)
+    ~~~~~~~~~~~~~~~^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2705' in position 53: illegal multibyte sequence
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Python\Lib\site-packages\loguru\_handler.py", line 206, in emit
+    self._sink.write(str_record)
+  File "C:\Python\Lib\site-packages\loguru\_simple_sinks.py", line 16, in write
+    self._stream.write(message)
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 633, in write
+    self.file.write(text)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2705' in position 53: illegal multibyte sequence
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 776, in run
+      File "C:\Python\Lib\site-packages\loguru\_logger.py", line 2078, in info
+    __self._log("INFO", False, __self._options, __message, args, kwargs)
+  File "C:\Python\Lib\site-packages\loguru\_logger.py", line 2066, in _log
+    handler.emit(log_record, level_id, from_decorator, raw, colored_message)
+  File "C:\Python\Lib\site-packages\loguru\_handler.py", line 210, in emit
+    self._error_interceptor.print(record)
+  File "C:\Python\Lib\site-packages\loguru\_error_interceptor.py", line 28, in print
+    sys.stderr.write("Record was: %s\n" % record_repr)
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 633, in write
+    self.file.write(text)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2139' in position 279: illegal multibyte sequence
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 785, in <module>
+    run()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 781, in run
+    print(traceback.format_exc())
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 633, in write
+    self.file.write(text)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2705' in position 821: illegal multibyte sequence

@@ -1,0 +1,48 @@
+2025-07-14 13:46:55 [DEBUG] 【线程启动】Obj_Sea
+2025-07-14 13:46:56 [DEBUG] 【线程启动】GLo_liS
+2025-07-14 13:46:56 [DEBUG] 【线程启动】HoL_Bat
+2025-07-14 13:46:58 [DEBUG] 【线程启动】Atk_dEt
+2025-07-14 13:46:59 [DEBUG] 【线程启动】Ter_liS
+2025-07-14 13:47:00 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-14 13:47:02 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-14 13:47:02 [DEBUG] 发现已存在的游戏窗口
+2025-07-14 13:47:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:47:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:47:10 [TRACE] 【现在处于主菜单】
+2025-07-14 13:47:11 [TRACE] 【1】等待目标中 images/combat.png
+2025-07-14 13:47:12 [TRACE] 【目标出现】images/combat.png 置信度：0.9763108491897583
+2025-07-14 13:47:13 [TRACE] 【目标出现】images/zero_hollow.png 置信度：0.9999999403953552
+2025-07-14 13:47:14 [TRACE] 【目标出现】images/go_hollow.png 置信度：0.9941238760948181
+2025-07-14 13:47:16 [TRACE] 【目标出现】images/confirm.png 置信度：0.9839574694633484
+2025-07-14 13:47:17 [TRACE] 【1】等待目标中 images/hollow_special.png
+2025-07-14 13:47:18 [TRACE] 【2】等待目标中 images/hollow_special.png
+2025-07-14 13:47:18 [TRACE] 【3】等待目标中 images/hollow_special.png
+2025-07-14 13:47:19 [TRACE] 【目标出现】images/hollow_special.png 置信度：0.9997463226318359
+2025-07-14 13:47:20 [TRACE] 【1】等待目标中 images/next_step.png
+2025-07-14 13:47:21 [TRACE] 【目标出现】images/next_step.png 置信度：0.9753462672233582
+2025-07-14 13:47:22 [TRACE] 【1】等待目标中 images/start_battle.png
+2025-07-14 13:47:22 [TRACE] 【2】等待目标中 images/start_battle.png
+2025-07-14 13:47:23 [TRACE] 【3】等待目标中 images/start_battle.png
+2025-07-14 13:47:24 [TRACE] 【4】等待目标中 images/start_battle.png
+2025-07-14 13:47:24 [TRACE] 【5】等待目标中 images/start_battle.png
+2025-07-14 13:47:25 [TRACE] 【6】等待目标中 images/start_battle.png
+2025-07-14 13:47:25 [TRACE] 【7】等待目标中 images/start_battle.png
+2025-07-14 13:47:26 [TRACE] 【8】等待目标中 images/start_battle.png
+2025-07-14 13:47:26 [TRACE] 【9】等待目标中 images/start_battle.png
+2025-07-14 13:47:27 [TRACE] 【10】等待目标中 images/start_battle.png
+2025-07-14 13:47:28 [TRACE] 【11】等待目标中 images/start_battle.png
+2025-07-14 13:47:28 [TRACE] 【12】等待目标中 images/start_battle.png
+2025-07-14 13:47:29 [TRACE] 【13】等待目标中 images/start_battle.png
+2025-07-14 13:47:29 [TRACE] 【14】等待目标中 images/start_battle.png
+2025-07-14 13:47:30 [TRACE] 【15】等待目标中 images/start_battle.png
+2025-07-14 13:47:30 [TRACE] 【16】等待目标中 images/start_battle.png
+2025-07-14 13:47:31 [TRACE] 【17】等待目标中 images/start_battle.png
+2025-07-14 13:47:32 [TRACE] 【18】等待目标中 images/start_battle.png
+2025-07-14 13:47:32 [TRACE] 【19】等待目标中 images/start_battle.png
+2025-07-14 13:47:33 [TRACE] 【20】等待目标中 images/start_battle.png
+2025-07-14 13:47:33 [ERROR] ----------等待超时,开始重试----------
+2025-07-14 13:47:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:47:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:47:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:47:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:47:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台

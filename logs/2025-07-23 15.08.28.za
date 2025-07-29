@@ -1,0 +1,91 @@
+2025-07-23 15:08:30 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 15:08:32 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 15:08:36 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 15:08:36 [DEBUG] 正在返回菜单
+2025-07-23 15:08:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:08:38 [TRACE] 现在处于大厅
+2025-07-23 15:08:39 [INFO] 正在喝咖啡..
+2025-07-23 15:08:39 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 15:08:40 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png 置信度：0.9999695420265198
+2025-07-23 15:08:45 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png
+2025-07-23 15:08:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png 置信度：0.971676766872406
+2025-07-23 15:08:46 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\loc_cafe.png 置信度：0.9993337988853455
+2025-07-23 15:08:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.9618179202079773
+2025-07-23 15:08:49 [DEBUG] 正在返回菜单
+2025-07-23 15:08:49 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:08:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:08:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:08:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:08:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:08:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:04 [TRACE] 现在处于大厅
+2025-07-23 15:09:04 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 15:09:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\order.png 置信度：0.9998438954353333
+2025-07-23 15:09:09 [DEBUG] 正在返回菜单
+2025-07-23 15:09:09 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:11 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:13 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:15 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:17 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:21 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:24 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:26 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:28 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:30 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:38 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:40 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:45 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:47 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:49 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:09:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:10 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:11 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:13 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:15 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:17 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 15:10:19 [ERROR] screen grab failed
+2025-07-23 15:10:19 [ERROR] 无法获取电量信息
+2025-07-23 15:10:19 [DEBUG] 正在返回菜单
+2025-07-23 15:10:19 [ERROR] 每日任务发生未知错误
+2025-07-23 15:10:19 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 604, in start_daily
+    coffee()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 241, in coffee
+    menu('leave')
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 43, in menu
+    result = cv2.matchTemplate(screenshot("gray"), template_gray, cv2.TM_CCOEFF_NORMED)
+                               ~~~~~~~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\features\screenshot.py", line 10, in screenshot
+    ss = pyautogui.screenshot()  # 屏幕截图
+  File "C:\Python\Lib\site-packages\pyscreeze\__init__.py", line 538, in _screenshot_win32
+    im = ImageGrab.grab(all_screens=allScreens)
+  File "C:\Python\Lib\site-packages\PIL\ImageGrab.py", line 54, in grab
+    offset, size, data = Image.core.grabscreen_win32(
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        include_layered_windows, all_screens
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+OSError: screen grab failed
+
+2025-07-23 15:10:19 [WARNING] 程序已经结束，按回车键退出(Enter)

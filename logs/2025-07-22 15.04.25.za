@@ -1,0 +1,15 @@
+2025-07-22 15:04:25 [ERROR] -----------------未知错误---------------------
+2025-07-22 15:04:25 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\task\daily.py", line 747, in <module>
+    with open('config/config.json','r') as f:      #读取config.json配置文件
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config/config.json'
+
+2025-07-22 15:04:25 [ERROR] 每日任务发生未知错误
+2025-07-22 15:04:25 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\task\daily.py", line 811, in start_daily
+    if not thread_termination.is_alive(): #检查线程是否已经启动
+           ^^^^^^^^^^^^^^^^^^
+NameError: name 'thread_termination' is not defined
+
+2025-07-22 15:04:25 [WARNING] 程序已经结束，按回车键退出(Enter)

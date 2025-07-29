@@ -1,0 +1,33 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：308 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999997615814209
+【目标出现】images/tactics.png 置信度是：0.9978112578392029
+【目标出现】images/train.png 置信度是：0.9961415529251099
+【1】等待目标中 images/go.png
+【2】等待目标中 images/go.png
+【3】等待目标中 images/go.png
+【4】等待目标中 images/go.png
+【5】等待目标中 images/go.png
+【6】等待目标中 images/go.png
+【7】等待目标中 images/go.png
+【8】等待目标中 images/go.png
+【9】等待目标中 images/go.png
+【10】等待目标中 images/go.png
+【11】等待目标中 images/go.png
+【12】等待目标中 images/go.png
+【13】等待目标中 images/go.png
+【14】等待目标中 images/go.png
+【15】等待目标中 images/go.png
+【16】等待目标中 images/go.png
+【17】等待目标中 images/go.png
+【18】等待目标中 images/go.png
+【19】等待目标中 images/go.png
+【20】等待目标中 images/go.png
+--------等待超时,开始重试--------
+【重试超时】任务在某一步失败，请检查日志
+按回车键退出(Enter)

@@ -1,0 +1,11 @@
+2025-06-30 21:58:03 [ERROR] <----------------未知错误-------------------->
+2025-06-30 21:58:03 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 760, in run
+    update()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 396, in update
+    logger.warning(f"有可用的更新！ <{CheckUpdate().need_update()[1]}>，前往更新器获取")
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+TypeError: 'NoneType' object is not subscriptable
+>
+2025-06-30 21:58:03 [WARNING] <程序已经结束，按回车键退出(Enter)>

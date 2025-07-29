@@ -1,0 +1,166 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：308 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/tactics.png 置信度是：0.9978104829788208
+【目标出现】images/train.png 置信度是：0.9961419701576233
+【目标出现】images/go.png 置信度是：0.9999998807907104
+【目标出现】images/confirm.png 置信度是：0.9999997019767761
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【4】等待目标中 images/return.png
+【5】等待目标中 images/return.png
+【6】等待目标中 images/return.png
+【7】等待目标中 images/return.png
+【8】等待目标中 images/return.png
+【9】等待目标中 images/return.png
+【10】等待目标中 images/return.png
+【11】等待目标中 images/return.png
+【12】等待目标中 images/return.png
+【13】等待目标中 images/return.png
+【14】等待目标中 images/return.png
+【15】等待目标中 images/return.png
+【16】等待目标中 images/return.png
+【17】等待目标中 images/return.png
+【18】等待目标中 images/return.png
+【19】等待目标中 images/return.png
+【20】等待目标中 images/return.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：308 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999999403953552
+【1】等待目标中 images/tactics.png
+【2】等待目标中 images/tactics.png
+【3】等待目标中 images/tactics.png
+【4】等待目标中 images/tactics.png
+【5】等待目标中 images/tactics.png
+【6】等待目标中 images/tactics.png
+【目标出现】images/tactics.png 置信度是：0.9975784420967102
+【目标出现】images/train.png 置信度是：0.9961424469947815
+【1】等待目标中 images/go.png
+【2】等待目标中 images/go.png
+【3】等待目标中 images/go.png
+【4】等待目标中 images/go.png
+【5】等待目标中 images/go.png
+【6】等待目标中 images/go.png
+【7】等待目标中 images/go.png
+【8】等待目标中 images/go.png
+【9】等待目标中 images/go.png
+【10】等待目标中 images/go.png
+【11】等待目标中 images/go.png
+【12】等待目标中 images/go.png
+【13】等待目标中 images/go.png
+【14】等待目标中 images/go.png
+【15】等待目标中 images/go.png
+【16】等待目标中 images/go.png
+【17】等待目标中 images/go.png
+【18】等待目标中 images/go.png
+【19】等待目标中 images/go.png
+【20】等待目标中 images/go.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：308 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/tactics.png 置信度是：0.9978112578392029
+【1】等待目标中 images/train.png
+【2】等待目标中 images/train.png
+【3】等待目标中 images/train.png
+【4】等待目标中 images/train.png
+【5】等待目标中 images/train.png
+【6】等待目标中 images/train.png
+【7】等待目标中 images/train.png
+【8】等待目标中 images/train.png
+【9】等待目标中 images/train.png
+【10】等待目标中 images/train.png
+【11】等待目标中 images/train.png
+【12】等待目标中 images/train.png
+【13】等待目标中 images/train.png
+【14】等待目标中 images/train.png
+【15】等待目标中 images/train.png
+【16】等待目标中 images/train.png
+【17】等待目标中 images/train.png
+【18】等待目标中 images/train.png
+【19】等待目标中 images/train.png
+【20】等待目标中 images/train.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：308 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/tactics.png 置信度是：0.9978104829788208
+【目标出现】images/train.png 置信度是：0.9961419701576233
+【目标出现】images/go.png 置信度是：0.9999997615814209
+【目标出现】images/confirm.png 置信度是：0.9999995827674866
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9957857728004456
+【目标出现】images/upgrade_custom.png 置信度是：0.99923175573349
+【目标出现】images/custom_2.png 置信度是：0.9999999403953552
+【目标出现】images/level.png 置信度是：0.9967607855796814
+【目标出现】images/level.png 置信度是：0.9967606067657471
+【目标出现】images/next_step.png 置信度是：0.9901068210601807
+【目标出现】images/squad_preset.png 置信度是：0.9999996423721313
+【1】等待目标中 images/squad_4.png
+【2】等待目标中 images/squad_4.png
+【3】等待目标中 images/squad_4.png
+【4】等待目标中 images/squad_4.png
+【5】等待目标中 images/squad_4.png
+【6】等待目标中 images/squad_4.png
+【7】等待目标中 images/squad_4.png
+【8】等待目标中 images/squad_4.png
+【9】等待目标中 images/squad_4.png
+【10】等待目标中 images/squad_4.png
+【11】等待目标中 images/squad_4.png
+【12】等待目标中 images/squad_4.png
+【13】等待目标中 images/squad_4.png
+【14】等待目标中 images/squad_4.png
+【15】等待目标中 images/squad_4.png
+【16】等待目标中 images/squad_4.png
+【17】等待目标中 images/squad_4.png
+【18】等待目标中 images/squad_4.png
+【19】等待目标中 images/squad_4.png
+【20】等待目标中 images/squad_4.png
+--------等待超时,开始重试--------
+【重试超时】任务在某一步失败，请检查日志
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 696, in run
+    os.rename(f"{timestamp_instance.timestamp}.txt", f'【超时】{timestamp_instance.timestamp}.txt')
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。: '2025-04-26 16.06.11.txt' -> '【超时】2025-04-26 16.06.11.txt'
+
+Exception:主线程出错
+按回车键退出(Enter)

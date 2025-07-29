@@ -1,0 +1,115 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：73 
+任务开始，执行 1 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.976586103439331
+【目标出现】images/combat.png 置信度是：0.9762909412384033
+【目标出现】images/go.png 置信度是：0.9890544414520264
+【1】等待目标中 images/hunt_3.png
+【2】等待目标中 images/hunt_3.png
+【目标出现】images/hunt_3.png 置信度是：0.948497474193573
+【1】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.9839539527893066
+【1】等待目标中 images/hunt_off.png
+【2】等待目标中 images/hunt_off.png
+【3】等待目标中 images/hunt_off.png
+【4】等待目标中 images/hunt_off.png
+【5】等待目标中 images/hunt_off.png
+【6】等待目标中 images/hunt_off.png
+【7】等待目标中 images/hunt_off.png
+【8】等待目标中 images/hunt_off.png
+【跳过】images/hunt_off.png
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【跳过】images/confirm.png
+【目标出现】images/level.png 置信度是：0.9822440147399902
+【目标出现】images/level.png 置信度是：0.9822440147399902
+【目标出现】images/next_step.png 置信度是：0.9801375865936279
+【目标出现】images/squad_preset.png 置信度是：0.9861959218978882
+【目标出现】images/squad_6.png 置信度是：0.9701097011566162
+【目标出现】images/select_squad.png 置信度是：0.9704422354698181
+【目标出现】images/start_battle.png 置信度是：0.9762694835662842
+【目标检测】ALIGNED！0.9297223091125488
+【目标出现】images/select.png 置信度是：0.9996991753578186
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+正在战斗中
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+正在战斗中
+False
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+True
+正在战斗中
+True
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+True
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+False
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+False
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中

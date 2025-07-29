@@ -1,0 +1,63 @@
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Python\Lib\site-packages\loguru\_logger.py", line 953, in add
+    formatter = Colorizer.prepare_format(format + terminator + "{exception}")
+  File "C:\Python\Lib\site-packages\loguru\_colorizer.py", line 367, in prepare_format
+    tokens, messages_color_tokens = Colorizer._parse_without_formatting(string)
+                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Python\Lib\site-packages\loguru\_colorizer.py", line 481, in _parse_without_formatting
+    return parser.done(), messages_color_tokens
+           ~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\loguru\_colorizer.py", line 277, in done
+    raise ValueError('Opening tag "<%s>" has no corresponding closing tag' % faulty_tag)
+ValueError: Opening tag "<level>" has no corresponding closing tag
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 730, in run
+    logger.add(sink=sys.stdout,format="<light-black>{time:YYYY-MM-DD HH:mm:ss}</light-black> <level>{level}</level> <level>{message}<level>",colorize=True)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\loguru\_logger.py", line 955, in add
+    raise ValueError(
+        "Invalid format, color markups could not be parsed correctly"
+    ) from e
+ValueError: Invalid format, color markups could not be parsed correctly
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Python\Lib\site-packages\loguru\_logger.py", line 953, in add
+    formatter = Colorizer.prepare_format(format + terminator + "{exception}")
+  File "C:\Python\Lib\site-packages\loguru\_colorizer.py", line 367, in prepare_format
+    tokens, messages_color_tokens = Colorizer._parse_without_formatting(string)
+                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Python\Lib\site-packages\loguru\_colorizer.py", line 481, in _parse_without_formatting
+    return parser.done(), messages_color_tokens
+           ~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\loguru\_colorizer.py", line 277, in done
+    raise ValueError('Opening tag "<%s>" has no corresponding closing tag' % faulty_tag)
+ValueError: Opening tag "<level>" has no corresponding closing tag
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 730, in run
+    logger.add(sink=sys.stdout,format="<light-black>{time:YYYY-MM-DD HH:mm:ss}</light-black> <level>{level}</level> <level>{message}<level>",colorize=True)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\loguru\_logger.py", line 955, in add
+    raise ValueError(
+        "Invalid format, color markups could not be parsed correctly"
+    ) from e
+ValueError: Invalid format, color markups could not be parsed correctly
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 772, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 769, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

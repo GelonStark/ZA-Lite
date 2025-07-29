@@ -1,0 +1,12 @@
+2025-07-22 15:54:14 [TRACE] 【线程启动】Ter_liS
+2025-07-22 15:54:14 [TRACE] 【线程启动】ATt_dEt
+2025-07-22 15:54:14 [TRACE] 【线程启动】Glo_Lis
+2025-07-22 15:54:14 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-22 15:54:16 [ERROR] 每日任务发生未知错误
+2025-07-22 15:54:16 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\task\daily.py", line 791, in start_daily
+    getwin()  #启动游戏或激活窗口
+    ~~~~~~^^
+TypeError: 'module' object is not callable
+
+2025-07-22 15:54:16 [WARNING] 程序已经结束，按回车键退出(Enter)

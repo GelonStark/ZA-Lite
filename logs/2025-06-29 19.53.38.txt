@@ -1,0 +1,29 @@
+[90m2025-06-29 19:53:38[0m [[1mINFO[0m] <[1m123[0m>
+[90m2025-06-29 19:53:38[0m [[31m[1mERROR[0m] <[31m[1m321[0m>
+[90m2025-06-29 19:53:38[0m [[41m[1mCRITICAL[0m] <[41m[1m123[0m>
+[90m2025-06-29 19:53:38[0m [[31m[1mERROR[0m] <[31m[1mÓÐ¿ÉÓÃµÄ¸üÐÂ<1.0.4>£¬Ç°Íù¸üÐÂÆ÷»ñÈ¡[0m>
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 740, in run
+    time.sleep(5)
+    ~~~~~~~~~~^^^
+KeyboardInterrupt
+
+Exception:Ö÷Ïß³Ì³ö´í
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 740, in run
+    time.sleep(5)
+    ~~~~~~~~~~^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 779, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 776, in run
+    input('Exception:Ö÷Ïß³Ì³ö´í\n°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

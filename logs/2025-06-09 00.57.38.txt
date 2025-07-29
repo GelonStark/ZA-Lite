@@ -1,0 +1,251 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【1】等待目标中 images/old_guide.png
+【目标出现】images/old_guide.png 置信度是：0.9999942779541016
+【1】等待目标中 images/map_sixcent.png
+【目标出现】images/map_sixcent.png 置信度是：0.9999997615814209
+【目标出现】images/loc_cafe.png 置信度是：0.9999992847442627
+【目标出现】images/confirm.png 置信度是：0.9618194699287415
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【目标出现】images/order.png 置信度是：0.999843955039978
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：101 
+任务开始，执行 1 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【目标出现】images/tactics.png 置信度是：0.9765710830688477
+【目标出现】images/train.png 置信度是：0.97614985704422
+【目标出现】images/sidebar_disc.png 置信度是：0.997666597366333
+【目标出现】images/go.png 置信度是：0.9999023675918579
+【目标出现】images/confirm.png 置信度是：0.9839574098587036
+【1】等待目标中 images/bait_disc.png
+【2】等待目标中 images/bait_disc.png
+【3】等待目标中 images/bait_disc.png
+【4】等待目标中 images/bait_disc.png
+【5】等待目标中 images/bait_disc.png
+【6】等待目标中 images/bait_disc.png
+【7】等待目标中 images/bait_disc.png
+【目标出现】images/bait_disc.png 置信度是：0.9885945320129395
+【1】等待目标中 images/disc_4.png
+【2】等待目标中 images/disc_4.png
+【3】等待目标中 images/disc_4.png
+【目标出现】images/disc_4.png 置信度是：0.9930217266082764
+【目标出现】images/level.png 置信度是：0.9822463989257812
+【目标出现】images/level.png 置信度是：0.9822466373443604
+【目标出现】images/next_step.png 置信度是：0.9827407002449036
+【目标出现】images/squad_preset.png 置信度是：0.9859578013420105
+【目标出现】images/squad_6.png 置信度是：0.9508033990859985
+【目标出现】images/select_squad.png 置信度是：0.9705642461776733
+【目标出现】images/start_battle.png 置信度是：0.9761833548545837
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+-------------------------------战斗结束---------------------------------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999192953109741
+【目标出现】images/tactics.png 置信度是：0.9765939116477966
+【目标出现】images/daily.png 置信度是：0.9965628981590271
+【1】等待目标中 images/daily_reward.png
+【2】等待目标中 images/daily_reward.png
+【3】等待目标中 images/daily_reward.png
+【目标出现】images/daily_reward.png 置信度是：0.9949485063552856
+【目标出现】images/confirm.png 置信度是：0.9618180990219116
+【目标出现】images/weekly_reward.png 置信度是：0.9983784556388855
+【1】等待目标中 images/weekly_reward_2.png
+【2】等待目标中 images/weekly_reward_2.png
+【3】等待目标中 images/weekly_reward_2.png
+【4】等待目标中 images/weekly_reward_2.png
+【5】等待目标中 images/weekly_reward_2.png
+【6】等待目标中 images/weekly_reward_2.png
+【7】等待目标中 images/weekly_reward_2.png
+【8】等待目标中 images/weekly_reward_2.png
+【9】等待目标中 images/weekly_reward_2.png
+【10】等待目标中 images/weekly_reward_2.png
+【11】等待目标中 images/weekly_reward_2.png
+【12】等待目标中 images/weekly_reward_2.png
+【13】等待目标中 images/weekly_reward_2.png
+【14】等待目标中 images/weekly_reward_2.png
+【15】等待目标中 images/weekly_reward_2.png
+【跳过】images/weekly_reward_2.png
+【目标出现】images/weekly_reward_3.png 置信度是：0.994976282119751
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【1】等待目标中 images/monthly_ads.png
+【目标出现】images/monthly_ads.png 置信度是：0.9969537854194641
+【目标出现】images/monthly_task.png 置信度是：0.9991452097892761
+【目标出现】images/monthly_claim.png 置信度是：0.9985893368721008
+【目标出现】images/monthly_battlepass.png 置信度是：0.9969897270202637
+【1】等待目标中 images/monthly_claim.png
+【2】等待目标中 images/monthly_claim.png
+【3】等待目标中 images/monthly_claim.png
+【4】等待目标中 images/monthly_claim.png
+【5】等待目标中 images/monthly_claim.png
+【6】等待目标中 images/monthly_claim.png
+【7】等待目标中 images/monthly_claim.png
+【8】等待目标中 images/monthly_claim.png
+【跳过】images/monthly_claim.png
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/events.png 置信度是：1.0
+【1】等待目标中 images/event_gift.png
+【2】等待目标中 images/event_gift.png
+【3】等待目标中 images/event_gift.png
+【4】等待目标中 images/event_gift.png
+【5】等待目标中 images/event_gift.png
+【6】等待目标中 images/event_gift.png
+【7】等待目标中 images/event_gift.png
+【8】等待目标中 images/event_gift.png
+【跳过】images/event_gift.png
+【1】等待目标中 images/event_claim.png
+【2】等待目标中 images/event_claim.png
+【3】等待目标中 images/event_claim.png
+【4】等待目标中 images/event_claim.png
+【5】等待目标中 images/event_claim.png
+【6】等待目标中 images/event_claim.png
+【7】等待目标中 images/event_claim.png
+【8】等待目标中 images/event_claim.png
+【跳过】images/event_claim.png
+【1】等待目标中 images/event_claim_2.png
+【2】等待目标中 images/event_claim_2.png
+【3】等待目标中 images/event_claim_2.png
+【4】等待目标中 images/event_claim_2.png
+【5】等待目标中 images/event_claim_2.png
+【6】等待目标中 images/event_claim_2.png
+【7】等待目标中 images/event_claim_2.png
+【8】等待目标中 images/event_claim_2.png
+【跳过】images/event_claim_2.png
+【1】等待目标中 images/event_gift_2.png
+【2】等待目标中 images/event_gift_2.png
+【3】等待目标中 images/event_gift_2.png
+【4】等待目标中 images/event_gift_2.png
+【5】等待目标中 images/event_gift_2.png
+【6】等待目标中 images/event_gift_2.png
+【7】等待目标中 images/event_gift_2.png
+【8】等待目标中 images/event_gift_2.png
+【跳过】images/event_gift_2.png
+【1】等待目标中 images/event_claim.png
+【2】等待目标中 images/event_claim.png
+【3】等待目标中 images/event_claim.png
+【4】等待目标中 images/event_claim.png
+【5】等待目标中 images/event_claim.png
+【6】等待目标中 images/event_claim.png
+【7】等待目标中 images/event_claim.png
+【8】等待目标中 images/event_claim.png
+【跳过】images/event_claim.png
+【1】等待目标中 images/event_claim_2.png
+【2】等待目标中 images/event_claim_2.png
+【3】等待目标中 images/event_claim_2.png
+【4】等待目标中 images/event_claim_2.png
+【5】等待目标中 images/event_claim_2.png
+【6】等待目标中 images/event_claim_2.png
+【7】等待目标中 images/event_claim_2.png
+【8】等待目标中 images/event_claim_2.png
+【跳过】images/event_claim_2.png
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999192953109741
+【目标出现】images/old_guide.png 置信度是：0.9990374445915222
+【目标出现】images/map_sixcent.png 置信度是：0.9996077418327332
+【目标出现】images/loc_newsstand.png 置信度是：0.9999993443489075
+【目标出现】images/confirm.png 置信度是：0.9618173241615295
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【1】等待目标中 images/dog_sleep.png
+【2】等待目标中 images/dog_sleep.png
+【3】等待目标中 images/dog_sleep.png
+【4】等待目标中 images/dog_sleep.png
+【5】等待目标中 images/dog_sleep.png
+【6】等待目标中 images/dog_sleep.png
+【7】等待目标中 images/dog_sleep.png
+【8】等待目标中 images/dog_sleep.png
+【跳过】images/dog_sleep.png
+【1】等待目标中 images/dog_wake.png
+【2】等待目标中 images/dog_wake.png
+【3】等待目标中 images/dog_wake.png
+【4】等待目标中 images/dog_wake.png
+【5】等待目标中 images/dog_wake.png
+【6】等待目标中 images/dog_wake.png
+【7】等待目标中 images/dog_wake.png
+【8】等待目标中 images/dog_wake.png
+【跳过】images/dog_wake.png
+【1】等待目标中 images/dog_wake2.png
+【2】等待目标中 images/dog_wake2.png
+【3】等待目标中 images/dog_wake2.png
+【4】等待目标中 images/dog_wake2.png
+【5】等待目标中 images/dog_wake2.png
+【6】等待目标中 images/dog_wake2.png
+【7】等待目标中 images/dog_wake2.png
+【8】等待目标中 images/dog_wake2.png
+【跳过】images/dog_wake2.png
+【目标出现】images/lottery.png 置信度是：0.9977657794952393
+---------任务结束-----------
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 735, in <module>
+    input('按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

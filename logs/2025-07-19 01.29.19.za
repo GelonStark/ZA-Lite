@@ -1,0 +1,21 @@
+2025-07-19 01:29:21 [INFO] 现在执行 2 次零号空洞
+2025-07-19 01:29:21 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-19 01:29:23 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-19 01:29:23 [TRACE] 【线程启动】Hol_Sea
+2025-07-19 01:29:23 [TRACE] 【线程启动】Hol_liS
+2025-07-19 01:29:23 [TRACE] 【线程启动】HoL_Bat
+2025-07-19 01:29:23 [TRACE] 【线程启动】ATt_dEt
+2025-07-19 01:29:23 [TRACE] 【线程启动】Ter_liS
+2025-07-19 01:29:23 [TRACE] 【线程启动】Glo_Lis
+2025-07-19 01:29:23 [DEBUG] 发现已存在的游戏窗口
+2025-07-19 01:29:24 [ERROR] 空洞任务发生未知错误
+2025-07-19 01:29:24 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Hollow.py", line 347, in start_hollow
+    getwin()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 255, in getwin
+    time.sleep(1)
+    ~~~~~~~~~~^^^
+KeyboardInterrupt
+
+2025-07-19 01:29:24 [WARNING] 程序已经结束，按回车键退出(Enter)

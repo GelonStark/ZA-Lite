@@ -1,0 +1,69 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：320 
+任务开始，执行 8 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.976594090461731
+【目标出现】images/train.png 置信度是：0.9761398434638977
+【目标出现】images/sidebar_core.png 置信度是：0.9952887892723083
+【目标出现】images/core_9.png 置信度是：0.9735878109931946
+【1】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.983945906162262
+【1】等待目标中 images/double_on.png
+【2】等待目标中 images/double_on.png
+【3】等待目标中 images/double_on.png
+【4】等待目标中 images/double_on.png
+【5】等待目标中 images/double_on.png
+【6】等待目标中 images/double_on.png
+【7】等待目标中 images/double_on.png
+【8】等待目标中 images/double_on.png
+【跳过】images/double_on.png
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【跳过】images/confirm.png
+【目标出现】images/level.png 置信度是：0.9822463989257812
+【目标出现】images/level.png 置信度是：0.9822465181350708
+【目标出现】images/next_step.png 置信度是：0.9826599359512329
+【目标出现】images/squad_preset.png 置信度是：0.9861705303192139
+【目标出现】images/squad_4.png 置信度是：0.9741576910018921
+【目标出现】images/select_squad.png 置信度是：0.9710974097251892
+【目标出现】images/start_battle.png 置信度是：0.9751412272453308
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中
+正在战斗中

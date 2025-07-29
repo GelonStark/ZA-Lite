@@ -1,0 +1,11 @@
+2025-07-05 23:37:33 [WARNING] <有可用的更新！ <1.0.4> ，前往更新器获取>
+2025-07-05 23:37:38 [DEBUG] <权限检查通过>
+2025-07-05 23:37:39 [DEBUG] <初始化完毕..ZA开始任务>
+2025-07-05 23:37:39 [ERROR] <----------------未知错误-------------------->
+2025-07-05 23:37:39 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 801, in run
+    time.sleep(2)
+    ~~~~~~~~~~^^^
+KeyboardInterrupt
+>
+2025-07-05 23:37:39 [WARNING] <程序已经结束，按回车键退出(Enter)>

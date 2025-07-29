@@ -1,0 +1,83 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：160 
+任务开始，执行 1 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【目标出现】images/tactics.png 置信度是：0.9766029119491577
+【目标出现】images/train.png 置信度是：0.9761354327201843
+【目标出现】images/go.png 置信度是：0.9999022483825684
+【目标出现】images/confirm.png 置信度是：0.9839428067207336
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【4】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9999297261238098
+【目标出现】images/upgrade_promotion.png 置信度是：0.9956003427505493
+【目标出现】images/promotion_rupture.png 置信度是：1.0
+【目标出现】images/level.png 置信度是：0.993076503276825
+【目标出现】images/level.png 置信度是：0.993066668510437
+【目标出现】images/next_step.png 置信度是：0.9964556694030762
+【目标出现】images/squad_preset.png 置信度是：0.9862174391746521
+【目标出现】images/squad_2.png 置信度是：0.987602174282074
+【目标出现】images/select_squad.png 置信度是：0.9701234102249146
+【目标出现】images/start_battle.png 置信度是：0.9768548011779785
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+False
+正在战斗中
+False
+-------------------------------战斗结束---------------------------------
+---------任务结束-----------
+按回车键退出(Enter)

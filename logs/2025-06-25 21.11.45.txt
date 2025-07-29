@@ -1,0 +1,30 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度是：1.0
+Using CPU. Note: This module is much faster with a GPU.
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 738, in run
+    cprint(f"剩余电量:{battery_check()}")
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cprint() missing 1 required positional argument: 'color'
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 738, in run
+    cprint(f"剩余电量:{battery_check()}")
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cprint() missing 1 required positional argument: 'color'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 748, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 745, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

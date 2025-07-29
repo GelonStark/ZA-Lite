@@ -1,0 +1,58 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：260 
+任务开始，执行 2 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765910506248474
+【目标出现】images/train.png 置信度是：0.9761356711387634
+【目标出现】images/go.png 置信度是：0.9999023079872131
+【目标出现】images/confirm.png 置信度是：0.9839627146720886
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【4】等待目标中 images/return.png
+【5】等待目标中 images/return.png
+【6】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9999295473098755
+【目标出现】images/upgrade_basic.png 置信度是：0.9998751878738403
+【目标出现】images/basic_character.png 置信度是：0.9994752407073975
+【目标出现】images/level.png 置信度是：0.9930756688117981
+【目标出现】images/level.png 置信度是：0.9930766820907593
+【目标出现】images/next_step.png 置信度是：0.9963509440422058
+【目标出现】images/squad_preset.png 置信度是：0.9861891865730286
+【目标出现】images/squad_2.png 置信度是：0.9989538192749023
+【目标出现】images/select_squad.png 置信度是：0.9698090553283691
+【目标出现】images/start_battle.png 置信度是：0.977231502532959
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+True
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中
+False
+正在战斗中

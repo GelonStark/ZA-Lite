@@ -1,0 +1,29 @@
+2025-07-23 14:52:47 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 14:52:49 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 14:52:53 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 14:52:53 [DEBUG] 正在返回菜单
+2025-07-23 14:52:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 14:52:55 [TRACE] 现在处于主菜单
+2025-07-23 14:52:57 [INFO] 正在喝咖啡..
+2025-07-23 14:52:57 [ERROR] 每日任务发生未知错误
+2025-07-23 14:52:57 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 607, in start_daily
+    coffee()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 246, in coffee
+    map_select(rpid.get("map_sixcent.png"))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 468, in map_select
+    press('images/lobby.png', 'm')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\features\match_template.py", line 76, in press
+    match_tpl(tpl,'press',key,skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\features\match_template.py", line 21, in match_tpl
+    template = cv2.imread(tpl)  # 读取模板
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'images/lobby.png'
+
+2025-07-23 14:52:57 [WARNING] 程序已经结束，按回车键退出(Enter)

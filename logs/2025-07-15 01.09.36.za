@@ -1,0 +1,1238 @@
+2025-07-15 01:09:39 [DEBUG] 【线程启动】Obj_Sea
+2025-07-15 01:09:39 [DEBUG] 【线程启动】GLo_liS
+2025-07-15 01:09:40 [DEBUG] 【线程启动】HoL_Bat
+2025-07-15 01:09:41 [DEBUG] 【线程启动】Atk_dEt
+2025-07-15 01:09:42 [DEBUG] 【线程启动】Ter_liS
+2025-07-15 01:09:44 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-15 01:09:46 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-15 01:09:46 [DEBUG] 发现已存在的游戏窗口
+2025-07-15 01:09:49 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:09:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:09:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:09:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:09:57 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:09:59 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:01 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:03 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:07 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:09 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:11 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:14 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:16 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:18 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-15 01:10:20 [INFO] 【现在处于主菜单】
+2025-07-15 01:10:22 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-15 01:10:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png 置信度：0.9763108491897583
+2025-07-15 01:10:24 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png 置信度：0.9999994039535522
+2025-07-15 01:10:25 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/go_hollow.png 置信度：0.9945091605186462
+2025-07-15 01:10:26 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/confirm.png 置信度：0.9839550852775574
+2025-07-15 01:10:28 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-15 01:10:28 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-15 01:10:29 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-15 01:10:29 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png 置信度：0.9999476075172424
+2025-07-15 01:10:31 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy.png 置信度：0.999604344367981
+2025-07-15 01:10:32 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-15 01:10:32 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png 置信度：0.9999999403953552
+2025-07-15 01:10:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_step.png 置信度：0.9864348769187927
+2025-07-15 01:10:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/start_battle.png 置信度：0.97523432970047
+2025-07-15 01:10:36 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:10:36 [INFO] 执行零号空洞任务中
+2025-07-15 01:10:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:38 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:10:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:40 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:10:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:42 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:10:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:44 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:10:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:46 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:10:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:48 [TRACE] 【全局监听】无任何模板已持续：11秒
+2025-07-15 01:10:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:49 [TRACE] 【全局监听】无任何模板已持续：13秒
+2025-07-15 01:10:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:51 [TRACE] 【全局监听】无任何模板已持续：15秒
+2025-07-15 01:10:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:53 [TRACE] 【全局监听】无任何模板已持续：17秒
+2025-07-15 01:10:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:55 [TRACE] 【全局监听】无任何模板已持续：19秒
+2025-07-15 01:10:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:58 [TRACE] 【全局监听】无任何模板已持续：21秒
+2025-07-15 01:10:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:10:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:00 [TRACE] 【全局监听】无任何模板已持续：23秒
+2025-07-15 01:11:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:02 [TRACE] 【全局监听】无任何模板已持续：25秒
+2025-07-15 01:11:04 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9349942207336426
+2025-07-15 01:11:04 [TRACE] 【全局监听】无任何模板已持续：27秒
+2025-07-15 01:11:06 [TRACE] 【全局监听】无任何模板已持续：29秒
+2025-07-15 01:11:13 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:11:14 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9335348606109619
+2025-07-15 01:11:15 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:11:17 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:11:18 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:11:20 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:11:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:22 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:11:24 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9361572861671448
+2025-07-15 01:11:24 [TRACE] 【全局监听】无任何模板已持续：11秒
+2025-07-15 01:11:26 [TRACE] 【全局监听】无任何模板已持续：13秒
+2025-07-15 01:11:27 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/card.png 置信度：1.0
+2025-07-15 01:11:31 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:11:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:33 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:11:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:34 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9316353797912598
+2025-07-15 01:11:35 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:11:37 [TRACE] 【全局监听】无任何模板已持续：6秒
+2025-07-15 01:11:39 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:11:41 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:11:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:43 [TRACE] 【全局监听】无任何模板已持续：11秒
+2025-07-15 01:11:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:11:45 [TRACE] 【全局监听】无任何模板已持续：14秒
+2025-07-15 01:11:47 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9067810773849487
+2025-07-15 01:11:47 [TRACE] 【全局监听】无任何模板已持续：16秒
+2025-07-15 01:11:56 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8711949586868286
+2025-07-15 01:11:57 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:11:59 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:12:01 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:12:03 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:12:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:04 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:12:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:06 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:12:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:08 [TRACE] 【全局监听】无任何模板已持续：11秒
+2025-07-15 01:12:09 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999999403953552
+2025-07-15 01:12:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:10 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0
+2025-07-15 01:12:13 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0
+2025-07-15 01:12:21 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:12:24 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:12:27 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:12:29 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:12:32 [TRACE] 【全局监听】无任何模板已持续：10秒
+2025-07-15 01:12:34 [TRACE] 【全局监听】无任何模板已持续：12秒
+2025-07-15 01:12:37 [TRACE] 【全局监听】无任何模板已持续：15秒
+2025-07-15 01:12:41 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9993424415588379
+2025-07-15 01:12:43 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999995231628418
+2025-07-15 01:12:43 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.932778000831604
+2025-07-15 01:12:46 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:12:48 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:12:50 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:12:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:12:52 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:12:53 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9114059805870056
+2025-07-15 01:12:54 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:12:56 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:13:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:05 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:13:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:09 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8861072659492493
+2025-07-15 01:13:10 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:13:12 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9046466946601868
+2025-07-15 01:13:14 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9044904112815857
+2025-07-15 01:13:16 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.932745099067688
+2025-07-15 01:13:17 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:18 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9824113249778748
+2025-07-15 01:13:20 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8495378494262695
+2025-07-15 01:13:20 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9014468789100647
+2025-07-15 01:13:22 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9492754340171814
+2025-07-15 01:13:25 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:13:26 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9213298559188843
+2025-07-15 01:13:28 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8869579434394836
+2025-07-15 01:13:29 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:13:31 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:13:33 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:13:35 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:13:36 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9241714477539062
+2025-07-15 01:13:37 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9296581149101257
+2025-07-15 01:13:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9292960166931152
+2025-07-15 01:13:41 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:13:43 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:13:45 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:13:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:13:47 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9364206790924072
+2025-07-15 01:13:47 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:13:49 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:13:49 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:13:51 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:13:55 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9865425825119019
+2025-07-15 01:13:56 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:13:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999995231628418
+2025-07-15 01:13:57 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9185066223144531
+2025-07-15 01:13:58 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-15 01:13:59 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:14:00 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:14:01 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9379450082778931
+2025-07-15 01:14:02 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9557158946990967
+2025-07-15 01:14:04 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:14:06 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:14:08 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:14:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:10 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:14:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:12 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:14:14 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.935573160648346
+2025-07-15 01:14:14 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:14:16 [TRACE] 【全局监听】无任何模板已持续：11秒
+2025-07-15 01:14:23 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:14:24 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:14:24 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:14:25 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-15 01:14:28 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-15 01:14:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:30 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9920591711997986
+2025-07-15 01:14:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:33 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9293316006660461
+2025-07-15 01:14:33 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9136611819267273
+2025-07-15 01:14:36 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:14:38 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:14:39 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:14:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:42 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:14:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:44 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:14:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:45 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999997615814209
+2025-07-15 01:14:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:14:45 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999998211860657
+2025-07-15 01:14:48 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9656308889389038
+2025-07-15 01:14:54 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:14:56 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9721444845199585
+2025-07-15 01:14:59 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9995940327644348
+2025-07-15 01:15:01 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9726482033729553
+2025-07-15 01:15:04 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9778024554252625
+2025-07-15 01:15:08 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:15:09 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9778867959976196
+2025-07-15 01:15:13 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:15:15 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9812332391738892
+2025-07-15 01:15:19 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:15:20 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9786278605461121
+2025-07-15 01:15:23 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9853415489196777
+2025-07-15 01:15:27 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:15:29 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:15:32 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:15:34 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:15:35 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999993443489075
+2025-07-15 01:15:36 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9073730707168579
+2025-07-15 01:15:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9193105697631836
+2025-07-15 01:15:38 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9305846095085144
+2025-07-15 01:15:40 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9147619605064392
+2025-07-15 01:15:43 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:15:45 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:15:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:47 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:15:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:48 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:15:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:49 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:15:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:49 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:15:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:51 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:15:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:15:52 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9591184854507446
+2025-07-15 01:15:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:16:01 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:16:02 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9689626097679138
+2025-07-15 01:16:06 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:16:07 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9877976775169373
+2025-07-15 01:16:11 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:16:12 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.983185887336731
+2025-07-15 01:16:16 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:16:18 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:16:20 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:16:23 [TRACE] 【全局监听】无任何模板已持续：6秒
+2025-07-15 01:16:25 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:16:28 [TRACE] 【全局监听】无任何模板已持续：11秒
+2025-07-15 01:16:29 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9790799021720886
+2025-07-15 01:16:32 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9726591110229492
+2025-07-15 01:16:34 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9679423570632935
+2025-07-15 01:16:37 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9779430627822876
+2025-07-15 01:16:40 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9802002310752869
+2025-07-15 01:16:43 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:16:56 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:16:57 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9862072467803955
+2025-07-15 01:17:01 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:17:03 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:17:06 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:17:13 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:17:14 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9479974508285522
+2025-07-15 01:17:17 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9831870794296265
+2025-07-15 01:17:20 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9698939919471741
+2025-07-15 01:17:22 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9708850979804993
+2025-07-15 01:17:25 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.986683189868927
+2025-07-15 01:17:27 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9746091365814209
+2025-07-15 01:17:31 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:17:33 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:17:36 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:17:37 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.977851927280426
+2025-07-15 01:17:41 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:17:42 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.964847981929779
+2025-07-15 01:17:45 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9934082627296448
+2025-07-15 01:17:48 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9525132775306702
+2025-07-15 01:17:50 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9852855205535889
+2025-07-15 01:17:54 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:17:55 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.956562876701355
+2025-07-15 01:17:58 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9896795153617859
+2025-07-15 01:18:02 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:18:04 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:18:06 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:18:14 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:18:16 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:18:18 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:18:21 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:18:23 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:18:26 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/gear.png 置信度：0.9999998211860657
+2025-07-15 01:18:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:29 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:18:29 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:18:29 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:18:30 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:18:30 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:18:30 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:18:31 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:18:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:31 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:18:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:35 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.7931935787200928
+2025-07-15 01:18:35 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:18:37 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:18:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_end_boss.png 置信度：1.0
+2025-07-15 01:18:41 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:18:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:43 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:18:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:45 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:18:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:18:47 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:18:48 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9013811349868774
+2025-07-15 01:18:49 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:18:51 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:18:57 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:18:57 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8846074938774109
+2025-07-15 01:18:59 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:19:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:19:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:07 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8798458576202393
+2025-07-15 01:19:09 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:19:11 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:19:13 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/gear.png 置信度：0.9997150897979736
+2025-07-15 01:19:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:17 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:19:19 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9382666945457458
+2025-07-15 01:19:19 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:19:21 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:19:23 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:19:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:30 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9920591711997986
+2025-07-15 01:19:30 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:19:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:30 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:19:31 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:19:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:19:32 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9844019412994385
+2025-07-15 01:19:35 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-15 01:19:36 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:19:37 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9146996736526489
+2025-07-15 01:19:37 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9079658389091492
+2025-07-15 01:19:40 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:19:42 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9506171345710754
+2025-07-15 01:19:44 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.950590193271637
+2025-07-15 01:19:46 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9009226560592651
+2025-07-15 01:19:47 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:19:55 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9389820098876953
+2025-07-15 01:19:55 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9179514050483704
+2025-07-15 01:19:58 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:19:59 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:20:01 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:20:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:03 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:20:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:05 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:20:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:20:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:20:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:20:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:06 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999997615814209
+2025-07-15 01:20:07 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999997615814209
+2025-07-15 01:20:09 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0
+2025-07-15 01:20:13 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:20:16 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:20:23 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:20:24 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9885067939758301
+2025-07-15 01:20:28 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:20:31 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:20:32 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.958200991153717
+2025-07-15 01:20:35 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9863829612731934
+2025-07-15 01:20:38 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9669384360313416
+2025-07-15 01:20:40 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9808472990989685
+2025-07-15 01:20:44 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:20:47 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:20:49 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:20:51 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:20:54 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:20:57 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:20:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:20:59 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:21:02 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-15 01:21:02 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999995231628418
+2025-07-15 01:21:05 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-15 01:21:06 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:21:07 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9127882719039917
+2025-07-15 01:21:08 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:21:09 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:21:11 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:21:13 [TRACE] 【全局监听】无任何模板已持续：6秒
+2025-07-15 01:21:14 [TRACE] 【全局监听】无任何模板已持续：8秒
+2025-07-15 01:21:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:16 [TRACE] 【全局监听】无任何模板已持续：10秒
+2025-07-15 01:21:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:18 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:21:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:19 [TRACE] 【全局监听】无任何模板已持续：13秒
+2025-07-15 01:21:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:21:20 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999997615814209
+2025-07-15 01:21:23 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0
+2025-07-15 01:21:27 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:21:29 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:21:31 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:21:34 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:21:36 [TRACE] 【全局监听】无任何模板已持续：9秒
+2025-07-15 01:21:48 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.984864354133606
+2025-07-15 01:21:51 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:21:53 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.980396032333374
+2025-07-15 01:21:56 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:21:59 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:22:01 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:22:03 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9650214910507202
+2025-07-15 01:22:05 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9833515286445618
+2025-07-15 01:22:08 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9806304574012756
+2025-07-15 01:22:10 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9853983521461487
+2025-07-15 01:22:14 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:22:17 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:22:20 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:22:20 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:20 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:20 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:22 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:24 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.7966114282608032
+2025-07-15 01:22:24 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:22:25 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999993443489075
+2025-07-15 01:22:28 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:22:30 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:22:32 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:22:32 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9118938446044922
+2025-07-15 01:22:34 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:22:36 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:22:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:42 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/card.png 置信度：0.9999998211860657
+2025-07-15 01:22:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:45 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:22:47 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:22:47 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-15 01:22:48 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9154314994812012
+2025-07-15 01:22:49 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8017969131469727
+2025-07-15 01:22:50 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9149642586708069
+2025-07-15 01:22:53 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:22:54 [TRACE] 【全局监听】无任何模板已持续：1秒
+2025-07-15 01:22:56 [TRACE] 【全局监听】无任何模板已持续：3秒
+2025-07-15 01:22:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:58 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:22:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:22:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:02 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999999403953552
+2025-07-15 01:23:04 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999999403953552
+2025-07-15 01:23:08 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:23:11 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:23:12 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9946881532669067
+2025-07-15 01:23:19 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:23:21 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:23:24 [TRACE] 【全局监听】无任何模板已持续：5秒
+2025-07-15 01:23:26 [TRACE] 【全局监听】无任何模板已持续：7秒
+2025-07-15 01:23:29 [TRACE] 【全局监听】无任何模板已持续：10秒
+2025-07-15 01:23:29 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9763171076774597
+2025-07-15 01:23:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:31 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:23:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:34 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:23:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:37 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313
+2025-07-15 01:23:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:39 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:23:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:42 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:23:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:45 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:23:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:47 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:23:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:50 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:23:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:23:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:55 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:23:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:23:58 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:23:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:01 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:03 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:06 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:09 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:11 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:14 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:17 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:19 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:22 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:25 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:27 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:30 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:33 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:35 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:41 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313
+2025-07-15 01:24:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:43 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:46 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:24:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:49 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:51 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:54 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:24:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313
+2025-07-15 01:24:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:24:59 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:02 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:04 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:07 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:10 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:12 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:15 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:25:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:18 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:25:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:21 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:23 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:25:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:26 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313
+2025-07-15 01:25:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:29 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:31 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:25:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:34 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:37 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313
+2025-07-15 01:25:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:39 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:42 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:45 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:47 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:50 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:25:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:52 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:25:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:55 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:25:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:58 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:25:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:25:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:01 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:03 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:06 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:09 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:11 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:14 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:17 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:19 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:22 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:25 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:27 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313
+2025-07-15 01:26:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:30 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:33 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:35 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:40 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:43 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:46 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:48 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:51 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:54 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:26:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:26:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:26:59 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:27:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:02 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:04 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:07 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:09 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:27:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:12 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:15 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:27:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:18 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:20 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:27:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:23 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:27:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:26 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:29 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-15 01:27:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:31 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:34 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:37 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:39 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-15 01:27:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:41 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:42 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:42 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:42 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:43 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:43 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:43 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:44 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:44 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:44 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-15 01:27:44 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:45 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:45 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:45 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:45 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:46 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:46 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:46 [TRACE] 【全局监听】无任何模板已持续：2秒
+2025-07-15 01:27:46 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:47 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:47 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:47 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:48 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:48 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:48 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:48 [TRACE] 【全局监听】无任何模板已持续：4秒
+2025-07-15 01:27:48 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:49 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:49 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:49 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:51 [TRACE] 【全局监听】无任何模板已持续：6秒
+2025-07-15 01:27:51 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:51 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-15 01:27:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-15 01:27:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104

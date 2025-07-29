@@ -1,0 +1,153 @@
+2025-07-07 18:02:48 [WARNING] <有可用的更新！前往更新器获取 <1.0.4> >
+2025-07-07 18:02:53 [DEBUG] <权限检查通过>
+2025-07-07 18:02:54 [DEBUG] <初始化完毕..开始日常任务流程>
+2025-07-07 18:02:56 [DEBUG] <发现已存在的游戏窗口>
+2025-07-07 18:03:00 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-07 18:03:00 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 18:03:02 [TRACE] <【现在处于主菜单】>
+2025-07-07 18:03:03 [INFO] <领取奖励中>
+2025-07-07 18:03:03 [TRACE] <【目标出现】images/lobby.png 置信度是：0.9999196529388428>
+2025-07-07 18:03:04 [TRACE] <【目标出现】images/tactics.png 置信度是：0.9765853881835938>
+2025-07-07 18:03:06 [TRACE] <【目标出现】images/daily.png 置信度是：0.9965629577636719>
+2025-07-07 18:03:07 [TRACE] <【1】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:07 [TRACE] <【2】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:08 [TRACE] <【3】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:09 [TRACE] <【4】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:09 [TRACE] <【5】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:10 [TRACE] <【6】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:10 [TRACE] <【7】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:11 [TRACE] <【8】等待目标中 images/daily_reward.png>
+2025-07-07 18:03:11 [TRACE] <【跳过】images/daily_reward.png>
+2025-07-07 18:03:12 [TRACE] <【1】等待目标中 images/confirm.png>
+2025-07-07 18:03:12 [TRACE] <【2】等待目标中 images/confirm.png>
+2025-07-07 18:03:13 [TRACE] <【3】等待目标中 images/confirm.png>
+2025-07-07 18:03:13 [TRACE] <【4】等待目标中 images/confirm.png>
+2025-07-07 18:03:14 [TRACE] <【5】等待目标中 images/confirm.png>
+2025-07-07 18:03:15 [TRACE] <【6】等待目标中 images/confirm.png>
+2025-07-07 18:03:15 [TRACE] <【7】等待目标中 images/confirm.png>
+2025-07-07 18:03:16 [TRACE] <【8】等待目标中 images/confirm.png>
+2025-07-07 18:03:16 [TRACE] <【跳过】images/confirm.png>
+2025-07-07 18:03:16 [TRACE] <【目标出现】images/weekly_reward.png 置信度是：0.9983787536621094>
+2025-07-07 18:03:18 [TRACE] <【1】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:18 [TRACE] <【2】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:18 [TRACE] <【3】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:18 [TRACE] <【4】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:18 [TRACE] <【5】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:19 [TRACE] <【6】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:19 [TRACE] <【7】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:19 [TRACE] <【8】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:19 [TRACE] <【9】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:19 [TRACE] <【10】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:19 [TRACE] <【11】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:20 [TRACE] <【12】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:20 [TRACE] <【13】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:20 [TRACE] <【14】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:20 [TRACE] <【15】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:20 [TRACE] <【16】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:20 [TRACE] <【17】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:21 [TRACE] <【18】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:21 [TRACE] <【19】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:21 [TRACE] <【20】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:21 [TRACE] <【21】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:21 [TRACE] <【22】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:21 [TRACE] <【23】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:22 [TRACE] <【24】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:22 [TRACE] <【25】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:22 [TRACE] <【26】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:22 [TRACE] <【27】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:22 [TRACE] <【28】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:22 [TRACE] <【29】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:23 [TRACE] <【30】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:23 [TRACE] <【31】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:23 [TRACE] <【32】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:23 [TRACE] <【33】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:23 [TRACE] <【34】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:24 [TRACE] <【35】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:24 [TRACE] <【36】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:24 [TRACE] <【37】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:24 [TRACE] <【38】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:24 [TRACE] <【39】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:24 [TRACE] <【40】等待目标中 images/weekly_reward_2.png>
+2025-07-07 18:03:25 [TRACE] <【跳过】images/weekly_reward_2.png>
+2025-07-07 18:03:25 [TRACE] <【目标出现】images/weekly_reward_3.png 置信度是：0.9951388835906982>
+2025-07-07 18:03:26 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 18:03:28 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 18:03:30 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 18:03:32 [TRACE] <【现在处于主菜单】>
+2025-07-07 18:03:33 [TRACE] <【目标出现】images/lobby.png 置信度是：0.9999196529388428>
+2025-07-07 18:03:35 [TRACE] <【1】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:35 [TRACE] <【2】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:36 [TRACE] <【3】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:36 [TRACE] <【4】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:37 [TRACE] <【5】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:38 [TRACE] <【6】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:38 [TRACE] <【7】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:39 [TRACE] <【8】等待目标中 images/monthly_ads.png>
+2025-07-07 18:03:39 [TRACE] <【跳过】images/monthly_ads.png>
+2025-07-07 18:03:39 [TRACE] <【目标出现】images/monthly_task.png 置信度是：0.9991453886032104>
+2025-07-07 18:03:41 [TRACE] <【目标出现】images/monthly_claim.png 置信度是：0.9880654215812683>
+2025-07-07 18:03:42 [TRACE] <【目标出现】images/monthly_battlepass.png 置信度是：0.996990442276001>
+2025-07-07 18:03:43 [TRACE] <【1】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:44 [TRACE] <【2】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:45 [TRACE] <【3】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:45 [TRACE] <【4】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:46 [TRACE] <【5】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:46 [TRACE] <【6】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:47 [TRACE] <【7】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:48 [TRACE] <【8】等待目标中 images/monthly_claim.png>
+2025-07-07 18:03:48 [TRACE] <【跳过】images/monthly_claim.png>
+2025-07-07 18:03:48 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 18:03:50 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 18:03:52 [TRACE] <【现在处于主菜单】>
+2025-07-07 18:03:53 [TRACE] <【目标出现】images/mail.png 置信度是：0.9373695850372314>
+2025-07-07 18:03:54 [TRACE] <【目标出现】images/mail_claim.png 置信度是：0.9999996423721313>
+2025-07-07 18:03:55 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 18:03:57 [TRACE] <【现在处于主菜单】>
+2025-07-07 18:03:58 [TRACE] <【目标出现】images/events.png 置信度是：1.0>
+2025-07-07 18:03:59 [TRACE] <【1】等待目标中 images/bait_event.png>
+2025-07-07 18:04:00 [TRACE] <【目标出现】images/bait_event.png 置信度是：0.9999992847442627>
+2025-07-07 18:04:03 [TRACE] <【1】等待目标中 images/event_gift.png>
+2025-07-07 18:04:04 [TRACE] <【2】等待目标中 images/event_gift.png>
+2025-07-07 18:04:05 [TRACE] <【3】等待目标中 images/event_gift.png>
+2025-07-07 18:04:06 [TRACE] <【4】等待目标中 images/event_gift.png>
+2025-07-07 18:04:06 [TRACE] <【5】等待目标中 images/event_gift.png>
+2025-07-07 18:04:07 [TRACE] <【6】等待目标中 images/event_gift.png>
+2025-07-07 18:04:08 [TRACE] <【7】等待目标中 images/event_gift.png>
+2025-07-07 18:04:09 [TRACE] <【8】等待目标中 images/event_gift.png>
+2025-07-07 18:04:10 [TRACE] <【跳过】images/event_gift.png>
+2025-07-07 18:04:10 [TRACE] <【1】等待目标中 images/event_claim.png>
+2025-07-07 18:04:10 [TRACE] <【2】等待目标中 images/event_claim.png>
+2025-07-07 18:04:11 [TRACE] <【3】等待目标中 images/event_claim.png>
+2025-07-07 18:04:12 [TRACE] <【4】等待目标中 images/event_claim.png>
+2025-07-07 18:04:12 [TRACE] <【5】等待目标中 images/event_claim.png>
+2025-07-07 18:04:13 [TRACE] <【6】等待目标中 images/event_claim.png>
+2025-07-07 18:04:13 [TRACE] <【7】等待目标中 images/event_claim.png>
+2025-07-07 18:04:14 [TRACE] <【8】等待目标中 images/event_claim.png>
+2025-07-07 18:04:14 [TRACE] <【跳过】images/event_claim.png>
+2025-07-07 18:04:15 [TRACE] <【1】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:15 [TRACE] <【2】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:16 [TRACE] <【3】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:16 [TRACE] <【4】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:17 [TRACE] <【5】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:17 [TRACE] <【6】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:18 [TRACE] <【7】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:19 [TRACE] <【8】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:19 [TRACE] <【跳过】images/event_claim_2.png>
+2025-07-07 18:04:20 [TRACE] <【目标出现】images/event_gift_2.png 置信度是：0.9500367641448975>
+2025-07-07 18:04:21 [TRACE] <【1】等待目标中 images/event_claim.png>
+2025-07-07 18:04:22 [TRACE] <【2】等待目标中 images/event_claim.png>
+2025-07-07 18:04:22 [TRACE] <【3】等待目标中 images/event_claim.png>
+2025-07-07 18:04:23 [TRACE] <【4】等待目标中 images/event_claim.png>
+2025-07-07 18:04:23 [TRACE] <【5】等待目标中 images/event_claim.png>
+2025-07-07 18:04:24 [TRACE] <【6】等待目标中 images/event_claim.png>
+2025-07-07 18:04:24 [TRACE] <【7】等待目标中 images/event_claim.png>
+2025-07-07 18:04:25 [TRACE] <【8】等待目标中 images/event_claim.png>
+2025-07-07 18:04:26 [TRACE] <【跳过】images/event_claim.png>
+2025-07-07 18:04:26 [TRACE] <【1】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:26 [TRACE] <【2】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:27 [TRACE] <【3】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:27 [TRACE] <【4】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:28 [TRACE] <【5】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:29 [TRACE] <【6】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:29 [TRACE] <【7】等待目标中 images/event_claim_2.png>
+2025-07-07 18:04:30 [TRACE] <【8】等待目标中 images/event_claim_2.png>

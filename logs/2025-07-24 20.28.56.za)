@@ -1,0 +1,820 @@
+2025-07-24 20:28:59 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-24 20:29:04 [DEBUG] 权限检查通过
+2025-07-24 20:29:05 [INFO] 现在执行 1 次零号空洞
+2025-07-24 20:29:05 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-24 20:29:05 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 20:29:11 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 20:29:11 [TRACE] 【线程启动】空洞搜索
+2025-07-24 20:29:11 [TRACE] 【线程启动】空洞监听
+2025-07-24 20:29:11 [TRACE] 【线程启动】空洞战斗
+2025-07-24 20:29:11 [DEBUG] 正在返回菜单
+2025-07-24 20:29:11 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:29:13 [TRACE] 现在处于大厅
+2025-07-24 20:29:14 [INFO] 执行零号空洞任务中
+2025-07-24 20:29:14 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png
+2025-07-24 20:29:15 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png 置信度：0.9763108491897583
+2025-07-24 20:29:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\zero_hollow.png 置信度：0.999994158744812
+2025-07-24 20:29:17 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\go_hollow.png 置信度：0.9940726161003113
+2025-07-24 20:29:18 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\confirm.png 置信度：0.9839549660682678
+2025-07-24 20:29:20 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:20 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:21 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:22 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:22 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:23 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:23 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:24 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png
+2025-07-24 20:29:25 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_battlefront.png 置信度：0.9999160766601562
+2025-07-24 20:29:26 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\buff.png 置信度：0.9746866822242737
+2025-07-24 20:29:27 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy.png 置信度：0.9999997019767761
+2025-07-24 20:29:28 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png
+2025-07-24 20:29:29 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png 置信度：0.9999999403953552
+2025-07-24 20:29:30 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_step.png 置信度：0.9848690629005432
+2025-07-24 20:29:31 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png 置信度：0.9862329959869385
+2025-07-24 20:29:33 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_6.png 置信度：0.9437755346298218
+2025-07-24 20:29:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\select_squad.png 置信度：0.9701187610626221
+2025-07-24 20:29:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\start_battle.png 置信度：0.9809899926185608
+2025-07-24 20:29:36 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:29:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:38 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:29:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:40 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:29:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:43 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-24 20:29:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:45 [TRACE] 【空洞监听】无匹配已持续：8秒
+2025-07-24 20:29:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:47 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-24 20:29:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:49 [TRACE] 【空洞监听】无匹配已持续：12秒
+2025-07-24 20:29:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:51 [TRACE] 【空洞监听】无匹配已持续：14秒
+2025-07-24 20:29:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:54 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:29:54 [TRACE] 【空洞监听】无匹配已持续：17秒
+2025-07-24 20:29:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:57 [TRACE] 【空洞监听】无匹配已持续：20秒
+2025-07-24 20:29:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:29:59 [TRACE] 【空洞监听】无匹配已持续：23秒
+2025-07-24 20:30:00 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.916151762008667
+2025-07-24 20:30:02 [TRACE] 【空洞监听】无匹配已持续：25秒
+2025-07-24 20:30:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:30:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:30:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:30:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:30:10 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9195700883865356
+2025-07-24 20:30:11 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:30:13 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:30:14 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.936307966709137
+2025-07-24 20:30:16 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:30:18 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:30:21 [TRACE] 【空洞监听】无匹配已持续：9秒
+2025-07-24 20:30:23 [TRACE] 【空洞监听】无匹配已持续：12秒
+2025-07-24 20:30:23 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:30:25 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9309657216072083
+2025-07-24 20:30:26 [TRACE] 【空洞监听】无匹配已持续：14秒
+2025-07-24 20:30:28 [TRACE] 【空洞监听】无匹配已持续：17秒
+2025-07-24 20:30:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:31 [TRACE] 【空洞监听】无匹配已持续：19秒
+2025-07-24 20:30:32 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9126641154289246
+2025-07-24 20:30:33 [TRACE] 【空洞监听】无匹配已持续：22秒
+2025-07-24 20:30:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:41 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:30:42 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:30:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:30:44 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.981774091720581
+2025-07-24 20:30:44 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:30:46 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9028759598731995
+2025-07-24 20:30:47 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9074316620826721
+2025-07-24 20:30:50 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9431902766227722
+2025-07-24 20:30:51 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:30:52 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.7246524691581726
+2025-07-24 20:30:54 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:30:56 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:30:59 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-24 20:31:01 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:31:01 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:31:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:04 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-24 20:31:07 [TRACE] 【空洞监听】无匹配已持续：12秒
+2025-07-24 20:31:08 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:31:09 [TRACE] 【空洞监听】无匹配已持续：15秒
+2025-07-24 20:31:11 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8994490504264832
+2025-07-24 20:31:12 [TRACE] 【空洞监听】无匹配已持续：17秒
+2025-07-24 20:31:14 [TRACE] 【空洞监听】无匹配已持续：20秒
+2025-07-24 20:31:17 [TRACE] 【空洞监听】无匹配已持续：22秒
+2025-07-24 20:31:17 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:31:18 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:31:19 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:31:19 [TRACE] 【空洞监听】无匹配已持续：25秒
+2025-07-24 20:31:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:22 [TRACE] 【空洞监听】无匹配已持续：27秒
+2025-07-24 20:31:23 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:24 [TRACE] 【空洞监听】无匹配已持续：30秒
+2025-07-24 20:31:26 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:31:27 [TRACE] 【空洞监听】无匹配已持续：33秒
+2025-07-24 20:31:29 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8985259532928467
+2025-07-24 20:31:29 [TRACE] 【空洞监听】无匹配已持续：35秒
+2025-07-24 20:31:32 [TRACE] 【空洞监听】无匹配已持续：37秒
+2025-07-24 20:31:34 [TRACE] 【空洞监听】无匹配已持续：40秒
+2025-07-24 20:31:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:36 [TRACE] 【空洞监听】无匹配已持续：42秒
+2025-07-24 20:31:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:39 [TRACE] 【空洞监听】无匹配已持续：45秒
+2025-07-24 20:31:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:42 [TRACE] 【空洞监听】无匹配已持续：47秒
+2025-07-24 20:31:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:43 [TRACE] 【线程启动】攻击检测
+2025-07-24 20:31:43 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_3.png 置信度：0.9999997615814209
+2025-07-24 20:31:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:48 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:31:50 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:31:54 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999993443489075
+2025-07-24 20:31:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:31:57 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:31:58 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:32:00 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:32:01 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9472682476043701
+2025-07-24 20:32:01 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9055135250091553
+2025-07-24 20:32:06 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:32:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:08 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:32:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:12 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_3.png 置信度：0.9999999403953552
+2025-07-24 20:32:17 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:32:19 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9544144868850708
+2025-07-24 20:32:21 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999993443489075
+2025-07-24 20:32:22 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:32:25 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.762566328048706
+2025-07-24 20:32:26 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:32:28 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:32:30 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:32:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:33 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:32:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:36 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:32:36 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-24 20:32:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:32:37 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_1.png 置信度：1.0
+2025-07-24 20:32:42 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:32:45 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:32:46 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_3.png 置信度：0.9999999403953552
+2025-07-24 20:32:49 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_3.png 置信度：0.9999997615814209
+2025-07-24 20:32:58 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\resonium.png 置信度：1.0
+2025-07-24 20:33:00 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:33:00 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:33:01 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:33:02 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.7846102714538574
+2025-07-24 20:33:06 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:33:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:09 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:33:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:11 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:33:13 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9011017680168152
+2025-07-24 20:33:14 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:33:16 [TRACE] 【空洞监听】无匹配已持续：9秒
+2025-07-24 20:33:20 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999993443489075
+2025-07-24 20:33:22 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9305579662322998
+2025-07-24 20:33:22 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:33:24 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9408663511276245
+2025-07-24 20:33:24 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9167105555534363
+2025-07-24 20:33:27 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:33:28 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:33:30 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:33:30 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9266330003738403
+2025-07-24 20:33:31 [TRACE] 【目标检测】TRAPPED！ 类型：red_portal 置信度：0.9213104248046875
+2025-07-24 20:33:31 [TRACE] 【状态】进入BOSS战，开启攻击检测
+2025-07-24 20:33:34 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:33:37 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:33:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:40 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-24 20:33:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:43 [TRACE] 【空洞监听】无匹配已持续：8秒
+2025-07-24 20:33:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:46 [TRACE] 【空洞监听】无匹配已持续：11秒
+2025-07-24 20:33:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:52 [TRACE] 【空洞监听】无匹配已持续：17秒
+2025-07-24 20:33:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:33:55 [TRACE] 【空洞监听】无匹配已持续：20秒
+2025-07-24 20:33:57 [TRACE] 【空洞监听】无匹配已持续：23秒
+2025-07-24 20:34:03 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:34:04 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_end_boss.png 置信度：0.9999361634254456
+2025-07-24 20:34:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:09 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:34:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:11 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:34:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:14 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-24 20:34:15 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:34:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:16 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:17 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999993443489075
+2025-07-24 20:34:17 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:34:18 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:34:20 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:34:21 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9310528635978699
+2025-07-24 20:34:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:34:22 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:34:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:34:24 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9539191126823425
+2025-07-24 20:34:26 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:34:27 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:34:28 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.7844653725624084
+2025-07-24 20:34:29 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9147499203681946
+2025-07-24 20:34:35 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.7974154353141785
+2025-07-24 20:34:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.957917332649231
+2025-07-24 20:34:42 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9498143792152405
+2025-07-24 20:34:43 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8015136122703552
+2025-07-24 20:34:45 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9804808497428894
+2025-07-24 20:34:48 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8292371034622192
+2025-07-24 20:34:49 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:34:50 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9496340155601501
+2025-07-24 20:34:54 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9468884468078613
+2025-07-24 20:34:54 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:34:56 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:34:58 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9536450505256653
+2025-07-24 20:34:59 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:35:01 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:35:04 [TRACE] 【空洞监听】无匹配已持续：9秒
+2025-07-24 20:35:04 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9759202003479004
+2025-07-24 20:35:06 [TRACE] 【空洞监听】无匹配已持续：12秒
+2025-07-24 20:35:08 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9537705183029175
+2025-07-24 20:35:09 [TRACE] 【空洞监听】无匹配已持续：14秒
+2025-07-24 20:35:11 [TRACE] 【空洞监听】无匹配已持续：17秒
+2025-07-24 20:35:14 [TRACE] 【空洞监听】无匹配已持续：19秒
+2025-07-24 20:35:14 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9549266695976257
+2025-07-24 20:35:16 [TRACE] 【空洞监听】无匹配已持续：21秒
+2025-07-24 20:35:18 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9639980792999268
+2025-07-24 20:35:18 [TRACE] 【空洞监听】无匹配已持续：24秒
+2025-07-24 20:35:21 [TRACE] 【空洞监听】无匹配已持续：26秒
+2025-07-24 20:35:23 [TRACE] 【空洞监听】无匹配已持续：29秒
+2025-07-24 20:35:24 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9666715860366821
+2025-07-24 20:35:25 [TRACE] 【空洞监听】无匹配已持续：31秒
+2025-07-24 20:35:28 [TRACE] 【空洞监听】无匹配已持续：33秒
+2025-07-24 20:35:28 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.958784282207489
+2025-07-24 20:35:30 [TRACE] 【空洞监听】无匹配已持续：36秒
+2025-07-24 20:35:33 [TRACE] 【空洞监听】无匹配已持续：38秒
+2025-07-24 20:35:35 [TRACE] 【空洞监听】无匹配已持续：40秒
+2025-07-24 20:35:35 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9464284777641296
+2025-07-24 20:35:38 [TRACE] 【空洞监听】无匹配已持续：43秒
+2025-07-24 20:35:39 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.872797429561615
+2025-07-24 20:35:40 [TRACE] 【空洞监听】无匹配已持续：46秒
+2025-07-24 20:35:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:47 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:35:47 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:35:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:35:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:35:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:52 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:35:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:54 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:35:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:35:57 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:35:57 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999995231628418
+2025-07-24 20:36:01 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:36:03 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:36:03 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9333238005638123
+2025-07-24 20:36:06 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:36:08 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-24 20:36:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:11 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:36:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:12 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:36:13 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:36:13 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:36:14 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-24 20:36:14 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:36:14 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:36:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:15 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_2.png 置信度：1.0
+2025-07-24 20:36:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:15 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_3.png 置信度：0.9999999403953552
+2025-07-24 20:36:23 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:36:26 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999993443489075
+2025-07-24 20:36:29 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9565687775611877
+2025-07-24 20:36:31 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:36:33 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:36:35 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9377428889274597
+2025-07-24 20:36:36 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:36:38 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:36:39 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8945516347885132
+2025-07-24 20:36:41 [TRACE] 【空洞监听】无匹配已持续：9秒
+2025-07-24 20:36:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:47 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:48 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:49 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:51 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999995231628418
+2025-07-24 20:36:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:36:52 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9093453884124756
+2025-07-24 20:36:53 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:36:55 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.854752779006958
+2025-07-24 20:36:56 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:36:59 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:37:00 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9276000261306763
+2025-07-24 20:37:02 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-24 20:37:04 [TRACE] 【空洞监听】无匹配已持续：8秒
+2025-07-24 20:37:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:07 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-24 20:37:08 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9437723159790039
+2025-07-24 20:37:10 [TRACE] 【空洞监听】无匹配已持续：13秒
+2025-07-24 20:37:11 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9322023987770081
+2025-07-24 20:37:12 [TRACE] 【空洞监听】无匹配已持续：16秒
+2025-07-24 20:37:16 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\resonium.png 置信度：1.0
+2025-07-24 20:37:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:19 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\resonium.png 置信度：1.0
+2025-07-24 20:37:20 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:37:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:37:21 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:37:22 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:37:24 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8858533501625061
+2025-07-24 20:37:24 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9058671593666077
+2025-07-24 20:37:28 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.9315690398216248
+2025-07-24 20:37:28 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:37:31 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:37:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:33 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-24 20:37:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:37:36 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:37:38 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8789045810699463
+2025-07-24 20:37:38 [TRACE] 【空洞监听】无匹配已持续：9秒
+2025-07-24 20:37:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\resonium.png 置信度：0.9920591711997986
+2025-07-24 20:37:41 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9000322222709656
+2025-07-24 20:37:42 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_area.png 置信度：0.9999993443489075
+2025-07-24 20:37:47 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9182465672492981
+2025-07-24 20:37:47 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9320116639137268
+2025-07-24 20:37:49 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9460601806640625
+2025-07-24 20:37:51 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9209545850753784
+2025-07-24 20:37:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9157680869102478
+2025-07-24 20:37:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9433229565620422
+2025-07-24 20:37:57 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8968068957328796
+2025-07-24 20:37:59 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9313865303993225
+2025-07-24 20:38:01 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9221270084381104
+2025-07-24 20:38:02 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9387332797050476
+2025-07-24 20:38:07 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.7526819109916687
+2025-07-24 20:38:08 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9376475811004639
+2025-07-24 20:38:12 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9363858699798584
+2025-07-24 20:38:12 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:38:14 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:38:16 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:38:18 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9103542566299438
+2025-07-24 20:38:18 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8419683575630188
+2025-07-24 20:38:21 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9446020126342773
+2025-07-24 20:38:22 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9395416975021362
+2025-07-24 20:38:24 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:38:27 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:38:29 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.934273362159729
+2025-07-24 20:38:29 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:38:31 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.994820773601532
+2025-07-24 20:38:33 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9310986995697021
+2025-07-24 20:38:35 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:38:37 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:38:38 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9173078536987305
+2025-07-24 20:38:40 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:38:41 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9024167060852051
+2025-07-24 20:38:44 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8766922354698181
+2025-07-24 20:38:44 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9024167060852051
+2025-07-24 20:38:48 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:38:50 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9545607566833496
+2025-07-24 20:38:50 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-24 20:38:53 [TRACE] 【目标检测】TRAPPED！ 类型：red_portal 置信度：0.6450668573379517
+2025-07-24 20:38:53 [TRACE] 【状态】进入BOSS战，开启攻击检测
+2025-07-24 20:38:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\meter.png 置信度：0.9170992970466614
+2025-07-24 20:38:57 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:38:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:38:59 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:38:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:01 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-24 20:39:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:03 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-24 20:39:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:04 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-24 20:39:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:07 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-24 20:39:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-24 20:39:08 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\battle_5.png 置信度：0.958244800567627
+2025-07-24 20:39:13 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-24 20:39:16 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-24 20:39:18 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-24 20:39:21 [TRACE] 【空洞监听】无匹配已持续：8秒
+2025-07-24 20:39:24 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-24 20:39:27 [TRACE] 【状态】完成：C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\mission_completed.png 置信度：0.9999998211860657
+2025-07-24 20:39:27 [SUCCESS] 成功通关空洞
+2025-07-24 20:39:27 [INFO] 本轮耗时:9分钟
+2025-07-24 20:39:27 [INFO] 当前完成空洞 1 次 
+2025-07-24 20:39:27 [INFO] 正在领取空洞每周奖励
+2025-07-24 20:39:27 [DEBUG] 正在返回菜单
+2025-07-24 20:39:27 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:29 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:39:43 [TRACE] 现在处于大厅
+2025-07-24 20:39:44 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png
+2025-07-24 20:39:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png 置信度：0.9763029217720032
+2025-07-24 20:39:46 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\zero_hollow.png 置信度：0.9999932050704956
+2025-07-24 20:39:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\go_hollow.png 置信度：0.994460940361023
+2025-07-24 20:39:48 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\confirm.png 置信度：0.9839428663253784
+2025-07-24 20:39:50 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_reward.png
+2025-07-24 20:39:50 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_reward.png
+2025-07-24 20:39:51 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_reward.png
+2025-07-24 20:39:52 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_reward.png 置信度：0.9999993443489075
+2025-07-24 20:39:53 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_claim.png 置信度：0.9869242310523987
+2025-07-24 20:39:54 [SUCCESS] <--------空洞任务结束-------->
+2025-07-24 20:39:54 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-24 20:39:56 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 20:40:00 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 20:40:00 [DEBUG] 正在返回菜单
+2025-07-24 20:40:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:06 [TRACE] 现在处于大厅
+2025-07-24 20:40:07 [INFO] 正在喝咖啡..
+2025-07-24 20:40:07 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：0.9999997615814209
+2025-07-24 20:40:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\old_guide.png 置信度：0.9988393783569336
+2025-07-24 20:40:13 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png
+2025-07-24 20:40:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png 置信度：0.9494721293449402
+2025-07-24 20:40:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\loc_cafe.png 置信度：0.9722772836685181
+2025-07-24 20:40:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9618167281150818
+2025-07-24 20:40:17 [DEBUG] 正在返回菜单
+2025-07-24 20:40:17 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:21 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:25 [TRACE] 现在处于大厅
+2025-07-24 20:40:26 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:40:29 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\order.png 置信度：0.9998435378074646
+2025-07-24 20:40:30 [DEBUG] 正在返回菜单
+2025-07-24 20:40:30 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:36 [TRACE] 现在处于主菜单
+2025-07-24 20:40:37 [INFO] 当前电量为：23，停止消耗体力
+2025-07-24 20:40:37 [DEBUG] 正在返回菜单
+2025-07-24 20:40:37 [TRACE] 现在处于主菜单
+2025-07-24 20:40:38 [INFO] 当前电量为：23，停止消耗体力
+2025-07-24 20:40:38 [DEBUG] 正在返回菜单
+2025-07-24 20:40:38 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:40:40 [TRACE] 现在处于大厅
+2025-07-24 20:40:41 [INFO] 领取奖励中
+2025-07-24 20:40:41 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:40:42 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\tactics.png 置信度：0.9765910506248474
+2025-07-24 20:40:44 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily.png 置信度：0.9965624809265137
+2025-07-24 20:40:45 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:46 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:46 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:47 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:47 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:48 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:49 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:49 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:50 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-07-24 20:40:50 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:51 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:51 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:52 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:52 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:53 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:54 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:54 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:55 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:40:55 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png 置信度：0.9983773231506348
+2025-07-24 20:40:56 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:56 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:56 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:57 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:57 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:57 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:57 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:57 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:58 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:58 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:58 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:58 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:58 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:59 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:59 [TRACE] 【15】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:59 [TRACE] 【16】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:59 [TRACE] 【17】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:40:59 [TRACE] 【18】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:00 [TRACE] 【19】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:00 [TRACE] 【20】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:00 [TRACE] 【21】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:00 [TRACE] 【22】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:00 [TRACE] 【23】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:01 [TRACE] 【24】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:01 [TRACE] 【25】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:01 [TRACE] 【26】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:01 [TRACE] 【27】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:01 [TRACE] 【28】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:01 [TRACE] 【29】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:02 [TRACE] 【30】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:02 [TRACE] 【31】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:02 [TRACE] 【32】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:02 [TRACE] 【33】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:02 [TRACE] 【34】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:03 [TRACE] 【35】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:03 [TRACE] 【36】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:03 [TRACE] 【37】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:03 [TRACE] 【38】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:03 [TRACE] 【39】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:04 [TRACE] 【40】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:04 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-07-24 20:41:04 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_3.png 置信度：0.9951388835906982
+2025-07-24 20:41:05 [DEBUG] 正在返回菜单
+2025-07-24 20:41:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:41:07 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:41:09 [TRACE] 现在处于大厅
+2025-07-24 20:41:10 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:41:11 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:12 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:13 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:13 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:14 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:14 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:15 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:15 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:16 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-07-24 20:41:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_task.png 置信度：0.9991450905799866
+2025-07-24 20:41:17 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png 置信度：0.9880654215812683
+2025-07-24 20:41:19 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_battlepass.png 置信度：0.9969905614852905
+2025-07-24 20:41:20 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:21 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:21 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:22 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:22 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:23 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:24 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:24 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:25 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-07-24 20:41:25 [DEBUG] 正在返回菜单
+2025-07-24 20:41:25 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:41:27 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:41:29 [TRACE] 现在处于主菜单
+2025-07-24 20:41:30 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\mail.png 置信度：1.0
+2025-07-24 20:41:31 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\mail_claim.png 置信度：0.9999870657920837
+2025-07-24 20:41:32 [DEBUG] 正在返回菜单
+2025-07-24 20:41:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:41:34 [TRACE] 现在处于主菜单
+2025-07-24 20:41:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\events.png 置信度：0.9999998211860657
+2025-07-24 20:41:36 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\bait_event.png
+2025-07-24 20:41:37 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\bait_event.png 置信度：0.9999935626983643
+2025-07-24 20:41:40 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:41 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:41 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:42 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:43 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:43 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:44 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:45 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:45 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png
+2025-07-24 20:41:45 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:46 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:47 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:47 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:48 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:48 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:49 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:50 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:50 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:41:50 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:51 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:51 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:52 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:53 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:53 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:54 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:54 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:55 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:41:55 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:41:56 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:41:56 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:41:57 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:41:57 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:41:58 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:41:59 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:41:59 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:00 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:00 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\bait_event.png 置信度：0.9999998211860657
+2025-07-24 20:42:03 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:04 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:04 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:05 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:06 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:06 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:07 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:08 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:08 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-07-24 20:42:08 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:09 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:10 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:10 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:11 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:11 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:12 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:12 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:13 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-07-24 20:42:13 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:14 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:14 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:15 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:15 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:16 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:17 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:17 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:18 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-07-24 20:42:18 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:18 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:19 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:20 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:20 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:21 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:21 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:22 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:23 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-07-24 20:42:23 [DEBUG] 正在返回菜单
+2025-07-24 20:42:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:42:25 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:42:27 [TRACE] 现在处于大厅
+2025-07-24 20:42:27 [INFO] 前往刮刮卡报刊亭
+2025-07-24 20:42:27 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:42:29 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\old_guide.png 置信度：0.9999024868011475
+2025-07-24 20:42:33 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png
+2025-07-24 20:42:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png 置信度：0.9727073907852173
+2025-07-24 20:42:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\loc_newsstand.png 置信度：0.9581128358840942
+2025-07-24 20:42:36 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9618162512779236
+2025-07-24 20:42:37 [DEBUG] 正在返回菜单
+2025-07-24 20:42:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:42:40 [TRACE] 现在处于大厅
+2025-07-24 20:42:43 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:44 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:45 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:45 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:46 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:46 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:47 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:48 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:48 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_sleep.png
+2025-07-24 20:42:48 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:49 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:49 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:50 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:51 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:51 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:52 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:52 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:53 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake.png
+2025-07-24 20:42:53 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:54 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:54 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:55 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:56 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:56 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:57 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:57 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:58 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\dog_wake_2.png
+2025-07-24 20:42:58 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lottery.png 置信度：0.9977379441261292
+2025-07-24 20:42:59 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lottery_2.png 置信度：0.9916626811027527
+2025-07-24 20:43:05 [DEBUG] 正在返回菜单
+2025-07-24 20:43:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:43:07 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:43:09 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:43:11 [TRACE] 现在处于主菜单
+2025-07-24 20:43:12 [ERROR] list index out of range
+2025-07-24 20:43:12 [INFO] 电量剩余：23
+2025-07-24 20:43:12 [SUCCESS] <--------每日任务结束-------->
+2025-07-24 20:43:12 [DEBUG] 游戏在30秒后关闭

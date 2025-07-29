@@ -1,0 +1,30 @@
+【发现已存在的游戏窗口】
+【正在返回菜单】 请保持游戏画面处于前台
+【现在处于主菜单】
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 739, in run
+    battery=battery_check()    #获取体力信息
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 247, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+        ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 739, in run
+    battery=battery_check()    #获取体力信息
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 247, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 41, in match_tpl
+      File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 632, in write
+    self.file.write(text)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2705' in position 6: illegal multibyte sequence
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 769, in <module>
+    run()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 765, in run
+    print(traceback.format_exc())
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 632, in write
+    self.file.write(text)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2705' in position 505: illegal multibyte sequence

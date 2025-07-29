@@ -1,0 +1,12 @@
+2025-07-14 22:20:50 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-14 22:20:51 [ERROR] ----------------未知错误--------------------
+2025-07-14 22:20:51 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 809, in start_daily
+    update() #检查更新
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 407, in update
+    time.sleep(5)   #消息停留
+    ~~~~~~~~~~^^^
+KeyboardInterrupt
+
+2025-07-14 22:20:51 [WARNING] 程序已经结束，按回车键退出(Enter)

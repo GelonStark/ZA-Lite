@@ -1,0 +1,21 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度是：1.0
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：57 
+任务开始，执行 0 次循环
+正在返回菜单,请保持游戏画面处于前台
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 751, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 243, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 191, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)

@@ -1,0 +1,35 @@
+¡¾·¢ÏÖÒÑ´æÔÚµÄÓÎÏ·´°¿Ú¡¿
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃĞÅ¶ÈÊÇ£º0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+µ±Ç°µçÁ¿Îª£º59 
+ÈÎÎñ¿ªÊ¼£¬Ö´ĞĞ 0 ´ÎÑ­»·
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃĞÅ¶ÈÊÇ£º1.0
+Using CPU. Note: This module is much faster with a GPU.
+[31m¡¾Ê£ÓàµçÁ¿:59¡¿[0m
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 753, in run
+    time.sleep(13)
+    ~~~~~~~~~~^^^^
+KeyboardInterrupt
+
+Exception:Ö÷Ïß³Ì³ö´í
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 753, in run
+    time.sleep(13)
+    ~~~~~~~~~~^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 763, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 760, in run
+    input('Exception:Ö÷Ïß³Ì³ö´í\n°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

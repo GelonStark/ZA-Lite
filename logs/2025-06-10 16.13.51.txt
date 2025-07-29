@@ -1,0 +1,8 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9766029119491577
+【目标出现】images/daily.png 置信度是：0.9965622425079346
+【1】等待目标中 images/daily_reward.png
+【2】等待目标中 images/daily_reward.png

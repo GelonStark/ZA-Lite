@@ -1,0 +1,68 @@
+2025-07-17 14:23:34 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-17 14:23:39 [DEBUG] 权限检查通过
+2025-07-17 14:23:40 [DEBUG] 跳过零号空洞
+2025-07-17 14:23:42 [TRACE] 【线程启动】Ter_liS
+2025-07-17 14:23:42 [TRACE] 【线程启动】ATt_dEt
+2025-07-17 14:23:42 [TRACE] 【线程启动】Glo_Lis
+2025-07-17 14:23:42 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-17 14:23:44 [DEBUG] 发现已存在的游戏窗口
+2025-07-17 14:23:47 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-17 14:23:47 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 14:23:47 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 14:23:49 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 14:23:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 14:23:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 14:23:55 [DEBUG] 现在处于主菜单
+2025-07-17 14:23:55 [TRACE] 【模板出现】images/battery.png 置信度：0.9999995827674866
+2025-07-17 14:23:56 [INFO] 当前电量为：240，执行 2 次循环
+2025-07-17 14:23:56 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 14:23:56 [DEBUG] 现在处于主菜单
+2025-07-17 14:23:57 [INFO] 执行养成材料任务
+2025-07-17 14:23:58 [TRACE] 【1】等待模板中 images/lobby.png
+2025-07-17 14:23:58 [TRACE] 【2】等待模板中 images/lobby.png
+2025-07-17 14:23:59 [TRACE] 【3】等待模板中 images/lobby.png
+2025-07-17 14:23:59 [TRACE] 【4】等待模板中 images/lobby.png
+2025-07-17 14:24:00 [TRACE] 【5】等待模板中 images/lobby.png
+2025-07-17 14:24:00 [TRACE] 【6】等待模板中 images/lobby.png
+2025-07-17 14:24:01 [TRACE] 【7】等待模板中 images/lobby.png
+2025-07-17 14:24:02 [TRACE] 【8】等待模板中 images/lobby.png
+2025-07-17 14:24:02 [TRACE] 【9】等待模板中 images/lobby.png
+2025-07-17 14:24:03 [TRACE] 【10】等待模板中 images/lobby.png
+2025-07-17 14:24:03 [TRACE] 【11】等待模板中 images/lobby.png
+2025-07-17 14:24:04 [TRACE] 【12】等待模板中 images/lobby.png
+2025-07-17 14:24:04 [TRACE] 【13】等待模板中 images/lobby.png
+2025-07-17 14:24:05 [TRACE] 【14】等待模板中 images/lobby.png
+2025-07-17 14:24:06 [TRACE] 【15】等待模板中 images/lobby.png
+2025-07-17 14:24:06 [TRACE] 【16】等待模板中 images/lobby.png
+2025-07-17 14:24:07 [TRACE] 【17】等待模板中 images/lobby.png
+2025-07-17 14:24:07 [TRACE] 【18】等待模板中 images/lobby.png
+2025-07-17 14:24:08 [TRACE] 【19】等待模板中 images/lobby.png
+2025-07-17 14:24:09 [TRACE] 【20】等待模板中 images/lobby.png
+2025-07-17 14:24:09 [ERROR] ----------等待超时,开始重试----------
+2025-07-17 14:24:09 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 14:24:09 [DEBUG] 现在处于主菜单
+2025-07-17 14:24:10 [TRACE] 【1】等待模板中 images/battery.png
+2025-07-17 14:24:11 [TRACE] 【2】等待模板中 images/battery.png
+2025-07-17 14:24:11 [TRACE] 【3】等待模板中 images/battery.png
+2025-07-17 14:24:12 [TRACE] 【4】等待模板中 images/battery.png
+2025-07-17 14:24:12 [TRACE] 【5】等待模板中 images/battery.png
+2025-07-17 14:24:13 [TRACE] 【6】等待模板中 images/battery.png
+2025-07-17 14:24:13 [TRACE] 【7】等待模板中 images/battery.png
+2025-07-17 14:24:14 [TRACE] 【8】等待模板中 images/battery.png
+2025-07-17 14:24:15 [TRACE] 【9】等待模板中 images/battery.png
+2025-07-17 14:24:15 [TRACE] 【10】等待模板中 images/battery.png
+2025-07-17 14:24:16 [TRACE] 【11】等待模板中 images/battery.png
+2025-07-17 14:24:16 [TRACE] 【12】等待模板中 images/battery.png
+2025-07-17 14:24:17 [TRACE] 【13】等待模板中 images/battery.png
+2025-07-17 14:24:18 [TRACE] 【14】等待模板中 images/battery.png
+2025-07-17 14:24:18 [TRACE] 【15】等待模板中 images/battery.png
+2025-07-17 14:24:19 [TRACE] 【16】等待模板中 images/battery.png
+2025-07-17 14:24:19 [TRACE] 【17】等待模板中 images/battery.png
+2025-07-17 14:24:20 [TRACE] 【18】等待模板中 images/battery.png
+2025-07-17 14:24:20 [TRACE] 【19】等待模板中 images/battery.png
+2025-07-17 14:24:21 [TRACE] 【20】等待模板中 images/battery.png
+2025-07-17 14:24:22 [ERROR] ----------等待超时,开始重试----------
+2025-07-17 14:24:22 [ERROR] cannot unpack non-iterable bool object
+2025-07-17 14:24:22 [ERROR] 无法获取电量信息
+2025-07-17 14:24:22 [ERROR] 任务在某一步无法继续，请检查运行日志或降低速度挡位
+2025-07-17 14:24:22 [WARNING] 程序已经结束，按回车键退出(Enter)

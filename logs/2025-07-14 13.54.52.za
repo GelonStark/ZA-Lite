@@ -1,0 +1,46 @@
+2025-07-14 13:54:55 [DEBUG] 【线程启动】Obj_Sea
+2025-07-14 13:54:55 [DEBUG] 【线程启动】GLo_liS
+2025-07-14 13:54:56 [DEBUG] 【线程启动】HoL_Bat
+2025-07-14 13:54:58 [DEBUG] 【线程启动】Atk_dEt
+2025-07-14 13:54:59 [DEBUG] 【线程启动】Ter_liS
+2025-07-14 13:55:00 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-14 13:55:02 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-14 13:55:02 [DEBUG] 发现已存在的游戏窗口
+2025-07-14 13:55:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:55:07 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:55:09 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:55:11 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:55:13 [TRACE] 【现在处于主菜单】
+2025-07-14 13:55:15 [TRACE] 【1】等待目标中 images/combat.png
+2025-07-14 13:55:15 [TRACE] 【目标出现】images/combat.png 置信度：0.9762862324714661
+2025-07-14 13:55:17 [TRACE] 【目标出现】images/zero_hollow.png 置信度：1.0
+2025-07-14 13:55:18 [TRACE] 【目标出现】images/go_hollow.png 置信度：0.9946565628051758
+2025-07-14 13:55:19 [TRACE] 【目标出现】images/confirm.png 置信度：0.9839363694190979
+2025-07-14 13:55:21 [TRACE] 【1】等待目标中 images/hollow_special.png
+2025-07-14 13:55:21 [TRACE] 【2】等待目标中 images/hollow_special.png
+2025-07-14 13:55:22 [TRACE] 【3】等待目标中 images/hollow_special.png
+2025-07-14 13:55:22 [TRACE] 【目标出现】images/hollow_special.png 置信度：0.9999580383300781
+2025-07-14 13:55:24 [TRACE] 【目标出现】images/hollow/strategy.png 置信度：0.9999997019767761
+2025-07-14 13:55:25 [TRACE] 【1】等待目标中 images/confirm.png
+2025-07-14 13:55:25 [TRACE] 【2】等待目标中 images/confirm.png
+2025-07-14 13:55:26 [TRACE] 【3】等待目标中 images/confirm.png
+2025-07-14 13:55:26 [TRACE] 【4】等待目标中 images/confirm.png
+2025-07-14 13:55:27 [TRACE] 【5】等待目标中 images/confirm.png
+2025-07-14 13:55:28 [TRACE] 【6】等待目标中 images/confirm.png
+2025-07-14 13:55:28 [TRACE] 【7】等待目标中 images/confirm.png
+2025-07-14 13:55:29 [TRACE] 【8】等待目标中 images/confirm.png
+2025-07-14 13:55:29 [TRACE] 【9】等待目标中 images/confirm.png
+2025-07-14 13:55:30 [TRACE] 【10】等待目标中 images/confirm.png
+2025-07-14 13:55:30 [TRACE] 【11】等待目标中 images/confirm.png
+2025-07-14 13:55:31 [TRACE] 【12】等待目标中 images/confirm.png
+2025-07-14 13:55:32 [TRACE] 【13】等待目标中 images/confirm.png
+2025-07-14 13:55:32 [TRACE] 【14】等待目标中 images/confirm.png
+2025-07-14 13:55:33 [TRACE] 【15】等待目标中 images/confirm.png
+2025-07-14 13:55:33 [TRACE] 【16】等待目标中 images/confirm.png
+2025-07-14 13:55:34 [TRACE] 【17】等待目标中 images/confirm.png
+2025-07-14 13:55:34 [TRACE] 【18】等待目标中 images/confirm.png
+2025-07-14 13:55:35 [TRACE] 【19】等待目标中 images/confirm.png
+2025-07-14 13:55:36 [TRACE] 【20】等待目标中 images/confirm.png
+2025-07-14 13:55:36 [ERROR] ----------等待超时,开始重试----------
+2025-07-14 13:55:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:55:38 [TRACE] 正在返回菜单,请保持游戏画面处于前台

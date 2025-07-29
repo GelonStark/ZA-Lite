@@ -1,0 +1,36 @@
+[90m2025-06-29 14:06:18[0m [1mINFO[0m
+[90m2025-06-29 14:06:18[0m [31m[1mERROR[0m
+[90m2025-06-29 14:06:18[0m [41m[1mCRITICAL[0m
+¡¾·¢ÏÖÒÑ´æÔÚµÄÓÎÏ·´°¿Ú¡¿
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃÐÅ¶ÈÊÇ£º0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 757, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 250, in battery_check
+    result=int(result[0])
+               ~~~~~~^^^
+IndexError: list index out of range
+
+Exception:Ö÷Ïß³Ì³ö´í
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 757, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 250, in battery_check
+    result=int(result[0])
+               ~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 771, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 768, in run
+    input('Exception:Ö÷Ïß³Ì³ö´í\n°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

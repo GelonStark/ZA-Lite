@@ -1,0 +1,17 @@
+【发现已存在的游戏窗口】
+【正在返回菜单】 请保持游戏画面处于前台 [1]【正在返回菜单】 请保持游戏画面处于前台 [2]【正在返回菜单】 请保持游戏画面处于前台 [3]
+【现在处于主菜单】
+【目标出现】 battery (confidence:0.9999996423721313)
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：206 
+任务开始，执行 2 次循环
+【现在处于主菜单】
+【目标出现】 lobby (confidence:0.9999194741249084)
+【目标出现】 tactics (confidence:0.9765913486480713)
+【目标出现】 train (confidence:0.9761354923248291)
+【等待目标中】 go [1]【等待目标中】 go [2]【等待目标中】 go [3]【等待目标中】 go [4]
+【目标出现】 go (confidence:0.9999023079872131)
+【目标出现】 confirm (confidence:0.9839518666267395)
+【等待目标中】 return [1]【等待目标中】 return [2]【等待目标中】 return [3]【等待目标中】 return [4]【等待目标中】 return [5]【等待目标中】 return [6]【等待目标中】 return [7]【等待目标中】 return [8]【等待目标中】 return [9]【等待目标中】 return [10]【等待目标中】 return [11]【等待目标中】 return [12]【等待目标中】 return [13]【等待目标中】 return [14]【等待目标中】 return [15]【等待目标中】 return [16]【等待目标中】 return [17]【等待目标中】 return [18]【等待目标中】 return [19]【等待目标中】 return [20]
+--------等待超时,开始重试--------
+【正在返回菜单】 请保持游戏画面处于前台 [1]

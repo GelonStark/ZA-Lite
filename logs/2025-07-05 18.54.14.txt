@@ -1,0 +1,24 @@
+2025-07-05 18:54:22 [WARNING] <有可用的更新！ <1.0.4>，前往更新器获取>
+2025-07-05 18:54:27 [DEBUG] <权限检查通过>
+2025-07-05 18:54:28 [DEBUG] <初始化完毕..ZA开始日常任务>
+2025-07-05 18:54:30 [DEBUG] <发现已存在的游戏窗口>
+2025-07-05 18:54:33 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-05 18:54:33 [INFO] <>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-07-05 18:54:33 [TRACE] <【现在处于主菜单】>
+2025-07-05 18:54:34 [TRACE] <【目标出现】images/battery.png 置信度是：0.9999998211860657>
+2025-07-05 18:54:35 [INFO] <当前电量为：82，执行 0 次循环>
+2025-07-05 18:54:35 [TRACE] <【现在处于主菜单】>
+2025-07-05 18:54:35 [TRACE] <【目标出现】images/battery.png 置信度是：1.0>
+2025-07-05 18:54:36 [INFO] <当前电量为：82，执行 0 次循环>
+2025-07-05 18:54:36 [TRACE] <【现在处于主菜单】>
+2025-07-05 18:54:37 [TRACE] <【目标出现】images/battery.png 置信度是：1.0>
+2025-07-05 18:54:37 [ERROR] <----------------未知错误-------------------->
+2025-07-05 18:54:37 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 815, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 253, in battery_check
+    result=int(result[0])
+               ~~~~~~^^^
+IndexError: list index out of range
+>
+2025-07-05 18:54:37 [WARNING] <程序已经结束，按回车键退出(Enter)>

@@ -1,0 +1,42 @@
+2025-07-09 16:36:28 [ERROR] <-----------------未知错误--------------------->
+2025-07-09 16:36:28 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Utils.py", line 787, in <module>
+    yolo_object=YOLO('models/ZO_64.pt').to('cpu')
+                ~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\engine\model.py", line 146, in __init__
+    self._load(model, task=task)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\engine\model.py", line 289, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\nn\tasks.py", line 902, in attempt_load_one_weight
+    model = (ckpt.get("ema") or ckpt["model"]).to(device).float()  # FP32 model
+  File "C:\Python\Lib\site-packages\torch\nn\modules\module.py", line 1146, in float
+    return self._apply(lambda t: t.float() if t.is_floating_point() else t)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\nn\tasks.py", line 252, in _apply
+    self = super()._apply(fn)
+  File "C:\Python\Lib\site-packages\torch\nn\modules\module.py", line 903, in _apply
+    module._apply(fn)
+    ~~~~~~~~~~~~~^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\module.py", line 903, in _apply
+    module._apply(fn)
+    ~~~~~~~~~~~~~^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\module.py", line 903, in _apply
+    module._apply(fn)
+    ~~~~~~~~~~~~~^^^^
+  [Previous line repeated 2 more times]
+  File "C:\Python\Lib\site-packages\torch\nn\modules\module.py", line 902, in _apply
+    for module in self.children():
+                  ~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\module.py", line 2725, in children
+    for _name, module in self.named_children():
+                         ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\module.py", line 2745, in named_children
+    memo.add(module)
+    ~~~~~~~~^^^^^^^^
+KeyboardInterrupt
+>

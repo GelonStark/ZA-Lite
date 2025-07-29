@@ -1,0 +1,157 @@
+2025-07-17 15:24:01 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-17 15:24:06 [DEBUG] 权限检查通过
+2025-07-17 15:24:07 [INFO] 现在执行 1 次零号空洞
+2025-07-17 15:24:07 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-17 15:24:09 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-17 15:24:09 [TRACE] 【线程启动】Obj_Sea
+2025-07-17 15:24:09 [TRACE] 【线程启动】GLo_liS
+2025-07-17 15:24:09 [TRACE] 【线程启动】HoL_Bat
+2025-07-17 15:24:09 [TRACE] 【线程启动】ATt_dEt
+2025-07-17 15:24:09 [TRACE] 【线程启动】Ter_liS
+2025-07-17 15:24:09 [TRACE] 【线程启动】Glo_Lis
+2025-07-17 15:24:09 [DEBUG] 发现已存在的游戏窗口
+2025-07-17 15:24:12 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:14 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:16 [DEBUG] 现在处于主菜单
+2025-07-17 15:24:18 [TRACE] 【1】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:18 [TRACE] 【模板出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png 置信度：0.9763032793998718
+2025-07-17 15:24:20 [TRACE] 【1】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:20 [TRACE] 【2】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:21 [TRACE] 【3】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:21 [TRACE] 【4】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:22 [TRACE] 【5】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:23 [TRACE] 【6】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:23 [TRACE] 【7】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:24 [TRACE] 【8】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:24 [TRACE] 【9】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:25 [TRACE] 【10】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:26 [TRACE] 【11】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:26 [TRACE] 【12】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:27 [TRACE] 【13】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:27 [TRACE] 【14】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:28 [TRACE] 【15】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:28 [TRACE] 【16】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:29 [TRACE] 【17】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:30 [TRACE] 【18】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:30 [TRACE] 【19】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:31 [TRACE] 【20】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png
+2025-07-17 15:24:31 [ERROR] ----------等待超时,开始重试----------
+2025-07-17 15:24:32 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:36 [DEBUG] 现在处于主菜单
+2025-07-17 15:24:37 [TRACE] 【1】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:38 [TRACE] 【2】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:39 [TRACE] 【3】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:39 [TRACE] 【4】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:40 [TRACE] 【5】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:40 [TRACE] 【6】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:41 [TRACE] 【7】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:42 [TRACE] 【8】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:42 [TRACE] 【9】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:43 [TRACE] 【10】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:43 [TRACE] 【11】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:44 [TRACE] 【12】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:44 [TRACE] 【13】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:45 [TRACE] 【14】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:46 [TRACE] 【15】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:46 [TRACE] 【16】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:47 [TRACE] 【17】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:47 [TRACE] 【18】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:48 [TRACE] 【19】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:49 [TRACE] 【20】等待模板中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-17 15:24:49 [ERROR] ----------等待超时,开始重试----------
+2025-07-17 15:24:49 [ERROR] 空洞外部超时
+2025-07-17 15:24:49 [TRACE] 【线程启动】ATt_dEt
+2025-07-17 15:24:49 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-17 15:24:51 [DEBUG] 发现已存在的游戏窗口
+2025-07-17 15:24:55 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-17 15:24:55 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:57 [DEBUG] 现在处于主菜单
+2025-07-17 15:24:57 [TRACE] 【模板出现】images/battery.png 置信度：0.9999997615814209
+2025-07-17 15:24:58 [INFO] 当前电量为：240，执行 2 次循环
+2025-07-17 15:24:58 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:24:58 [DEBUG] 现在处于主菜单
+2025-07-17 15:24:59 [INFO] 执行养成材料任务
+2025-07-17 15:24:59 [TRACE] 【模板出现】images/lobby.png 置信度：0.9999196529388428
+2025-07-17 15:25:01 [TRACE] 【模板出现】images/tactics.png 置信度：0.9765968918800354
+2025-07-17 15:25:02 [TRACE] 【1】等待模板中 images/train.png
+2025-07-17 15:25:03 [TRACE] 【2】等待模板中 images/train.png
+2025-07-17 15:25:03 [TRACE] 【3】等待模板中 images/train.png
+2025-07-17 15:25:04 [TRACE] 【4】等待模板中 images/train.png
+2025-07-17 15:25:04 [TRACE] 【5】等待模板中 images/train.png
+2025-07-17 15:25:05 [TRACE] 【6】等待模板中 images/train.png
+2025-07-17 15:25:05 [TRACE] 【7】等待模板中 images/train.png
+2025-07-17 15:25:06 [TRACE] 【8】等待模板中 images/train.png
+2025-07-17 15:25:07 [TRACE] 【9】等待模板中 images/train.png
+2025-07-17 15:25:07 [TRACE] 【10】等待模板中 images/train.png
+2025-07-17 15:25:08 [TRACE] 【11】等待模板中 images/train.png
+2025-07-17 15:25:08 [TRACE] 【12】等待模板中 images/train.png
+2025-07-17 15:25:09 [TRACE] 【13】等待模板中 images/train.png
+2025-07-17 15:25:09 [TRACE] 【14】等待模板中 images/train.png
+2025-07-17 15:25:10 [TRACE] 【15】等待模板中 images/train.png
+2025-07-17 15:25:11 [TRACE] 【模板出现】images/train.png 置信度：0.976140558719635
+2025-07-17 15:25:12 [TRACE] 【模板出现】images/go.png 置信度：0.9999022483825684
+2025-07-17 15:25:13 [TRACE] 【1】等待模板中 images/confirm.png
+2025-07-17 15:25:14 [TRACE] 【2】等待模板中 images/confirm.png
+2025-07-17 15:25:15 [TRACE] 【3】等待模板中 images/confirm.png
+2025-07-17 15:25:15 [TRACE] 【4】等待模板中 images/confirm.png
+2025-07-17 15:25:16 [TRACE] 【5】等待模板中 images/confirm.png
+2025-07-17 15:25:16 [TRACE] 【6】等待模板中 images/confirm.png
+2025-07-17 15:25:17 [TRACE] 【7】等待模板中 images/confirm.png
+2025-07-17 15:25:17 [TRACE] 【8】等待模板中 images/confirm.png
+2025-07-17 15:25:18 [TRACE] 【9】等待模板中 images/confirm.png
+2025-07-17 15:25:19 [TRACE] 【10】等待模板中 images/confirm.png
+2025-07-17 15:25:19 [TRACE] 【11】等待模板中 images/confirm.png
+2025-07-17 15:25:20 [TRACE] 【12】等待模板中 images/confirm.png
+2025-07-17 15:25:20 [TRACE] 【13】等待模板中 images/confirm.png
+2025-07-17 15:25:21 [TRACE] 【14】等待模板中 images/confirm.png
+2025-07-17 15:25:22 [TRACE] 【15】等待模板中 images/confirm.png
+2025-07-17 15:25:22 [TRACE] 【16】等待模板中 images/confirm.png
+2025-07-17 15:25:23 [TRACE] 【17】等待模板中 images/confirm.png
+2025-07-17 15:25:23 [TRACE] 【18】等待模板中 images/confirm.png
+2025-07-17 15:25:24 [TRACE] 【19】等待模板中 images/confirm.png
+2025-07-17 15:25:24 [TRACE] 【20】等待模板中 images/confirm.png
+2025-07-17 15:25:25 [ERROR] ----------等待超时,开始重试----------
+2025-07-17 15:25:25 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:25 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:27 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:29 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:41 [DEBUG] 现在处于主菜单
+2025-07-17 15:25:42 [TRACE] 【模板出现】images/battery.png 置信度：1.0
+2025-07-17 15:25:42 [INFO] 当前电量为：240，执行 2 次循环
+2025-07-17 15:25:42 [DEBUG] 正在返回菜单,请保持游戏画面处于前台
+2025-07-17 15:25:42 [DEBUG] 现在处于主菜单
+2025-07-17 15:25:44 [INFO] 执行养成材料任务
+2025-07-17 15:25:44 [TRACE] 【1】等待模板中 images/lobby.png
+2025-07-17 15:25:44 [TRACE] 【模板出现】images/lobby.png 置信度：0.9999196529388428
+2025-07-17 15:25:46 [TRACE] 【1】等待模板中 images/tactics.png
+2025-07-17 15:25:46 [TRACE] 【2】等待模板中 images/tactics.png
+2025-07-17 15:25:47 [TRACE] 【3】等待模板中 images/tactics.png
+2025-07-17 15:25:47 [TRACE] 【4】等待模板中 images/tactics.png
+2025-07-17 15:25:48 [TRACE] 【5】等待模板中 images/tactics.png
+2025-07-17 15:25:49 [TRACE] 【6】等待模板中 images/tactics.png
+2025-07-17 15:25:49 [TRACE] 【7】等待模板中 images/tactics.png
+2025-07-17 15:25:50 [TRACE] 【8】等待模板中 images/tactics.png
+2025-07-17 15:25:50 [TRACE] 【9】等待模板中 images/tactics.png
+2025-07-17 15:25:51 [TRACE] 【10】等待模板中 images/tactics.png
+2025-07-17 15:25:51 [TRACE] 【11】等待模板中 images/tactics.png
+2025-07-17 15:25:52 [TRACE] 【12】等待模板中 images/tactics.png
+2025-07-17 15:25:53 [TRACE] 【13】等待模板中 images/tactics.png
+2025-07-17 15:25:53 [TRACE] 【14】等待模板中 images/tactics.png
+2025-07-17 15:25:54 [TRACE] 【15】等待模板中 images/tactics.png
+2025-07-17 15:25:54 [TRACE] 【16】等待模板中 images/tactics.png
+2025-07-17 15:25:55 [TRACE] 【17】等待模板中 images/tactics.png
+2025-07-17 15:25:55 [TRACE] 【18】等待模板中 images/tactics.png
+2025-07-17 15:25:56 [TRACE] 【19】等待模板中 images/tactics.png
+2025-07-17 15:25:57 [TRACE] 【20】等待模板中 images/tactics.png
+2025-07-17 15:25:57 [ERROR] ----------等待超时,开始重试----------
+2025-07-17 15:25:57 [ERROR] 任务在某一步无法继续，请检查运行日志或降低速度挡位
+2025-07-17 15:25:57 [WARNING] 程序已经结束，按回车键退出(Enter)

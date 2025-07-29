@@ -1,0 +1,13 @@
+2025-06-30 18:51:41 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-06-30 18:53:09 [ERROR] <----------------未知错误-------------------->
+2025-06-30 18:53:09 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 751, in run
+    if CheckUpdate(skip=True).need_update():
+       ~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\updater\ZA_Updater.py", line 57, in __init__
+    input('更新服务正在维护，请晚些时候再尝试\n更新未完成！\n程序已经结束，现在可以退出')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt
+>
+2025-06-30 18:53:09 [WARNING] <程序已经结束，按回车键退出(Enter)>

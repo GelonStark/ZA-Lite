@@ -1,0 +1,99 @@
+2025-07-14 13:39:41 [DEBUG] 【线程启动】Obj_Sea
+2025-07-14 13:39:41 [DEBUG] 【线程启动】GLo_liS
+2025-07-14 13:39:42 [DEBUG] 【线程启动】HoL_Bat
+2025-07-14 13:39:44 [DEBUG] 【线程启动】Atk_dEt
+2025-07-14 13:39:45 [DEBUG] 【线程启动】Ter_liS
+2025-07-14 13:39:46 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-14 13:39:48 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-14 13:39:48 [DEBUG] 发现已存在的游戏窗口
+2025-07-14 13:39:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:39:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:39:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:39:57 [TRACE] 【现在处于主菜单】
+2025-07-14 13:39:59 [TRACE] 【1】等待目标中 images/combat.png
+2025-07-14 13:39:59 [TRACE] 【目标出现】images/combat.png 置信度：0.9763013124465942
+2025-07-14 13:40:01 [TRACE] 【目标出现】images/zero_hollow.png 置信度：1.0
+2025-07-14 13:40:02 [TRACE] 【1】等待目标中 images/go_hollow.png
+2025-07-14 13:40:03 [TRACE] 【2】等待目标中 images/go_hollow.png
+2025-07-14 13:40:03 [TRACE] 【3】等待目标中 images/go_hollow.png
+2025-07-14 13:40:04 [TRACE] 【4】等待目标中 images/go_hollow.png
+2025-07-14 13:40:05 [TRACE] 【5】等待目标中 images/go_hollow.png
+2025-07-14 13:40:05 [TRACE] 【6】等待目标中 images/go_hollow.png
+2025-07-14 13:40:06 [TRACE] 【7】等待目标中 images/go_hollow.png
+2025-07-14 13:40:06 [TRACE] 【8】等待目标中 images/go_hollow.png
+2025-07-14 13:40:07 [TRACE] 【9】等待目标中 images/go_hollow.png
+2025-07-14 13:40:07 [TRACE] 【10】等待目标中 images/go_hollow.png
+2025-07-14 13:40:08 [TRACE] 【11】等待目标中 images/go_hollow.png
+2025-07-14 13:40:09 [TRACE] 【12】等待目标中 images/go_hollow.png
+2025-07-14 13:40:09 [TRACE] 【13】等待目标中 images/go_hollow.png
+2025-07-14 13:40:10 [TRACE] 【14】等待目标中 images/go_hollow.png
+2025-07-14 13:40:10 [TRACE] 【15】等待目标中 images/go_hollow.png
+2025-07-14 13:40:11 [TRACE] 【16】等待目标中 images/go_hollow.png
+2025-07-14 13:40:11 [TRACE] 【17】等待目标中 images/go_hollow.png
+2025-07-14 13:40:12 [TRACE] 【18】等待目标中 images/go_hollow.png
+2025-07-14 13:40:13 [TRACE] 【19】等待目标中 images/go_hollow.png
+2025-07-14 13:40:13 [TRACE] 【20】等待目标中 images/go_hollow.png
+2025-07-14 13:40:14 [ERROR] ----------等待超时,开始重试----------
+2025-07-14 13:40:14 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:16 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:18 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:20 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:23 [TRACE] 【现在处于主菜单】
+2025-07-14 13:40:25 [TRACE] 【1】等待目标中 images/combat.png
+2025-07-14 13:40:26 [TRACE] 【2】等待目标中 images/combat.png
+2025-07-14 13:40:26 [TRACE] 【3】等待目标中 images/combat.png
+2025-07-14 13:40:27 [TRACE] 【4】等待目标中 images/combat.png
+2025-07-14 13:40:27 [TRACE] 【5】等待目标中 images/combat.png
+2025-07-14 13:40:28 [TRACE] 【6】等待目标中 images/combat.png
+2025-07-14 13:40:29 [TRACE] 【7】等待目标中 images/combat.png
+2025-07-14 13:40:29 [TRACE] 【8】等待目标中 images/combat.png
+2025-07-14 13:40:30 [TRACE] 【9】等待目标中 images/combat.png
+2025-07-14 13:40:30 [TRACE] 【10】等待目标中 images/combat.png
+2025-07-14 13:40:31 [TRACE] 【11】等待目标中 images/combat.png
+2025-07-14 13:40:32 [TRACE] 【12】等待目标中 images/combat.png
+2025-07-14 13:40:32 [TRACE] 【13】等待目标中 images/combat.png
+2025-07-14 13:40:33 [TRACE] 【14】等待目标中 images/combat.png
+2025-07-14 13:40:33 [TRACE] 【15】等待目标中 images/combat.png
+2025-07-14 13:40:34 [TRACE] 【16】等待目标中 images/combat.png
+2025-07-14 13:40:34 [TRACE] 【17】等待目标中 images/combat.png
+2025-07-14 13:40:35 [TRACE] 【18】等待目标中 images/combat.png
+2025-07-14 13:40:36 [TRACE] 【19】等待目标中 images/combat.png
+2025-07-14 13:40:36 [TRACE] 【20】等待目标中 images/combat.png
+2025-07-14 13:40:37 [ERROR] ----------等待超时,开始重试----------
+2025-07-14 13:40:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:40:56 [TRACE] 【现在处于主菜单】
+2025-07-14 13:40:58 [TRACE] 【1】等待目标中 images/combat.png
+2025-07-14 13:40:58 [TRACE] 【目标出现】images/combat.png 置信度：0.9763010740280151
+2025-07-14 13:41:00 [TRACE] 【1】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:00 [TRACE] 【2】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:01 [TRACE] 【3】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:02 [TRACE] 【4】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:02 [TRACE] 【5】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:03 [TRACE] 【6】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:03 [TRACE] 【7】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:04 [TRACE] 【8】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:04 [TRACE] 【9】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:05 [TRACE] 【10】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:06 [TRACE] 【11】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:06 [TRACE] 【12】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:07 [TRACE] 【13】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:07 [TRACE] 【14】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:08 [TRACE] 【15】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:09 [TRACE] 【16】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:09 [TRACE] 【17】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:10 [TRACE] 【18】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:10 [TRACE] 【19】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:11 [TRACE] 【20】等待目标中 images/zero_hollow.png
+2025-07-14 13:41:11 [ERROR] ----------等待超时,开始重试----------
+2025-07-14 13:41:11 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 13:41:13 [TRACE] 正在返回菜单,请保持游戏画面处于前台

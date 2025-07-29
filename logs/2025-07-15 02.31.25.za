@@ -1,0 +1,3 @@
+2025-07-15 02:31:27 [TRACE] 【开始遍历】C:\Users\gelon\Pictures\Screenshots\123.png 置信度是：0.9999743103981018
+2025-07-15 02:31:34 [TRACE] 【距离过近】跳过 (np.int64(1098), np.int64(844))
+2025-07-15 02:31:36 [TRACE] 【遍历结束】C:\Users\gelon\Pictures\Screenshots\123.png 次数:7

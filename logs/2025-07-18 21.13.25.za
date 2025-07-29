@@ -1,0 +1,28 @@
+2025-07-18 21:13:27 [INFO] 现在执行 1 次零号空洞
+2025-07-18 21:13:27 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-18 21:13:29 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-18 21:13:29 [TRACE] 【线程启动】Hol_Sea
+2025-07-18 21:13:29 [TRACE] 【线程启动】Hol_liS
+2025-07-18 21:13:29 [TRACE] 【线程启动】HoL_Bat
+2025-07-18 21:13:29 [TRACE] 【线程启动】ATt_dEt
+2025-07-18 21:13:29 [TRACE] 【线程启动】Ter_liS
+2025-07-18 21:13:29 [TRACE] 【线程启动】Glo_Lis
+2025-07-18 21:13:29 [DEBUG] 发现已存在的游戏窗口
+2025-07-18 21:13:32 [DEBUG] 正在返回菜单
+2025-07-18 21:13:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-18 21:13:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-18 21:13:36 [TRACE] 退出战斗返回菜单
+2025-07-18 21:13:36 [TRACE] 【目标出现】images/quit_battle.png 置信度：0.993604302406311
+2025-07-18 21:13:38 [TRACE] 【1】等待目标中 images/confirm.png
+2025-07-18 21:13:38 [TRACE] 【2】等待目标中 images/confirm.png
+2025-07-18 21:13:39 [TRACE] 【3】等待目标中 images/confirm.png
+2025-07-18 21:13:39 [TRACE] 【4】等待目标中 images/confirm.png
+2025-07-18 21:13:40 [TRACE] 【5】等待目标中 images/confirm.png
+2025-07-18 21:13:40 [TRACE] 【6】等待目标中 images/confirm.png
+2025-07-18 21:13:41 [TRACE] 【7】等待目标中 images/confirm.png
+2025-07-18 21:13:42 [TRACE] 【8】等待目标中 images/confirm.png
+2025-07-18 21:13:42 [TRACE] 【9】等待目标中 images/confirm.png
+2025-07-18 21:13:43 [TRACE] 【10】等待目标中 images/confirm.png
+2025-07-18 21:13:43 [TRACE] 【11】等待目标中 images/confirm.png
+2025-07-18 21:13:44 [TRACE] 【12】等待目标中 images/confirm.png
+2025-07-18 21:13:45 [TRACE] 【13】等待目标中 images/confirm.png

@@ -1,0 +1,6 @@
+°æ∆Ù∂Ø”Œœ∑°ø D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+Exception ignored on calling ctypes callback function <function getAllWindows.<locals>.foreach_window at 0x000001C220D72520>:
+Traceback (most recent call last):
+  File "C:\Python\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 168, in foreach_window
+    if ctypes.windll.user32.IsWindowVisible(hWnd) != 0:
+KeyboardInterrupt: 

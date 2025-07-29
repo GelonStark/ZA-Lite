@@ -1,0 +1,129 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765910506248474
+【目标出现】images/daily.png 置信度是：0.9965625405311584
+【1】等待目标中 images/daily_reward.png
+【目标出现】images/daily_reward.png 置信度是：0.9377917647361755
+【目标出现】images/confirm.png 置信度是：0.9553359150886536
+【目标出现】images/weekly_reward.png 置信度是：0.9983766674995422
+【1】等待目标中 images/weekly_reward_2.png
+【2】等待目标中 images/weekly_reward_2.png
+【3】等待目标中 images/weekly_reward_2.png
+【4】等待目标中 images/weekly_reward_2.png
+【5】等待目标中 images/weekly_reward_2.png
+【6】等待目标中 images/weekly_reward_2.png
+【跳过】images/weekly_reward_2.png
+【1】等待目标中 images/weekly_reward_3.png
+【2】等待目标中 images/weekly_reward_3.png
+【3】等待目标中 images/weekly_reward_3.png
+【4】等待目标中 images/weekly_reward_3.png
+【5】等待目标中 images/weekly_reward_3.png
+【6】等待目标中 images/weekly_reward_3.png
+【跳过】images/weekly_reward_3.png
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【1】等待目标中 images/monthly_ads.png
+【目标出现】images/monthly_ads.png 置信度是：0.9969537854194641
+【目标出现】images/monthly_task.png 置信度是：0.9991434216499329
+【目标出现】images/monthly_claim.png 置信度是：0.9985997080802917
+【目标出现】images/monthly_battlepass.png 置信度是：0.9969892501831055
+【目标出现】images/monthly_claim.png 置信度是：0.9594430923461914
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/events.png 置信度是：1.0
+【1】等待目标中 images/event_gift.png
+【2】等待目标中 images/event_gift.png
+【3】等待目标中 images/event_gift.png
+【4】等待目标中 images/event_gift.png
+【5】等待目标中 images/event_gift.png
+【6】等待目标中 images/event_gift.png
+【跳过】images/event_gift.png
+【1】等待目标中 images/event_claim.png
+【2】等待目标中 images/event_claim.png
+【3】等待目标中 images/event_claim.png
+【4】等待目标中 images/event_claim.png
+【5】等待目标中 images/event_claim.png
+【6】等待目标中 images/event_claim.png
+【跳过】images/event_claim.png
+【1】等待目标中 images/event_claim_2.png
+【2】等待目标中 images/event_claim_2.png
+【3】等待目标中 images/event_claim_2.png
+【4】等待目标中 images/event_claim_2.png
+【5】等待目标中 images/event_claim_2.png
+【6】等待目标中 images/event_claim_2.png
+【跳过】images/event_claim_2.png
+【1】等待目标中 images/event_gift_2.png
+【2】等待目标中 images/event_gift_2.png
+【3】等待目标中 images/event_gift_2.png
+【4】等待目标中 images/event_gift_2.png
+【5】等待目标中 images/event_gift_2.png
+【6】等待目标中 images/event_gift_2.png
+【跳过】images/event_gift_2.png
+【1】等待目标中 images/event_claim.png
+【2】等待目标中 images/event_claim.png
+【3】等待目标中 images/event_claim.png
+【4】等待目标中 images/event_claim.png
+【5】等待目标中 images/event_claim.png
+【6】等待目标中 images/event_claim.png
+【跳过】images/event_claim.png
+【1】等待目标中 images/event_claim_2.png
+【2】等待目标中 images/event_claim_2.png
+【3】等待目标中 images/event_claim_2.png
+【4】等待目标中 images/event_claim_2.png
+【5】等待目标中 images/event_claim_2.png
+【6】等待目标中 images/event_claim_2.png
+【跳过】images/event_claim_2.png
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999194741249084
+【1】等待目标中 images/old_guide.png
+【目标出现】images/old_guide.png 置信度是：0.9999311566352844
+【目标出现】images/map_sixcent.png 置信度是：0.9992969632148743
+【目标出现】images/loc_newsstand.png 置信度是：0.9999996423721313
+【目标出现】images/confirm.png 置信度是：0.9618180990219116
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【1】等待目标中 images/dog_sleep.png
+【2】等待目标中 images/dog_sleep.png
+【3】等待目标中 images/dog_sleep.png
+【4】等待目标中 images/dog_sleep.png
+【5】等待目标中 images/dog_sleep.png
+【6】等待目标中 images/dog_sleep.png
+【跳过】images/dog_sleep.png
+【1】等待目标中 images/dog_wake.png
+【2】等待目标中 images/dog_wake.png
+【3】等待目标中 images/dog_wake.png
+【4】等待目标中 images/dog_wake.png
+【5】等待目标中 images/dog_wake.png
+【6】等待目标中 images/dog_wake.png
+【跳过】images/dog_wake.png
+【1】等待目标中 images/dog_wake2.png
+【2】等待目标中 images/dog_wake2.png
+【3】等待目标中 images/dog_wake2.png
+【4】等待目标中 images/dog_wake2.png
+【5】等待目标中 images/dog_wake2.png
+【6】等待目标中 images/dog_wake2.png
+【跳过】images/dog_wake2.png
+【目标出现】images/lottery.png 置信度是：0.9977395534515381
+---------任务结束-----------
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 712, in <module>
+    input('按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

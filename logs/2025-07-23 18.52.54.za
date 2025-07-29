@@ -1,0 +1,13 @@
+2025-07-23 18:52:57 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-23 18:53:02 [TRACE] 【线程启动】全局监听
+2025-07-23 18:53:02 [ERROR] 每日任务发生未知错误
+2025-07-23 18:53:02 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 571, in start_daily
+    TerminationHandler().start() # 终止时限和键盘监听
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\utils\termination_handler.py", line 8, in __init__
+    self.thread=threading.Thread(target=self.listener,daemon=True)
+                                        ^^^^^^^^^^^^^
+AttributeError: 'TerminationHandler' object has no attribute 'listener'
+
+2025-07-23 18:53:02 [WARNING] 程序已经结束，按回车键退出(Enter)

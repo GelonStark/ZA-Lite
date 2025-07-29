@@ -1,0 +1,9 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度是：0.9999996423721313
+Using CPU. Note: This module is much faster with a GPU.
+56
+当前电量为：56 
+任务开始，执行 0 次循环
+---------任务结束-----------
+按回车键退出(Enter)

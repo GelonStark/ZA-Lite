@@ -1,0 +1,18 @@
+2025-07-23 23:24:12 [TRACE] 【线程启动】全局监听
+2025-07-23 23:24:12 [TRACE] 【线程启动】终止监听
+2025-07-23 23:24:12 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 23:24:14 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 23:24:18 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 23:24:18 [DEBUG] 正在返回菜单
+2025-07-23 23:24:18 [TRACE] 现在处于主菜单
+2025-07-23 23:24:19 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999995827674866
+2025-07-23 23:24:19 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 571, in start_daily
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\task\daily.py", line 108, in battery_check
+    screenshot=pyautogui.screenshot(region=(x-135,y+8,55,35))    #根据电池位置计算区域，1080P坐标1155,30,105,40
+                                            ^
+NameError: name 'x' is not defined
+
+2025-07-23 23:24:19 [ERROR] <--------每日任务发生未知错误-------->
+2025-07-23 23:24:19 [WARNING] 程序已经结束，按回车键退出(Enter)

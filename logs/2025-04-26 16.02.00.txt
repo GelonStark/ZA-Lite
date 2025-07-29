@@ -1,0 +1,88 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：308 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999999403953552
+【目标出现】images/tactics.png 置信度是：0.9978095293045044
+【目标出现】images/train.png 置信度是：0.9961414933204651
+【目标出现】images/go.png 置信度是：0.9999998807907104
+【目标出现】images/confirm.png 置信度是：0.9999995827674866
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9641204476356506
+【目标出现】images/upgrade_custom.png 置信度是：0.9984816908836365
+【目标出现】images/custom_2.png 置信度是：0.9999998211860657
+【目标出现】images/level.png 置信度是：0.9967606067657471
+【目标出现】images/level.png 置信度是：0.9967339634895325
+【目标出现】images/next_step.png 置信度是：0.989020586013794
+【目标出现】images/squad_preset.png 置信度是：0.9999905824661255
+【目标出现】images/squad_4.png 置信度是：1.0
+【目标出现】images/select_squad.png 置信度是：0.9459940791130066
+【1】等待目标中 images/start_battle.png
+【2】等待目标中 images/start_battle.png
+【3】等待目标中 images/start_battle.png
+【4】等待目标中 images/start_battle.png
+【5】等待目标中 images/start_battle.png
+【6】等待目标中 images/start_battle.png
+【7】等待目标中 images/start_battle.png
+【8】等待目标中 images/start_battle.png
+【9】等待目标中 images/start_battle.png
+【10】等待目标中 images/start_battle.png
+【11】等待目标中 images/start_battle.png
+【12】等待目标中 images/start_battle.png
+【13】等待目标中 images/start_battle.png
+【14】等待目标中 images/start_battle.png
+【15】等待目标中 images/start_battle.png
+【16】等待目标中 images/start_battle.png
+【17】等待目标中 images/start_battle.png
+【18】等待目标中 images/start_battle.png
+【19】等待目标中 images/start_battle.png
+【20】等待目标中 images/start_battle.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：308 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/tactics.png 置信度是：0.9978115558624268
+【目标出现】images/train.png 置信度是：0.9961419701576233
+【目标出现】images/go.png 置信度是：0.9999998807907104
+【目标出现】images/confirm.png 置信度是：0.9999999403953552
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9943064451217651
+【目标出现】images/upgrade_custom.png 置信度是：0.998917281627655
+【目标出现】images/custom_2.png 置信度是：0.9999999403953552
+【目标出现】images/level.png 置信度是：0.9967607855796814
+【目标出现】images/level.png 置信度是：0.9967607855796814
+【目标出现】images/next_step.png 置信度是：0.9899430871009827
+【目标出现】images/squad_preset.png 置信度是：0.9999998211860657
+【目标出现】images/squad_4.png 置信度是：1.0
+【目标出现】images/select_squad.png 置信度是：0.9419069290161133
+【1】等待目标中 images/start_battle.png
+【2】等待目标中 images/start_battle.png
+【目标出现】images/start_battle.png 置信度是：1.0
+正在战斗中
+正在战斗中
+正在战斗中

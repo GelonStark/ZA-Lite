@@ -1,0 +1,9 @@
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 612, in <module>
+    with open('config.json','r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+
+Exception:初始化失败
+按回车键退出(Enter)

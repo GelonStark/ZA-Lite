@@ -1,0 +1,11 @@
+2025-06-30 21:58:39 [ERROR] <----------------未知错误-------------------->
+2025-06-30 21:58:39 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 759, in run
+    intro()
+    ~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\updater\ZA_Updater.py", line 26, in intro
+    time.sleep(0.25)
+    ~~~~~~~~~~^^^^^^
+KeyboardInterrupt
+>
+2025-06-30 21:58:39 [WARNING] <程序已经结束，按回车键退出(Enter)>

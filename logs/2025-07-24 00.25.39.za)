@@ -1,0 +1,75 @@
+2025-07-24 00:25:44 [TRACE] 【线程启动】全局监听
+2025-07-24 00:25:44 [TRACE] 【线程启动】终止监听
+2025-07-24 00:25:47 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-24 00:25:52 [DEBUG] 权限检查通过
+2025-07-24 00:25:53 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-24 00:25:55 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 00:25:59 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 00:25:59 [DEBUG] 正在返回菜单
+2025-07-24 00:26:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:26:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:26:03 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:26:05 [TRACE] 现在处于主菜单
+2025-07-24 00:26:06 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999999403953552
+2025-07-24 00:26:07 [INFO] 当前电量为：140，执行 1 次循环
+2025-07-24 00:26:07 [DEBUG] 正在返回菜单
+2025-07-24 00:26:07 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:26:09 [TRACE] 现在处于大厅
+2025-07-24 00:26:09 [INFO] 执行养成材料任务
+2025-07-24 00:26:09 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：1.0
+2025-07-24 00:26:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\tactics.png 置信度：0.9765910506248474
+2025-07-24 00:26:12 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\train.png 置信度：0.9761366248130798
+2025-07-24 00:26:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\go.png 置信度：0.9999024271965027
+2025-07-24 00:26:15 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.9839574694633484
+2025-07-24 00:26:16 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png
+2025-07-24 00:26:17 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png
+2025-07-24 00:26:17 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png
+2025-07-24 00:26:18 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png
+2025-07-24 00:26:18 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png
+2025-07-24 00:26:19 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png
+2025-07-24 00:26:20 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png
+2025-07-24 00:26:20 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\return.png 置信度：0.999775767326355
+2025-07-24 00:26:21 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\upgrade_basic.png 置信度：0.9998722672462463
+2025-07-24 00:26:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_edit.png 置信度：0.9999686479568481
+2025-07-24 00:26:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\basic_character.png 置信度：0.9994756579399109
+2025-07-24 00:26:24 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\level.png 置信度：0.9930756688117981
+2025-07-24 00:26:26 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\level.png 置信度：0.9930756688117981
+2025-07-24 00:26:27 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\next_step.png 置信度：0.9963589906692505
+2025-07-24 00:26:29 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\squad_preset.png
+2025-07-24 00:26:29 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\squad_preset.png 置信度：0.9862328171730042
+2025-07-24 00:26:31 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\squad_6.png 置信度：0.9324979782104492
+2025-07-24 00:26:31 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\select_squad.png 置信度：0.9703205227851868
+2025-07-24 00:26:33 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\start_battle.png 置信度：0.9847062230110168
+2025-07-24 00:26:34 [TRACE] ------------战斗开始--------------
+2025-07-24 00:26:34 [TRACE] 【线程启动】攻击检测
+2025-07-24 00:26:34 [TRACE] 正在战斗中
+2025-07-24 00:26:39 [TRACE] 正在战斗中
+2025-07-24 00:26:44 [TRACE] 正在战斗中
+2025-07-24 00:26:49 [TRACE] 正在战斗中
+2025-07-24 00:26:54 [TRACE] 正在战斗中
+2025-07-24 00:27:01 [TRACE] 正在战斗中
+2025-07-24 00:27:08 [TRACE] 正在战斗中
+2025-07-24 00:27:13 [TRACE] 正在战斗中
+2025-07-24 00:27:18 [TRACE] 正在战斗中
+2025-07-24 00:27:23 [TRACE] 正在战斗中
+2025-07-24 00:27:28 [TRACE] ---------------------战斗结束-------------------------
+2025-07-24 00:27:29 [INFO] 已完成 1 次
+2025-07-24 00:27:29 [DEBUG] 正在返回菜单
+2025-07-24 00:27:29 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 00:27:45 [TRACE] 现在处于主菜单
+2025-07-24 00:27:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999997615814209
+2025-07-24 00:27:46 [INFO] 当前电量为：41，执行 0 次循环
+2025-07-24 00:27:46 [DEBUG] 正在返回菜单
+2025-07-24 00:27:46 [TRACE] 现在处于主菜单
+2025-07-24 00:27:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999997615814209
+2025-07-24 00:27:47 [INFO] 电量剩余：41
+2025-07-24 00:27:47 [SUCCESS] <--------每日任务结束-------->
+2025-07-24 00:27:47 [DEBUG] 游戏在30秒后关闭
+2025-07-24 00:28:17 [WARNING] 程序已经结束，按回车键退出(Enter)

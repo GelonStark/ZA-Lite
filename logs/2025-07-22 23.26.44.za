@@ -1,0 +1,8 @@
+2025-07-22 23:26:46 [ERROR] -----------------未知错误---------------------
+2025-07-22 23:26:46 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\task\daily.py", line 648, in <module>
+    thread_attack=threading.Thread(target=attack_detection,daemon=True)  #持续攻击检测，设置了wait()控制启停
+                                          ^^^^^^^^^^^^^^^^
+NameError: name 'attack_detection' is not defined
+
+2025-07-22 23:26:46 [TRACE] 【线程启动】ATt_dEt

@@ -1,0 +1,63 @@
+[90m2025-06-29 18:59:15[0m [1mINFO[0m [1m123[0m
+[90m2025-06-29 18:59:15[0m [31m[1mERROR[0m [31m[1m321[0m
+[90m2025-06-29 18:59:15[0m [41m[1mCRITICAL[0m [41m[1m123[0m
+¡¾·¢ÏÖÒÑ´æÔÚµÄÓÎÏ·´°¿Ú¡¿
+ÕýÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+ÕýÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 762, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 248, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 165, in menu
+    screenshot_gray = cv2.cvtColor(screenshot_numpy(), cv2.COLOR_RGB2GRAY)  # ÆÁÄ»½ØÍ¼RGB×ª»Ò¶ÈÍ¼
+                                   ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 281, in screenshot_numpy
+    screenshot = pyautogui.screenshot()  # ÆÁÄ»½ØÍ¼
+  File "C:\Python\Lib\site-packages\pyscreeze\__init__.py", line 538, in _screenshot_win32
+    im = ImageGrab.grab(all_screens=allScreens)
+  File "C:\Python\Lib\site-packages\PIL\ImageGrab.py", line 54, in grab
+    offset, size, data = Image.core.grabscreen_win32(
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        include_layered_windows, all_screens
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+KeyboardInterrupt
+
+Exception:Ö÷Ïß³Ì³ö´í
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 762, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 248, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 165, in menu
+    screenshot_gray = cv2.cvtColor(screenshot_numpy(), cv2.COLOR_RGB2GRAY)  # ÆÁÄ»½ØÍ¼RGB×ª»Ò¶ÈÍ¼
+                                   ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 281, in screenshot_numpy
+    screenshot = pyautogui.screenshot()  # ÆÁÄ»½ØÍ¼
+  File "C:\Python\Lib\site-packages\pyscreeze\__init__.py", line 538, in _screenshot_win32
+    im = ImageGrab.grab(all_screens=allScreens)
+  File "C:\Python\Lib\site-packages\PIL\ImageGrab.py", line 54, in grab
+    offset, size, data = Image.core.grabscreen_win32(
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        include_layered_windows, all_screens
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 776, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 773, in run
+    input('Exception:Ö÷Ïß³Ì³ö´í\n°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

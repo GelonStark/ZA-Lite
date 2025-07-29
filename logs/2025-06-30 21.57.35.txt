@@ -1,0 +1,5 @@
+2025-06-30 21:57:40 [WARNING] <有可用的更新！ <1.0.4>，前往更新器获取>
+2025-06-30 21:57:45 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-06-30 21:57:47 [DEBUG] <【启动游戏】 C:/Users/gelon/Desktop/Pytutorial/ZenlessZoneZero_Automation/object_search.py>
+2025-06-30 21:57:48 [ERROR] <【启动失败】游戏路径错误或管理员权限缺失>
+2025-06-30 21:57:48 [WARNING] <程序已经结束，按回车键退出(Enter)>

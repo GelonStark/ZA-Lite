@@ -1,0 +1,8 @@
+2025-07-08 00:54:30 [TRACE] <【1】等待目标中 images/hollow/123.png>
+2025-07-08 00:54:31 [TRACE] <【2】等待目标中 images/hollow/123.png>
+2025-07-08 00:54:31 [TRACE] <【3】等待目标中 images/hollow/123.png>
+2025-07-08 00:54:32 [TRACE] <【4】等待目标中 images/hollow/123.png>
+2025-07-08 00:54:33 [TRACE] <【5】等待目标中 images/hollow/123.png>
+2025-07-08 00:54:33 [TRACE] <【6】等待目标中 images/hollow/123.png>
+2025-07-08 00:54:34 [TRACE] <【7】等待目标中 images/hollow/123.png>
+2025-07-08 00:54:34 [TRACE] <【目标出现】images/hollow/123.png 置信度是：0.9990193843841553>

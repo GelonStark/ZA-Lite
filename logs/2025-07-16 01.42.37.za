@@ -1,0 +1,31 @@
+2025-07-16 01:42:41 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-16 01:42:47 [DEBUG] 【线程启动】Ter_liS
+2025-07-16 01:42:47 [DEBUG] 【线程启动】Atk_dEt
+2025-07-16 01:42:47 [DEBUG] 【线程启动】Glo_Lis
+2025-07-16 01:42:47 [DEBUG] 权限检查通过
+2025-07-16 01:42:48 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-16 01:42:50 [DEBUG] 发现已存在的游戏窗口
+2025-07-16 01:42:53 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-16 01:42:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 01:42:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 01:42:57 [INFO] 【现在处于主菜单】
+2025-07-16 01:42:57 [TRACE] 【目标出现】images/battery.png 置信度：0.9999996423721313
+2025-07-16 01:42:58 [ERROR] ----------------未知错误--------------------
+2025-07-16 01:42:58 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 841, in start_daily
+    win[0].activate()  #激活ZA窗口
+    ~~~^^^
+IndexError: list index out of range
+
+2025-07-16 01:42:58 [DEBUG] 【零号空洞】现在执行 1 次
+2025-07-16 01:42:58 [DEBUG] 【线程启动】Obj_Sea
+2025-07-16 01:42:58 [DEBUG] 【线程启动】GLo_liS
+2025-07-16 01:42:58 [DEBUG] 【线程启动】HoL_Bat
+2025-07-16 01:42:58 [DEBUG] 【线程启动】Atk_dEt
+2025-07-16 01:42:58 [DEBUG] 【线程启动】Ter_liS
+2025-07-16 01:42:58 [DEBUG] 发现已存在的游戏窗口
+2025-07-16 01:43:01 [INFO] 【现在处于主菜单】
+2025-07-16 01:43:03 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-16 01:43:04 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png 置信度：0.9763046503067017
+2025-07-16 01:43:05 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png 置信度：0.9999997019767761
+2025-07-16 01:43:06 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/go_hollow.png 置信度：0.9947035312652588

@@ -1,0 +1,141 @@
+2025-07-16 20:49:29 [DEBUG] 【线程启动】Ter_liS
+2025-07-16 20:49:29 [DEBUG] 【线程启动】ATt_dEt
+2025-07-16 20:49:29 [DEBUG] 【线程启动】Glo_Lis
+2025-07-16 20:49:29 [DEBUG] 权限检查通过
+2025-07-16 20:49:30 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-16 20:49:32 [DEBUG] 发现已存在的游戏窗口
+2025-07-16 20:49:35 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-16 20:49:35 [DEBUG] 【正在返回菜单,请保持游戏画面处于前台】
+2025-07-16 20:49:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:49:37 [DEBUG] 【现在处于主菜单】
+2025-07-16 20:49:38 [INFO] 领取奖励中
+2025-07-16 20:49:39 [TRACE] 【模板出现】images/lobby.png 置信度：0.9999196529388428
+2025-07-16 20:49:40 [TRACE] 【模板出现】images/tactics.png 置信度：0.976570725440979
+2025-07-16 20:49:41 [TRACE] 【模板出现】images/daily.png 置信度：0.9965637922286987
+2025-07-16 20:49:43 [TRACE] 【1】等待模板中 images/daily_reward.png
+2025-07-16 20:49:43 [TRACE] 【2】等待模板中 images/daily_reward.png
+2025-07-16 20:49:44 [TRACE] 【3】等待模板中 images/daily_reward.png
+2025-07-16 20:49:44 [TRACE] 【模板出现】images/daily_reward.png 置信度：0.9754534959793091
+2025-07-16 20:49:46 [TRACE] 【模板出现】images/confirm.png 置信度：0.9823448657989502
+2025-07-16 20:49:47 [TRACE] 【模板出现】images/weekly_reward.png 置信度：0.9983771443367004
+2025-07-16 20:49:48 [TRACE] 【1】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:48 [TRACE] 【2】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:49 [TRACE] 【3】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:49 [TRACE] 【4】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:49 [TRACE] 【5】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:50 [TRACE] 【6】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:50 [TRACE] 【7】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:50 [TRACE] 【8】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:50 [TRACE] 【9】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:51 [TRACE] 【10】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:51 [TRACE] 【11】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:51 [TRACE] 【12】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:51 [TRACE] 【13】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:51 [TRACE] 【14】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:51 [TRACE] 【15】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:52 [TRACE] 【16】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:52 [TRACE] 【17】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:52 [TRACE] 【18】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:52 [TRACE] 【19】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:52 [TRACE] 【20】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:53 [TRACE] 【21】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:53 [TRACE] 【22】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:53 [TRACE] 【23】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:53 [TRACE] 【24】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:53 [TRACE] 【25】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:53 [TRACE] 【26】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:54 [TRACE] 【27】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:54 [TRACE] 【28】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:54 [TRACE] 【29】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:54 [TRACE] 【30】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:54 [TRACE] 【31】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:55 [TRACE] 【32】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:55 [TRACE] 【33】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:55 [TRACE] 【34】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:55 [TRACE] 【35】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:55 [TRACE] 【36】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:56 [TRACE] 【37】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:56 [TRACE] 【38】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:56 [TRACE] 【39】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:56 [TRACE] 【40】等待模板中 images/weekly_reward_2.png
+2025-07-16 20:49:56 [TRACE] 【跳过】images/weekly_reward_2.png
+2025-07-16 20:49:56 [TRACE] 【模板出现】images/weekly_reward_3.png 置信度：0.9951381087303162
+2025-07-16 20:49:58 [DEBUG] 【正在返回菜单,请保持游戏画面处于前台】
+2025-07-16 20:49:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:04 [DEBUG] 【现在处于主菜单】
+2025-07-16 20:50:05 [TRACE] 【模板出现】images/lobby.png 置信度：0.9999196529388428
+2025-07-16 20:50:07 [TRACE] 【1】等待模板中 images/monthly_ads.png
+2025-07-16 20:50:07 [TRACE] 【模板出现】images/monthly_ads.png 置信度：0.9969537854194641
+2025-07-16 20:50:09 [TRACE] 【模板出现】images/monthly_task.png 置信度：0.9991459846496582
+2025-07-16 20:50:10 [TRACE] 【模板出现】images/monthly_claim.png 置信度：0.998589277267456
+2025-07-16 20:50:11 [TRACE] 【模板出现】images/monthly_battlepass.png 置信度：0.9969890713691711
+2025-07-16 20:50:13 [TRACE] 【模板出现】images/monthly_claim.png 置信度：0.9598821997642517
+2025-07-16 20:50:14 [DEBUG] 【正在返回菜单,请保持游戏画面处于前台】
+2025-07-16 20:50:14 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:16 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:18 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:20 [DEBUG] 【现在处于主菜单】
+2025-07-16 20:50:20 [TRACE] 【模板出现】images/mail.png 置信度：1.0
+2025-07-16 20:50:22 [TRACE] 【模板出现】images/mail_claim.png 置信度：0.9643244743347168
+2025-07-16 20:50:23 [DEBUG] 【正在返回菜单,请保持游戏画面处于前台】
+2025-07-16 20:50:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:25 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:27 [DEBUG] 【现在处于主菜单】
+2025-07-16 20:50:28 [TRACE] 【模板出现】images/events.png 置信度：1.0
+2025-07-16 20:50:29 [TRACE] 【1】等待模板中 images/bait_event.png
+2025-07-16 20:50:29 [TRACE] 【模板出现】images/bait_event.png 置信度：0.9999998211860657
+2025-07-16 20:50:32 [TRACE] 【模板出现】images/event_gift.png 置信度：0.9986430406570435
+2025-07-16 20:50:33 [TRACE] 【1】等待模板中 images/event_claim.png
+2025-07-16 20:50:34 [TRACE] 【模板出现】images/event_claim.png 置信度：0.9994279146194458
+2025-07-16 20:50:35 [TRACE] 【1】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:36 [TRACE] 【2】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:36 [TRACE] 【3】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:37 [TRACE] 【4】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:37 [TRACE] 【5】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:38 [TRACE] 【6】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:39 [TRACE] 【7】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:39 [TRACE] 【8】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:40 [TRACE] 【跳过】images/event_claim_2.png
+2025-07-16 20:50:41 [TRACE] 【1】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:42 [TRACE] 【2】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:43 [TRACE] 【3】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:43 [TRACE] 【4】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:44 [TRACE] 【5】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:45 [TRACE] 【6】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:45 [TRACE] 【7】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:46 [TRACE] 【8】等待模板中 images/event_gift_2.png
+2025-07-16 20:50:47 [TRACE] 【跳过】images/event_gift_2.png
+2025-07-16 20:50:47 [TRACE] 【1】等待模板中 images/event_claim.png
+2025-07-16 20:50:47 [TRACE] 【2】等待模板中 images/event_claim.png
+2025-07-16 20:50:48 [TRACE] 【3】等待模板中 images/event_claim.png
+2025-07-16 20:50:49 [TRACE] 【4】等待模板中 images/event_claim.png
+2025-07-16 20:50:49 [TRACE] 【5】等待模板中 images/event_claim.png
+2025-07-16 20:50:50 [TRACE] 【6】等待模板中 images/event_claim.png
+2025-07-16 20:50:50 [TRACE] 【7】等待模板中 images/event_claim.png
+2025-07-16 20:50:51 [TRACE] 【8】等待模板中 images/event_claim.png
+2025-07-16 20:50:51 [TRACE] 【跳过】images/event_claim.png
+2025-07-16 20:50:52 [TRACE] 【1】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:52 [TRACE] 【2】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:53 [TRACE] 【3】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:53 [TRACE] 【4】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:54 [TRACE] 【5】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:55 [TRACE] 【6】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:55 [TRACE] 【7】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:56 [TRACE] 【8】等待模板中 images/event_claim_2.png
+2025-07-16 20:50:56 [TRACE] 【跳过】images/event_claim_2.png
+2025-07-16 20:50:56 [DEBUG] 【正在返回菜单,请保持游戏画面处于前台】
+2025-07-16 20:50:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 20:50:58 [DEBUG] 【现在处于主菜单】
+2025-07-16 20:50:59 [TRACE] 【模板出现】images/battery.png 置信度：0.9999995827674866
+2025-07-16 20:51:00 [ERROR] ----------------未知错误--------------------
+2025-07-16 20:51:00 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 861, in start_daily
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 259, in battery_check
+    result=int(result[0])
+               ~~~~~~^^^
+IndexError: list index out of range
+
+2025-07-16 20:51:00 [WARNING] 程序已经结束，按回车键退出(Enter)

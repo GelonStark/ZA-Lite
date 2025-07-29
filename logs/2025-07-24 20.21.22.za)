@@ -1,0 +1,103 @@
+2025-07-24 20:21:25 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-24 20:21:30 [DEBUG] 权限检查通过
+2025-07-24 20:21:31 [INFO] 现在执行 1 次零号空洞
+2025-07-24 20:21:31 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-24 20:21:31 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 20:21:37 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 20:21:37 [TRACE] 【线程启动】空洞搜索
+2025-07-24 20:21:37 [TRACE] 【线程启动】空洞监听
+2025-07-24 20:21:37 [TRACE] 【线程启动】空洞战斗
+2025-07-24 20:21:37 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\ZA-Lite\tasks\hollow.py", line 336, in start_hollow
+    global_thread.start() #来自daily模块 全局监听
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\threading.py", line 967, in start
+    raise RuntimeError("threads can only be started once")
+RuntimeError: threads can only be started once
+
+2025-07-24 20:21:37 [ERROR] <--------空洞任务发生未知错误-------->
+2025-07-24 20:21:37 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-24 20:21:39 [DEBUG] 发现已存在的游戏窗口
+2025-07-24 20:21:43 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-24 20:21:43 [DEBUG] 正在返回菜单
+2025-07-24 20:21:43 [TRACE] 现在处于大厅
+2025-07-24 20:21:44 [INFO] 正在喝咖啡..
+2025-07-24 20:21:44 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:21:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\old_guide.png 置信度：0.9999687075614929
+2025-07-24 20:21:50 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png
+2025-07-24 20:21:51 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\map_sixcent.png 置信度：0.9570677280426025
+2025-07-24 20:21:51 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\loc_cafe.png 置信度：0.9547576904296875
+2025-07-24 20:21:53 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9618180990219116
+2025-07-24 20:21:54 [DEBUG] 正在返回菜单
+2025-07-24 20:21:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:21:56 [TRACE] 现在处于大厅
+2025-07-24 20:21:57 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:22:00 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\order.png 置信度：0.9998438358306885
+2025-07-24 20:22:01 [DEBUG] 正在返回菜单
+2025-07-24 20:22:01 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:22:03 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:22:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:22:07 [TRACE] 现在处于主菜单
+2025-07-24 20:22:08 [INFO] 当前电量为：120，执行 1 次循环
+2025-07-24 20:22:08 [DEBUG] 正在返回菜单
+2025-07-24 20:22:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:22:10 [TRACE] 现在处于大厅
+2025-07-24 20:22:11 [INFO] 执行养成材料任务
+2025-07-24 20:22:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-07-24 20:22:12 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\tactics.png 置信度：0.9765850901603699
+2025-07-24 20:22:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\train.png 置信度：0.9761359095573425
+2025-07-24 20:22:15 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\go.png 置信度：0.9999023079872131
+2025-07-24 20:22:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9839670658111572
+2025-07-24 20:22:18 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png
+2025-07-24 20:22:18 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png
+2025-07-24 20:22:19 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png
+2025-07-24 20:22:19 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png
+2025-07-24 20:22:20 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png
+2025-07-24 20:22:21 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png
+2025-07-24 20:22:21 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png
+2025-07-24 20:22:22 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\return.png 置信度：0.9997756481170654
+2025-07-24 20:22:23 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\upgrade_custom.png
+2025-07-24 20:22:24 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\upgrade_custom.png 置信度：0.9992430806159973
+2025-07-24 20:22:25 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\bait_edit.png 置信度：0.9999696612358093
+2025-07-24 20:22:26 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\custom_1.png 置信度：0.997826099395752
+2025-07-24 20:22:27 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\level.png 置信度：0.993076503276825
+2025-07-24 20:22:28 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\level.png 置信度：0.993076503276825
+2025-07-24 20:22:30 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\next_step.png 置信度：0.9956599473953247
+2025-07-24 20:22:31 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png
+2025-07-24 20:22:32 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png 置信度：0.9862316846847534
+2025-07-24 20:22:33 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_6.png 置信度：0.9261818528175354
+2025-07-24 20:22:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\select_squad.png 置信度：0.970951497554779
+2025-07-24 20:22:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\start_battle.png 置信度：0.9826564788818359
+2025-07-24 20:22:36 [TRACE] ------------战斗开始--------------
+2025-07-24 20:22:36 [TRACE] 【线程启动】攻击检测
+2025-07-24 20:22:36 [TRACE] 正在战斗中
+2025-07-24 20:22:41 [TRACE] 正在战斗中
+2025-07-24 20:22:46 [TRACE] 正在战斗中
+2025-07-24 20:22:51 [TRACE] 正在战斗中
+2025-07-24 20:22:56 [TRACE] 正在战斗中
+2025-07-24 20:23:04 [TRACE] 正在战斗中
+2025-07-24 20:23:09 [TRACE] 正在战斗中
+2025-07-24 20:23:14 [TRACE] 正在战斗中
+2025-07-24 20:23:19 [TRACE] 正在战斗中
+2025-07-24 20:23:24 [TRACE] 正在战斗中
+2025-07-24 20:23:28 [TRACE] 正在战斗中
+2025-07-24 20:23:33 [TRACE] 正在战斗中
+2025-07-24 20:23:38 [TRACE] 正在战斗中
+2025-07-24 20:23:43 [TRACE] 正在战斗中
+2025-07-24 20:23:48 [TRACE] 正在战斗中
+2025-07-24 20:23:53 [TRACE] 正在战斗中
+2025-07-24 20:24:00 [TRACE] 正在战斗中
+2025-07-24 20:24:05 [TRACE] 正在战斗中
+2025-07-24 20:24:10 [TRACE] 正在战斗中
+2025-07-24 20:24:15 [TRACE] 正在战斗中
+2025-07-24 20:24:20 [TRACE] 正在战斗中
+2025-07-24 20:24:25 [TRACE] ---------------------战斗结束-------------------------
+2025-07-24 20:24:26 [INFO] 已完成 1 次
+2025-07-24 20:24:26 [DEBUG] 正在返回菜单
+2025-07-24 20:24:26 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:24:28 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:24:30 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:24:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:24:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:24:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-24 20:24:38 [TRACE] 正在返回菜单,请保持游戏画面处于前台

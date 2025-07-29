@@ -1,0 +1,47 @@
+2025-07-17 18:26:07 [ERROR] -----------------未知错误---------------------
+2025-07-17 18:26:07 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 798, in <module>
+    reader = easyocr.Reader(['en'], gpu=False, model_storage_directory='models', verbose=False)  # 载入easyocr模型
+  File "C:\Python\Lib\site-packages\easyocr\easyocr.py", line 214, in __init__
+    self.detector = self.initDetector(detector_path)
+                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\easyocr\easyocr.py", line 271, in initDetector
+    return self.get_detector(detector_path,
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+                             device = self.device,
+                             ^^^^^^^^^^^^^^^^^^^^^
+                             quantize = self.quantize,
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+                             cudnn_benchmark = self.cudnn_benchmark
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             )
+                             ^
+  File "C:\Python\Lib\site-packages\easyocr\detection.py", line 75, in get_detector
+    net = CRAFT()
+  File "C:\Python\Lib\site-packages\easyocr\craft.py", line 35, in __init__
+    self.basenet = vgg16_bn(pretrained, freeze)
+                   ~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\easyocr\model\modules.py", line 51, in __init__
+    nn.Conv2d(512, 1024, kernel_size=3, padding=6, dilation=6),
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 521, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        in_channels,
+        ^^^^^^^^^^^^
+    ...<10 lines>...
+        **factory_kwargs,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 176, in __init__
+    self.reset_parameters()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 182, in reset_parameters
+    init.kaiming_uniform_(self.weight, a=math.sqrt(5))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\init.py", line 518, in kaiming_uniform_
+    return tensor.uniform_(-bound, bound, generator=generator)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+

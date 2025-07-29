@@ -1,0 +1,10 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度是：0.9999998211860657
+1341 24
+Using CPU. Note: This module is much faster with a GPU.
+234
+当前电量为：234 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428

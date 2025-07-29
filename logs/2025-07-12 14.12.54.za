@@ -1,0 +1,26 @@
+2025-07-12 14:12:59 [WARNING] <有可用的更新！前往更新器获取 <1.0.4> >
+2025-07-12 14:13:04 [DEBUG] <权限检查通过>
+2025-07-12 14:13:05 [DEBUG] <初始化完毕..启动{日常任务}模块>
+2025-07-12 14:13:07 [DEBUG] <发现已存在的游戏窗口>
+2025-07-12 14:13:10 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-12 14:13:10 [TRACE] <【现在处于主菜单】>
+2025-07-12 14:13:11 [TRACE] <【目标出现】images/battery.png 置信度：0.9999998211860657>
+2025-07-12 14:13:12 [INFO] <当前电量为：35，执行 0 次循环>
+2025-07-12 14:13:12 [TRACE] <【现在处于主菜单】>
+2025-07-12 14:13:12 [TRACE] <【目标出现】images/battery.png 置信度：1.0>
+2025-07-12 14:13:13 [INFO] <当前电量为：35，执行 0 次循环>
+2025-07-12 14:13:13 [TRACE] <【现在处于主菜单】>
+2025-07-12 14:13:14 [TRACE] <【目标出现】images/battery.png 置信度：0.9999998211860657>
+2025-07-12 14:13:14 [ERROR] <----------------未知错误-------------------->
+2025-07-12 14:13:14 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Utils.py", line 835, in run
+    win[0].activate()  #激活ZA窗口
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 246, in activate
+    _raiseWithLastError()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 99, in _raiseWithLastError
+    raise PyGetWindowException('Error code from Windows: %s - %s' % (errorCode, _formatMessage(errorCode)))
+pygetwindow.PyGetWindowException: Error code from Windows: 0 - 操作成功完成。
+>
+2025-07-12 14:13:14 [WARNING] <程序已经结束，按回车键退出(Enter)>

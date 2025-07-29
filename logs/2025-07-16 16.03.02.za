@@ -1,0 +1,26 @@
+2025-07-16 16:03:04 [DEBUG] 【线程启动】Ter_liS
+2025-07-16 16:03:04 [DEBUG] 【线程启动】ATt_dEt
+2025-07-16 16:03:04 [DEBUG] 【线程启动】Glo_Lis
+2025-07-16 16:03:04 [DEBUG] 权限检查通过
+2025-07-16 16:03:05 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-16 16:03:07 [DEBUG] 【启动游戏】 D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+2025-07-16 16:03:08 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-16 16:03:08 [INFO] 【正在返回菜单,请保持游戏画面处于前台】
+2025-07-16 16:03:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 16:03:10 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-16 16:03:11 [ERROR] ----------------未知错误--------------------
+2025-07-16 16:03:11 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 848, in start_daily
+    daily_task()
+    ~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 628, in daily_task
+    battery = battery_check()  # 获取体力信息
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 253, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 197, in menu
+    time.sleep(1)
+    ~~~~~~~~~~^^^
+KeyboardInterrupt
+
+2025-07-16 16:03:11 [WARNING] 程序已经结束，按回车键退出(Enter)

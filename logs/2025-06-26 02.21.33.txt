@@ -1,0 +1,120 @@
+123321 True
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【1】等待目标中 images/battery.png
+【2】等待目标中 images/battery.png
+【3】等待目标中 images/battery.png
+【4】等待目标中 images/battery.png
+【5】等待目标中 images/battery.png
+【6】等待目标中 images/battery.png
+【目标出现】images/battery.png 置信度是：1.0
+Using CPU. Note: This module is much faster with a GPU.
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 754, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 247, in battery_check
+    reader=easyocr.Reader(['en'],gpu=False,model_storage_directory='models')       #载入easyocr模型
+  File "C:\Python\Lib\site-packages\easyocr\easyocr.py", line 214, in __init__
+    self.detector = self.initDetector(detector_path)
+                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\easyocr\easyocr.py", line 271, in initDetector
+    return self.get_detector(detector_path,
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+                             device = self.device,
+                             ^^^^^^^^^^^^^^^^^^^^^
+                             quantize = self.quantize,
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+                             cudnn_benchmark = self.cudnn_benchmark
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             )
+                             ^
+  File "C:\Python\Lib\site-packages\easyocr\detection.py", line 75, in get_detector
+    net = CRAFT()
+  File "C:\Python\Lib\site-packages\easyocr\craft.py", line 38, in __init__
+    self.upconv1 = double_conv(1024, 512, 256)
+                   ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\easyocr\craft.py", line 20, in __init__
+    nn.Conv2d(mid_ch, out_ch, kernel_size=3, padding=1),
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 521, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        in_channels,
+        ^^^^^^^^^^^^
+    ...<10 lines>...
+        **factory_kwargs,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 176, in __init__
+    self.reset_parameters()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 182, in reset_parameters
+    init.kaiming_uniform_(self.weight, a=math.sqrt(5))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\init.py", line 518, in kaiming_uniform_
+    return tensor.uniform_(-bound, bound, generator=generator)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 754, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 247, in battery_check
+    reader=easyocr.Reader(['en'],gpu=False,model_storage_directory='models')       #载入easyocr模型
+  File "C:\Python\Lib\site-packages\easyocr\easyocr.py", line 214, in __init__
+    self.detector = self.initDetector(detector_path)
+                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\easyocr\easyocr.py", line 271, in initDetector
+    return self.get_detector(detector_path,
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+                             device = self.device,
+                             ^^^^^^^^^^^^^^^^^^^^^
+                             quantize = self.quantize,
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+                             cudnn_benchmark = self.cudnn_benchmark
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             )
+                             ^
+  File "C:\Python\Lib\site-packages\easyocr\detection.py", line 75, in get_detector
+    net = CRAFT()
+  File "C:\Python\Lib\site-packages\easyocr\craft.py", line 38, in __init__
+    self.upconv1 = double_conv(1024, 512, 256)
+                   ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\easyocr\craft.py", line 20, in __init__
+    nn.Conv2d(mid_ch, out_ch, kernel_size=3, padding=1),
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 521, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        in_channels,
+        ^^^^^^^^^^^^
+    ...<10 lines>...
+        **factory_kwargs,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 176, in __init__
+    self.reset_parameters()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\site-packages\torch\nn\modules\conv.py", line 182, in reset_parameters
+    init.kaiming_uniform_(self.weight, a=math.sqrt(5))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\torch\nn\init.py", line 518, in kaiming_uniform_
+    return tensor.uniform_(-bound, bound, generator=generator)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 769, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 766, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

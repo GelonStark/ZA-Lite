@@ -1,0 +1,61 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【1】等待目标中 images/battery.png
+【2】等待目标中 images/battery.png
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 758, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 245, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+        ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 33, in match_tpl
+    screenshot_gray = cv2.cvtColor(screenshot_numpy(), cv2.COLOR_RGB2GRAY)  # 屏幕截图RGB转灰度图
+                                   ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 277, in screenshot_numpy
+    screenshot = pyautogui.screenshot()  # 屏幕截图
+  File "C:\Python\Lib\site-packages\pyscreeze\__init__.py", line 538, in _screenshot_win32
+    im = ImageGrab.grab(all_screens=allScreens)
+  File "C:\Python\Lib\site-packages\PIL\ImageGrab.py", line 54, in grab
+    offset, size, data = Image.core.grabscreen_win32(
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        include_layered_windows, all_screens
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 758, in run
+    battery_remaining=battery_check()
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 245, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+        ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 33, in match_tpl
+    screenshot_gray = cv2.cvtColor(screenshot_numpy(), cv2.COLOR_RGB2GRAY)  # 屏幕截图RGB转灰度图
+                                   ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 277, in screenshot_numpy
+    screenshot = pyautogui.screenshot()  # 屏幕截图
+  File "C:\Python\Lib\site-packages\pyscreeze\__init__.py", line 538, in _screenshot_win32
+    im = ImageGrab.grab(all_screens=allScreens)
+  File "C:\Python\Lib\site-packages\PIL\ImageGrab.py", line 54, in grab
+    offset, size, data = Image.core.grabscreen_win32(
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        include_layered_windows, all_screens
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 772, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 769, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

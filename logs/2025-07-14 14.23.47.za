@@ -1,0 +1,64 @@
+2025-07-14 14:23:50 [DEBUG] 【线程启动】Obj_Sea
+2025-07-14 14:23:50 [DEBUG] 【线程启动】GLo_liS
+2025-07-14 14:23:51 [DEBUG] 【线程启动】HoL_Bat
+2025-07-14 14:23:52 [DEBUG] 【线程启动】Atk_dEt
+2025-07-14 14:23:53 [DEBUG] 【线程启动】Ter_liS
+2025-07-14 14:23:55 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-14 14:23:57 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-14 14:23:57 [DEBUG] 发现已存在的游戏窗口
+2025-07-14 14:24:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:08 [INFO] 【现在处于主菜单】
+2025-07-14 14:24:10 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-14 14:24:10 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png 置信度：0.9763001799583435
+2025-07-14 14:24:12 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png 置信度：0.9999994039535522
+2025-07-14 14:24:13 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/go_hollow.png 置信度：0.9945278167724609
+2025-07-14 14:24:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/confirm.png 置信度：0.9839586615562439
+2025-07-14 14:24:15 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-14 14:24:16 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-14 14:24:17 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png
+2025-07-14 14:24:17 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_taskforce.png 置信度：0.9999583959579468
+2025-07-14 14:24:19 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy.png 置信度：0.9999997019767761
+2025-07-14 14:24:19 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:24:20 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png 置信度：1.0
+2025-07-14 14:24:21 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_step.png 置信度：0.9864194989204407
+2025-07-14 14:24:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/start_battle.png 置信度：0.9766995310783386
+2025-07-14 14:24:24 [INFO] 执行零号空洞任务中
+2025-07-14 14:24:24 [TRACE] 【全局监听】无任何模板已持续：0秒
+2025-07-14 14:24:24 [SUCCESS] 本轮耗时:0分钟
+2025-07-14 14:24:24 [SUCCESS] 完成空洞 0 次 
+2025-07-14 14:24:24 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-14 14:24:26 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:28 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:30 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:38 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:40 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:42 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:47 [INFO] 【退出战斗返回菜单】
+2025-07-14 14:24:48 [TRACE] 【目标出现】images/quit_battle.png 置信度：0.9938629269599915
+2025-07-14 14:24:49 [TRACE] 【目标出现】images/confirm.png 置信度：0.9839495420455933
+2025-07-14 14:24:50 [TRACE] 【1】等待目标中 images/quit.png
+2025-07-14 14:24:51 [TRACE] 【2】等待目标中 images/quit.png
+2025-07-14 14:24:51 [TRACE] 【3】等待目标中 images/quit.png
+2025-07-14 14:24:52 [TRACE] 【4】等待目标中 images/quit.png
+2025-07-14 14:24:52 [TRACE] 【5】等待目标中 images/quit.png
+2025-07-14 14:24:53 [TRACE] 【6】等待目标中 images/quit.png
+2025-07-14 14:24:54 [TRACE] 【7】等待目标中 images/quit.png
+2025-07-14 14:24:54 [TRACE] 【8】等待目标中 images/quit.png
+2025-07-14 14:24:55 [TRACE] 【跳过】images/quit.png
+2025-07-14 14:24:55 [TRACE] 【目标出现】images/hollow/mission_completed.png 置信度：0.9999996423721313
+2025-07-14 14:24:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:24:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:25:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:25:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:25:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:25:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:25:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台

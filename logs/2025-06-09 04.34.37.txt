@@ -1,0 +1,84 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/old_guide.png 置信度是：0.998945415019989
+【目标出现】images/map_sixcent.png 置信度是：0.9987373352050781
+【目标出现】images/loc_newsstand.png 置信度是：0.9993113875389099
+【目标出现】images/confirm.png 置信度是：0.9618162512779236
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【1】等待目标中 images/dog_sleep.png
+【2】等待目标中 images/dog_sleep.png
+【3】等待目标中 images/dog_sleep.png
+【4】等待目标中 images/dog_sleep.png
+【5】等待目标中 images/dog_sleep.png
+【6】等待目标中 images/dog_sleep.png
+【7】等待目标中 images/dog_sleep.png
+【8】等待目标中 images/dog_sleep.png
+【跳过】images/dog_sleep.png
+【1】等待目标中 images/dog_wake.png
+【2】等待目标中 images/dog_wake.png
+【3】等待目标中 images/dog_wake.png
+【4】等待目标中 images/dog_wake.png
+【5】等待目标中 images/dog_wake.png
+【6】等待目标中 images/dog_wake.png
+【7】等待目标中 images/dog_wake.png
+【8】等待目标中 images/dog_wake.png
+【跳过】images/dog_wake.png
+【1】等待目标中 images/dog_wake2.png
+【2】等待目标中 images/dog_wake2.png
+【3】等待目标中 images/dog_wake2.png
+【4】等待目标中 images/dog_wake2.png
+【5】等待目标中 images/dog_wake2.png
+【6】等待目标中 images/dog_wake2.png
+【7】等待目标中 images/dog_wake2.png
+【8】等待目标中 images/dog_wake2.png
+【跳过】images/dog_wake2.png
+【目标出现】images/lottery.png 置信度是：0.997738242149353
+【1】等待目标中 images/lottery_2.png
+【目标出现】images/lottery_2.png 置信度是：0.9012979865074158
+---------任务结束-----------
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 738, in <module>
+    input('按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

@@ -1,0 +1,172 @@
+2025-07-11 21:24:04 [DEBUG] <【线程启动】全局监听>
+2025-07-11 21:24:04 [DEBUG] <【线程启动】战斗模式>
+2025-07-11 21:24:04 [DEBUG] <【线程启动】目标搜索>
+2025-07-11 21:24:05 [DEBUG] <初始化完毕..启动{零号空洞}模块>
+2025-07-11 21:24:05 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-11 21:24:05 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:07 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:09 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:11 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:13 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:15 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:17 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:19 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:21 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:23 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:24 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:26 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:28 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-11 21:24:30 [TRACE] <【现在处于主菜单】>
+2025-07-11 21:24:32 [TRACE] <【1】等待目标中 images/combat.png>
+2025-07-11 21:24:32 [TRACE] <【目标出现】images/combat.png 置信度：0.9763070344924927>
+2025-07-11 21:24:34 [TRACE] <【目标出现】images/zero_hollow.png 置信度：1.0>
+2025-07-11 21:24:35 [TRACE] <【目标出现】images/go_hollow.png 置信度：0.9948096871376038>
+2025-07-11 21:24:36 [TRACE] <【目标出现】images/confirm.png 置信度：0.9839485883712769>
+2025-07-11 21:24:38 [TRACE] <【1】等待目标中 images/hollow_special.png>
+2025-07-11 21:24:38 [TRACE] <【2】等待目标中 images/hollow_special.png>
+2025-07-11 21:24:39 [TRACE] <【3】等待目标中 images/hollow_special.png>
+2025-07-11 21:24:39 [TRACE] <【目标出现】images/hollow_special.png 置信度：0.9999805688858032>
+2025-07-11 21:24:41 [TRACE] <【目标出现】images/next_step.png 置信度：0.9828914403915405>
+2025-07-11 21:24:42 [TRACE] <【目标出现】images/start_battle.png 置信度：0.9753110408782959>
+2025-07-11 21:24:43 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:44 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:44 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:44 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:45 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:46 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:46 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:47 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:47 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:47 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:49 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:49 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:49 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:49 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:50 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:51 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:51 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:52 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:52 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:52 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:54 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:54 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:54 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:55 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:55 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:56 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:57 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:57 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:57 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:58 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:59 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:24:59 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:00 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:00 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:00 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:02 [TRACE] <【目标检测】TRAPPED！ 类型：interact 置信度：0.8937655091285706>
+2025-07-11 21:25:06 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/card.png 置信度：1.0>
+2025-07-11 21:25:08 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:09 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:09 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:09 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:10 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:13 [TRACE] <【目标检测】TRAPPED！ 类型：interact 置信度：0.8920390009880066>
+2025-07-11 21:25:20 [TRACE] <【目标检测】TRAPPED！ 类型：interact 置信度：0.8943515419960022>
+2025-07-11 21:25:25 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999992847442627>
+2025-07-11 21:25:26 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:29 [TRACE] <【目标检测】有目标,微调失败！>
+2025-07-11 21:25:30 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:25:31 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9174584746360779>
+2025-07-11 21:25:32 [TRACE] <【目标检测】TRAPPED！ 类型：guide_point 置信度：0.86614990234375>
+2025-07-11 21:25:33 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9598758220672607>
+2025-07-11 21:25:38 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:38 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:38 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:39 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:25:39 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:25:40 [TRACE] <【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9178622961044312>
+2025-07-11 21:25:46 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:47 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:47 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:47 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:48 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:49 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:49 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:50 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:25:50 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:25:51 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:52 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:25:52 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999997615814209>
+2025-07-11 21:26:10 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0>
+2025-07-11 21:26:13 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0>
+2025-07-11 21:26:21 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0>
+2025-07-11 21:26:21 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:22 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:26:22 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:26:23 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:23 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:24 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9083963632583618>
+2025-07-11 21:26:24 [TRACE] <【目标检测】有目标,微调失败！>
+2025-07-11 21:26:25 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.999999463558197>
+2025-07-11 21:26:26 [TRACE] <【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8785174489021301>
+2025-07-11 21:26:32 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:32 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:32 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:34 [TRACE] <【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9633393883705139>
+2025-07-11 21:26:40 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:26:40 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:40 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:41 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:42 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:26:42 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:42 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:26:43 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_1.png 置信度：0.9999998211860657>
+2025-07-11 21:26:44 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999999403953552>
+2025-07-11 21:26:57 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0>
+2025-07-11 21:27:00 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999998807907104>
+2025-07-11 21:27:08 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313>
+2025-07-11 21:27:08 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:08 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:09 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:09 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:09 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:11 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:13 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999992847442627>
+2025-07-11 21:27:13 [TRACE] <【目标检测】有目标,微调失败！>
+2025-07-11 21:27:15 [TRACE] <【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.6345945000648499>
+2025-07-11 21:27:15 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9307899475097656>
+2025-07-11 21:27:17 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9323598742485046>
+2025-07-11 21:27:20 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:21 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:21 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:21 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:22 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:23 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:24 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:25 [TRACE] <【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9177886843681335>
+2025-07-11 21:27:31 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:31 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:27:32 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:27:32 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:32 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:33 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:33 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:34 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:34 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999999403953552>
+2025-07-11 21:27:35 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:27:35 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999998807907104>
+2025-07-11 21:27:37 [TRACE] <【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999998807907104>
+2025-07-11 21:28:07 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.994988739490509>
+2025-07-11 21:28:09 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:28:10 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:28:10 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:28:11 [TRACE] <【目标检测】有目标,微调失败！>
+2025-07-11 21:28:11 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.941889762878418>
+2025-07-11 21:28:12 [TRACE] <【目标检测】有目标但置信度不足>
+2025-07-11 21:28:12 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999993443489075>
+2025-07-11 21:28:13 [TRACE] <【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8961764574050903>
+2025-07-11 21:28:15 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9556235074996948>
+2025-07-11 21:28:17 [TRACE] <【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9222490787506104>
+2025-07-11 21:28:19 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:28:20 [TRACE] <【目标检测】屏幕内没有目标>
+2025-07-11 21:28:21 [TRACE] <【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8973992466926575>

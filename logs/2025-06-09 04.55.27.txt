@@ -1,0 +1,46 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765881896018982
+【目标出现】images/daily.png 置信度是：0.9965629577636719
+【1】等待目标中 images/daily_reward.png
+【2】等待目标中 images/daily_reward.png
+【3】等待目标中 images/daily_reward.png
+【4】等待目标中 images/daily_reward.png
+【5】等待目标中 images/daily_reward.png
+【6】等待目标中 images/daily_reward.png
+【7】等待目标中 images/daily_reward.png
+【8】等待目标中 images/daily_reward.png
+【跳过】images/daily_reward.png
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【跳过】images/confirm.png
+【目标出现】images/weekly_reward.png 置信度是：0.9983760118484497
+【1】等待目标中 images/weekly_reward_2.png
+【2】等待目标中 images/weekly_reward_2.png
+【3】等待目标中 images/weekly_reward_2.png
+【4】等待目标中 images/weekly_reward_2.png
+【5】等待目标中 images/weekly_reward_2.png
+【6】等待目标中 images/weekly_reward_2.png
+【7】等待目标中 images/weekly_reward_2.png
+【8】等待目标中 images/weekly_reward_2.png
+【9】等待目标中 images/weekly_reward_2.png
+【10】等待目标中 images/weekly_reward_2.png
+【11】等待目标中 images/weekly_reward_2.png
+【12】等待目标中 images/weekly_reward_2.png
+【13】等待目标中 images/weekly_reward_2.png
+【14】等待目标中 images/weekly_reward_2.png
+【15】等待目标中 images/weekly_reward_2.png
+【跳过】images/weekly_reward_2.png
+【目标出现】images/weekly_reward_3.png 置信度是：0.9951388835906982
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台

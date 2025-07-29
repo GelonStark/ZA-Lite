@@ -1,0 +1,16 @@
+{
+    "check_coffee": false,
+    "combo_task": 0,
+    "game_path": "\u7528\u6237\u672a\u6307\u5b9a",
+    "server": 0,
+    "shutdown": 0,
+    "speed": 0,
+    "check_reward": false,
+    "check_lottery": false,
+    "combo_squad": 0,
+    "combo_level": 0,
+    "combo_hollow_date": 0,
+    "combo_hollow_round": 0,
+    "combo_hollow_type": 0,
+    "developer_mode": false
+}

@@ -1,0 +1,85 @@
+2025-07-23 21:21:22 [TRACE] 【线程启动】终止监听
+2025-07-23 21:21:27 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-23 21:21:32 [DEBUG] 权限检查通过
+2025-07-23 21:21:33 [INFO] 现在执行 1 次零号空洞
+2025-07-23 21:21:33 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-23 21:21:33 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 21:21:40 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 21:21:40 [TRACE] 【线程启动】空洞搜索
+2025-07-23 21:21:40 [TRACE] 【线程启动】空洞监听
+2025-07-23 21:21:40 [TRACE] 【线程启动】空洞战斗
+2025-07-23 21:21:40 [TRACE] 【线程启动】全局监听
+2025-07-23 21:21:40 [DEBUG] 正在返回菜单
+2025-07-23 21:21:40 [TRACE] 现在处于大厅
+2025-07-23 21:21:40 [INFO] 执行零号空洞任务中
+2025-07-23 21:21:41 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:41 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:42 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:42 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:43 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:44 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:44 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:45 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:45 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:46 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:47 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:47 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:48 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:48 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:49 [TRACE] 【15】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:49 [TRACE] 【16】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:50 [TRACE] 【17】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:51 [TRACE] 【18】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:51 [TRACE] 【19】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:52 [TRACE] 【20】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:52 [ERROR] 等待超时,开始重试
+2025-07-23 21:21:53 [DEBUG] 正在返回菜单
+2025-07-23 21:21:53 [TRACE] 现在处于大厅
+2025-07-23 21:21:53 [INFO] 执行零号空洞任务中
+2025-07-23 21:21:54 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:54 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:55 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:55 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:56 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:57 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:57 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:58 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:58 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:21:59 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:00 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:00 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:01 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:01 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:02 [TRACE] 【15】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:02 [TRACE] 【16】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:03 [TRACE] 【17】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:04 [TRACE] 【18】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:04 [TRACE] 【19】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:05 [TRACE] 【20】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:05 [ERROR] 等待超时,开始重试
+2025-07-23 21:22:06 [DEBUG] 正在返回菜单
+2025-07-23 21:22:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 21:22:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 21:22:10 [TRACE] 现在处于大厅
+2025-07-23 21:22:10 [INFO] 执行零号空洞任务中
+2025-07-23 21:22:11 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:11 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:12 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:12 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:13 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:13 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:14 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:15 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:15 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:16 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:16 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:17 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:18 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:18 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:19 [TRACE] 【15】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:19 [TRACE] 【16】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:20 [TRACE] 【17】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:21 [TRACE] 【18】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:21 [TRACE] 【19】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:22 [TRACE] 【20】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow\combat.png
+2025-07-23 21:22:22 [ERROR] 等待超时,开始重试

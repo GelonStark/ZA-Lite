@@ -1,0 +1,109 @@
+2025-07-23 18:54:07 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-23 18:54:12 [TRACE] 【线程启动】全局监听
+2025-07-23 18:54:12 [TRACE] 【线程启动】Ter_liS
+2025-07-23 18:54:12 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 18:54:14 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 18:54:18 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 18:54:18 [DEBUG] 正在返回菜单
+2025-07-23 18:54:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:21 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:25 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:27 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:29 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:45 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:47 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:49 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:57 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:54:59 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:01 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:03 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:07 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:09 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:10 [TRACE] 退出战斗返回菜单
+2025-07-23 18:55:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit_battle.png 置信度：0.9938647150993347
+2025-07-23 18:55:12 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.9839462041854858
+2025-07-23 18:55:13 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:14 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:14 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:15 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:15 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:16 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:17 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:17 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:18 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\quit.png
+2025-07-23 18:55:18 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:18 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:19 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:20 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:20 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:21 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:21 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:22 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:23 [TRACE] 【跳过】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/hollow/mission_completed.png
+2025-07-23 18:55:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:25 [TRACE] 现在处于大厅
+2025-07-23 18:55:25 [INFO] 正在喝咖啡..
+2025-07-23 18:55:25 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 18:55:27 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png 置信度：0.9981213212013245
+2025-07-23 18:55:31 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png
+2025-07-23 18:55:32 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png 置信度：0.9522493481636047
+2025-07-23 18:55:33 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\loc_cafe.png 置信度：0.9997791647911072
+2025-07-23 18:55:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.9618173837661743
+2025-07-23 18:55:35 [DEBUG] 正在返回菜单
+2025-07-23 18:55:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:37 [TRACE] 现在处于大厅
+2025-07-23 18:55:38 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 18:55:41 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\order.png 置信度：0.9998436570167542
+2025-07-23 18:55:43 [DEBUG] 正在返回菜单
+2025-07-23 18:55:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:45 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:47 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:49 [TRACE] 现在处于主菜单
+2025-07-23 18:55:49 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\battery.png 置信度：0.9999999403953552
+2025-07-23 18:55:49 [INFO] 当前电量为：85，执行 1 次循环
+2025-07-23 18:55:49 [DEBUG] 正在返回菜单
+2025-07-23 18:55:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:55:52 [TRACE] 现在处于大厅
+2025-07-23 18:55:52 [INFO] 执行驱动盘任务
+2025-07-23 18:55:52 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999194741249084
+2025-07-23 18:55:54 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\tactics.png 置信度：0.9765910506248474
+2025-07-23 18:55:55 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\train.png 置信度：0.9761356711387634
+2025-07-23 18:55:56 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\sidebar_disc.png 置信度：0.997668445110321
+2025-07-23 18:55:58 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\go.png 置信度：0.9999023079872131
+2025-07-23 18:55:59 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.9839580655097961
+2025-07-23 18:56:00 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:01 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:01 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:02 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:03 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:03 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:04 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:04 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:05 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png
+2025-07-23 18:56:06 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\bait_disc.png 置信度：1.0
+2025-07-23 18:56:06 [ERROR] [Errno 2] No such file or directory: 'disc_7.png'
+2025-07-23 18:56:06 [ERROR] 无法获取电量信息
+2025-07-23 18:56:06 [DEBUG] 正在返回菜单
+2025-07-23 18:56:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-23 18:56:08 [TRACE] 现在处于大厅
+2025-07-23 18:56:09 [INFO] 正在喝咖啡..
+2025-07-23 18:56:09 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 18:56:10 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png 置信度：0.9999571442604065
+2025-07-23 18:56:15 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png
+2025-07-23 18:56:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\map_sixcent.png 置信度：0.9728356003761292
+2025-07-23 18:56:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\loc_cafe.png 置信度：0.9986515641212463
+2025-07-23 18:56:18 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\confirm.png 置信度：0.9618192315101624
+2025-07-23 18:56:19 [DEBUG] 正在返回菜单
+2025-07-23 18:56:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台

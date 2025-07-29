@@ -1,0 +1,86 @@
+2025-07-07 17:50:55 [WARNING] <有可用的更新！前往更新器获取 <1.0.4> >
+2025-07-07 17:51:00 [DEBUG] <权限检查通过>
+2025-07-07 17:51:01 [DEBUG] <初始化完毕..开始日常任务流程>
+2025-07-07 17:51:03 [DEBUG] <发现已存在的游戏窗口>
+2025-07-07 17:51:06 [SUCCESS] <程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键>
+2025-07-07 17:51:06 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:08 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:10 [TRACE] <【现在处于主菜单】>
+2025-07-07 17:51:11 [INFO] <领取奖励中>
+2025-07-07 17:51:11 [TRACE] <【目标出现】images/lobby.png 置信度是：0.9999196529388428>
+2025-07-07 17:51:13 [TRACE] <【目标出现】images/tactics.png 置信度是：0.9765781760215759>
+2025-07-07 17:51:14 [TRACE] <【目标出现】images/daily.png 置信度是：0.9965613484382629>
+2025-07-07 17:51:15 [TRACE] <【目标出现】images/daily_reward.png 置信度是：0.9080537557601929>
+2025-07-07 17:51:17 [TRACE] <【目标出现】images/confirm.png 置信度是：0.96181720495224>
+2025-07-07 17:51:18 [TRACE] <【目标出现】images/weekly_reward.png 置信度是：0.9983787536621094>
+2025-07-07 17:51:19 [TRACE] <【1】等待目标中 images/weekly_reward_2.png>
+2025-07-07 17:51:20 [TRACE] <【2】等待目标中 images/weekly_reward_2.png>
+2025-07-07 17:51:20 [TRACE] <【3】等待目标中 images/weekly_reward_2.png>
+2025-07-07 17:51:20 [TRACE] <【4】等待目标中 images/weekly_reward_2.png>
+2025-07-07 17:51:20 [TRACE] <【5】等待目标中 images/weekly_reward_2.png>
+2025-07-07 17:51:21 [TRACE] <【6】等待目标中 images/weekly_reward_2.png>
+2025-07-07 17:51:21 [TRACE] <【开始遍历】images/weekly_reward_2.png 置信度是：0.9084146618843079>
+2025-07-07 17:51:22 [TRACE] <【距离过近】跳过 (np.int64(257), np.int64(674))>
+2025-07-07 17:51:22 [TRACE] <【遍历结束】images/weekly_reward_2.png 次数:1>
+2025-07-07 17:51:22 [TRACE] <【目标出现】images/weekly_reward_3.png 置信度是：0.9951372742652893>
+2025-07-07 17:51:24 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:26 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:27 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:29 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:31 [TRACE] <【现在处于主菜单】>
+2025-07-07 17:51:33 [TRACE] <【目标出现】images/lobby.png 置信度是：0.9999194741249084>
+2025-07-07 17:51:34 [TRACE] <【1】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:35 [TRACE] <【2】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:35 [TRACE] <【3】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:36 [TRACE] <【4】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:36 [TRACE] <【5】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:37 [TRACE] <【6】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:38 [TRACE] <【7】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:38 [TRACE] <【8】等待目标中 images/monthly_ads.png>
+2025-07-07 17:51:39 [TRACE] <【跳过】images/monthly_ads.png>
+2025-07-07 17:51:39 [TRACE] <【目标出现】images/monthly_task.png 置信度是：0.9991452693939209>
+2025-07-07 17:51:40 [TRACE] <【目标出现】images/monthly_claim.png 置信度是：0.9986171722412109>
+2025-07-07 17:51:41 [TRACE] <【目标出现】images/monthly_battlepass.png 置信度是：0.9969903826713562>
+2025-07-07 17:51:43 [TRACE] <【1】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:43 [TRACE] <【2】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:44 [TRACE] <【3】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:45 [TRACE] <【4】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:45 [TRACE] <【5】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:46 [TRACE] <【6】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:46 [TRACE] <【7】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:47 [TRACE] <【8】等待目标中 images/monthly_claim.png>
+2025-07-07 17:51:48 [TRACE] <【跳过】images/monthly_claim.png>
+2025-07-07 17:51:48 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:50 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:52 [TRACE] <【现在处于主菜单】>
+2025-07-07 17:51:52 [TRACE] <【目标出现】images/mail.png 置信度是：0.9373695850372314>
+2025-07-07 17:51:54 [TRACE] <【目标出现】images/mail_claim.png 置信度是：0.9643223285675049>
+2025-07-07 17:51:55 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:57 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:51:59 [TRACE] <【现在处于主菜单】>
+2025-07-07 17:52:00 [TRACE] <【目标出现】images/events.png 置信度是：1.0>
+2025-07-07 17:52:01 [TRACE] <【1】等待目标中 images/bait_event.png>
+2025-07-07 17:52:01 [TRACE] <【2】等待目标中 images/bait_event.png>
+2025-07-07 17:52:02 [TRACE] <【3】等待目标中 images/bait_event.png>
+2025-07-07 17:52:03 [TRACE] <【4】等待目标中 images/bait_event.png>
+2025-07-07 17:52:03 [TRACE] <【5】等待目标中 images/bait_event.png>
+2025-07-07 17:52:04 [TRACE] <【6】等待目标中 images/bait_event.png>
+2025-07-07 17:52:04 [TRACE] <【7】等待目标中 images/bait_event.png>
+2025-07-07 17:52:05 [TRACE] <【8】等待目标中 images/bait_event.png>
+2025-07-07 17:52:05 [TRACE] <【9】等待目标中 images/bait_event.png>
+2025-07-07 17:52:06 [TRACE] <【10】等待目标中 images/bait_event.png>
+2025-07-07 17:52:07 [TRACE] <【11】等待目标中 images/bait_event.png>
+2025-07-07 17:52:07 [TRACE] <【12】等待目标中 images/bait_event.png>
+2025-07-07 17:52:08 [TRACE] <【13】等待目标中 images/bait_event.png>
+2025-07-07 17:52:08 [TRACE] <【14】等待目标中 images/bait_event.png>
+2025-07-07 17:52:09 [TRACE] <【15】等待目标中 images/bait_event.png>
+2025-07-07 17:52:09 [TRACE] <【16】等待目标中 images/bait_event.png>
+2025-07-07 17:52:10 [TRACE] <【17】等待目标中 images/bait_event.png>
+2025-07-07 17:52:11 [TRACE] <【18】等待目标中 images/bait_event.png>
+2025-07-07 17:52:11 [TRACE] <【19】等待目标中 images/bait_event.png>
+2025-07-07 17:52:12 [TRACE] <【20】等待目标中 images/bait_event.png>
+2025-07-07 17:52:12 [ERROR] <----------等待超时,开始重试---------->
+2025-07-07 17:52:16 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-07-07 17:52:18 [TRACE] <【现在处于主菜单】>
+2025-07-07 17:52:19 [INFO] <领取奖励中>
+2025-07-07 17:52:19 [TRACE] <【1】等待目标中 images/lobby.png>

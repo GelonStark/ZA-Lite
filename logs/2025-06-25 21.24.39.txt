@@ -1,0 +1,54 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【1】等待目标中 images/battery.png
+【2】等待目标中 images/battery.png
+【3】等待目标中 images/battery.png
+【4】等待目标中 images/battery.png
+【5】等待目标中 images/battery.png
+【6】等待目标中 images/battery.png
+【7】等待目标中 images/battery.png
+【8】等待目标中 images/battery.png
+【9】等待目标中 images/battery.png
+【10】等待目标中 images/battery.png
+【11】等待目标中 images/battery.png
+【12】等待目标中 images/battery.png
+【13】等待目标中 images/battery.png
+【14】等待目标中 images/battery.png
+【15】等待目标中 images/battery.png
+【16】等待目标中 images/battery.png
+【17】等待目标中 images/battery.png
+【18】等待目标中 images/battery.png
+【19】等待目标中 images/battery.png
+【20】等待目标中 images/battery.png
+--------等待超时,开始重试--------
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 738, in run
+    cprint(f"剩余电量:{battery_check()}",32)
+                       ~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 243, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+    ^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 738, in run
+    cprint(f"剩余电量:{battery_check()}",32)
+                       ~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 243, in battery_check
+    x,y=match_tpl("images/battery.png","move")
+    ^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 748, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 745, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt

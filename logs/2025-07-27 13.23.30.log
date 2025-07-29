@@ -1,0 +1,237 @@
+2025-07-27 13:23:32 [TRACE] 【线程启动】全局监听
+2025-07-27 13:23:32 [TRACE] 【线程启动】终止监听
+2025-07-27 13:23:33 [INFO] 现在执行 1 次零号空洞
+2025-07-27 13:23:35 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-27 13:23:37 [DEBUG] 发现已存在的游戏窗口
+2025-07-27 13:23:41 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-27 13:23:41 [TRACE] 【线程启动】空洞搜索
+2025-07-27 13:23:41 [TRACE] 【线程启动】空洞监听
+2025-07-27 13:23:41 [TRACE] 【线程启动】空洞战斗
+2025-07-27 13:23:41 [DEBUG] 正在返回菜单
+2025-07-27 13:23:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:23:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:23:45 [TRACE] 现在处于大厅
+2025-07-27 13:23:46 [INFO] 执行零号空洞任务中
+2025-07-27 13:23:46 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png
+2025-07-27 13:23:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png 置信度：0.9763174057006836
+2025-07-27 13:23:48 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\zero_hollow.png 置信度：0.9999946355819702
+2025-07-27 13:23:49 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\go_hollow.png 置信度：0.994223952293396
+2025-07-27 13:23:51 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\confirm.png 置信度：0.983951985836029
+2025-07-27 13:23:52 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-27 13:23:53 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-27 13:23:53 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-27 13:23:54 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png 置信度：0.9999799728393555
+2025-07-27 13:23:55 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy.png 置信度：0.9598177075386047
+2025-07-27 13:23:56 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png
+2025-07-27 13:23:57 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png 置信度：0.9999995231628418
+2025-07-27 13:23:58 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_step.png 置信度：0.9864810705184937
+2025-07-27 13:23:59 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png 置信度：0.986233115196228
+2025-07-27 13:24:01 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_5.png 置信度：0.9680638909339905
+2025-07-27 13:24:02 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\select_squad.png 置信度：0.9700149297714233
+2025-07-27 13:24:03 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\start_battle.png 置信度：0.9779570698738098
+2025-07-27 13:24:04 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-27 13:24:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:24:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:24:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:24:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:24:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:07 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:10 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-27 13:24:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:13 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-27 13:24:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:15 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-27 13:24:15 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:17 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:18 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-27 13:24:18 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:19 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:20 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:21 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-27 13:24:21 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:22 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:24 [TRACE] 【空洞监听】无匹配已持续：13秒
+2025-07-27 13:24:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:24 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:25 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:26 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:27 [TRACE] 【空洞监听】无匹配已持续：16秒
+2025-07-27 13:24:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:30 [TRACE] 【空洞监听】无匹配已持续：20秒
+2025-07-27 13:24:30 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:24:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:34 [TRACE] 【空洞监听】无匹配已持续：23秒
+2025-07-27 13:24:34 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:24:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:37 [TRACE] 【空洞监听】无匹配已持续：26秒
+2025-07-27 13:24:37 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:24:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:40 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:40 [TRACE] 【空洞监听】无匹配已持续：30秒
+2025-07-27 13:24:40 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:24:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:41 [WARNING] 空洞任务异常，跳过本轮
+2025-07-27 13:24:41 [INFO] 本轮耗时:0分钟
+2025-07-27 13:24:41 [INFO] 当前完成空洞 0 次 
+2025-07-27 13:24:41 [DEBUG] 正在返回菜单
+2025-07-27 13:24:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:24:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:24:43 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:24:45 [TRACE] 退出战斗返回菜单
+2025-07-27 13:24:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit_battle.png 置信度：0.9938646554946899
+2025-07-27 13:24:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9839380979537964
+2025-07-27 13:24:48 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:49 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:49 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:50 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:51 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:51 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:52 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:52 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:53 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:24:53 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow/mission_completed.png 置信度：0.9999998211860657
+2025-07-27 13:24:55 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:24:57 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:24:59 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:25:01 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:25:03 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:25:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:25:07 [TRACE] 现在处于大厅
+2025-07-27 13:25:07 [INFO] 执行零号空洞任务中
+2025-07-27 13:25:08 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png
+2025-07-27 13:25:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png 置信度：0.9763121008872986
+2025-07-27 13:25:10 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\zero_hollow.png 置信度：0.9999936819076538
+2025-07-27 13:25:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\go_hollow.png 置信度：0.9941400289535522
+2025-07-27 13:25:12 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\confirm.png 置信度：0.9839428067207336
+2025-07-27 13:25:14 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-27 13:25:14 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-27 13:25:15 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-07-27 13:25:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png 置信度：0.9999720454216003
+2025-07-27 13:25:17 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy.png 置信度：0.9687796831130981
+2025-07-27 13:25:18 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png
+2025-07-27 13:25:18 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png 置信度：0.9999998211860657
+2025-07-27 13:25:20 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_step.png 置信度：0.9862335324287415
+2025-07-27 13:25:21 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png 置信度：0.9862318634986877
+2025-07-27 13:25:22 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_5.png 置信度：0.9452522993087769
+2025-07-27 13:25:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\select_squad.png 置信度：0.9701715111732483
+2025-07-27 13:25:25 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\start_battle.png 置信度：0.9815096855163574
+2025-07-27 13:25:26 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:25:27 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:25:27 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:25:28 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:25:28 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-27 13:25:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:29 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:31 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:32 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-27 13:25:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:32 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:34 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-27 13:25:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:36 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-27 13:25:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:37 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:38 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:39 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-27 13:25:39 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:41 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:42 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:42 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-27 13:25:43 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:44 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:45 [TRACE] 【空洞监听】无匹配已持续：13秒
+2025-07-27 13:25:45 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:46 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:48 [TRACE] 【空洞监听】无匹配已持续：16秒
+2025-07-27 13:25:48 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-27 13:25:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:50 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:51 [TRACE] 【空洞监听】无匹配已持续：18秒
+2025-07-27 13:25:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:53 [TRACE] 【空洞监听】无匹配已持续：21秒
+2025-07-27 13:25:53 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:25:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:57 [TRACE] 【空洞监听】无匹配已持续：25秒
+2025-07-27 13:25:57 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:25:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:25:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:00 [TRACE] 【空洞监听】无匹配已持续：28秒
+2025-07-27 13:26:00 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:26:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:03 [TRACE] 【空洞监听】无匹配已持续：31秒
+2025-07-27 13:26:03 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-07-27 13:26:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:03 [WARNING] 空洞任务异常，跳过本轮
+2025-07-27 13:26:03 [INFO] 本轮耗时:0分钟
+2025-07-27 13:26:03 [INFO] 当前完成空洞 0 次 
+2025-07-27 13:26:03 [DEBUG] 正在返回菜单
+2025-07-27 13:26:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-27 13:26:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:26:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:26:08 [TRACE] 退出战斗返回菜单
+2025-07-27 13:26:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit_battle.png 置信度：0.9938648343086243
+2025-07-27 13:26:09 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.983942985534668
+2025-07-27 13:26:11 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:11 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:12 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:12 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:13 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:14 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:14 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:15 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:15 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\quit.png
+2025-07-27 13:26:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow/mission_completed.png 置信度：0.9999996423721313
+2025-07-27 13:26:17 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:26:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:26:21 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-27 13:26:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台

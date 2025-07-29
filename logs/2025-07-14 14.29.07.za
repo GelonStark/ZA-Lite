@@ -1,0 +1,38 @@
+2025-07-14 14:29:10 [DEBUG] 【线程启动】Obj_Sea
+2025-07-14 14:29:10 [DEBUG] 【线程启动】GLo_liS
+2025-07-14 14:29:11 [DEBUG] 【线程启动】HoL_Bat
+2025-07-14 14:29:13 [DEBUG] 【线程启动】Atk_dEt
+2025-07-14 14:29:14 [DEBUG] 【线程启动】Ter_liS
+2025-07-14 14:29:15 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-14 14:29:17 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-14 14:29:17 [DEBUG] 发现已存在的游戏窗口
+2025-07-14 14:29:20 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:29:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:29:24 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:29:26 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:29:28 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-14 14:29:30 [INFO] 【现在处于主菜单】
+2025-07-14 14:29:32 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-14 14:29:32 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png 置信度：0.9763116240501404
+2025-07-14 14:29:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png 置信度：0.9999999403953552
+2025-07-14 14:29:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/go_hollow.png 置信度：0.9945394992828369
+2025-07-14 14:29:36 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/confirm.png 置信度：0.983948290348053
+2025-07-14 14:29:38 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_battlefront.png
+2025-07-14 14:29:38 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_battlefront.png
+2025-07-14 14:29:39 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_battlefront.png
+2025-07-14 14:29:39 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_battlefront.png 置信度：0.9999875426292419
+2025-07-14 14:29:41 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/buff.png 置信度：0.9999998211860657
+2025-07-14 14:29:42 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:43 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:43 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:44 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:45 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:45 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:46 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:46 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:47 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:47 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:48 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:49 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:49 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png
+2025-07-14 14:29:50 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/strategy_confirm.png

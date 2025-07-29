@@ -1,0 +1,94 @@
+【发现已存在的游戏窗口】
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【现在处于主菜单】
+🟢【目标出现】 battery (confidence:0.9999996423721313)
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：203 
+任务开始，执行 2 次循环
+【现在处于主菜单】
+【等待目标中】 lobby [1]
+【等待目标中】 lobby [2]
+🟢【目标出现】 lobby (confidence:0.9999196529388428)
+【等待目标中】 tactics [1]
+【等待目标中】 tactics [2]
+【等待目标中】 tactics [3]
+【等待目标中】 tactics [4]
+【等待目标中】 tactics [5]
+【等待目标中】 tactics [6]
+【等待目标中】 tactics [7]
+【等待目标中】 tactics [8]
+【等待目标中】 tactics [9]
+【等待目标中】 tactics [10]
+【等待目标中】 tactics [11]
+【等待目标中】 tactics [12]
+【等待目标中】 tactics [13]
+【等待目标中】 tactics [14]
+【等待目标中】 tactics [15]
+【等待目标中】 tactics [16]
+【等待目标中】 tactics [17]
+【等待目标中】 tactics [18]
+【等待目标中】 tactics [19]
+【等待目标中】 tactics [20]
+--------等待超时,开始重试--------
+【正在返回菜单】 请保持游戏画面处于前台
+【现在处于主菜单】
+🟢【目标出现】 battery (confidence:1.0)
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：203 
+任务开始，执行 2 次循环
+【现在处于主菜单】
+🟢【目标出现】 lobby (confidence:0.9999196529388428)
+🟢【目标出现】 tactics (confidence:0.9766022562980652)
+🟢【目标出现】 train (confidence:0.976133406162262)
+🟢【目标出现】 go (confidence:0.9999022483825684)
+🟢【目标出现】 confirm (confidence:0.9839627146720886)
+【等待目标中】 return [1]
+【等待目标中】 return [2]
+【等待目标中】 return [3]
+【等待目标中】 return [4]
+🟢【目标出现】 return (confidence:0.9999295473098755)
+【等待目标中】 upgrade_basic [1]
+【等待目标中】 upgrade_basic [2]
+【等待目标中】 upgrade_basic [3]
+【等待目标中】 upgrade_basic [4]
+【等待目标中】 upgrade_basic [5]
+【等待目标中】 upgrade_basic [6]
+【等待目标中】 upgrade_basic [7]
+【等待目标中】 upgrade_basic [8]
+【等待目标中】 upgrade_basic [9]
+【等待目标中】 upgrade_basic [10]
+【等待目标中】 upgrade_basic [11]
+【等待目标中】 upgrade_basic [12]
+【等待目标中】 upgrade_basic [13]
+【等待目标中】 upgrade_basic [14]
+【等待目标中】 upgrade_basic [15]
+【等待目标中】 upgrade_basic [16]
+【等待目标中】 upgrade_basic [17]
+【等待目标中】 upgrade_basic [18]
+【等待目标中】 upgrade_basic [19]
+【等待目标中】 upgrade_basic [20]
+--------等待超时,开始重试--------
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台
+【正在返回菜单】 请保持游戏画面处于前台

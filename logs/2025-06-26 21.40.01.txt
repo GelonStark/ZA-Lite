@@ -1,0 +1,56 @@
+ÄãÓ¦¸Ã¿´²»¼ûÕâ¸ö¡¾·¢ÏÖÒÑ´æÔÚµÄÓÎÏ·´°¿Ú¡¿
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+[37m2025-06-26T21:40:04.153558+0800[0m [34m[1mDEBUG[0m[34m[1mÕıÔÚ·µ»ØÖ÷²Ëµ¥[0m
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+[37m2025-06-26T21:40:06.069190+0800[0m [34m[1mDEBUG[0m[34m[1mÕıÔÚ·µ»ØÖ÷²Ëµ¥[0m
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃĞÅ¶ÈÊÇ£º1.0
+Using CPU. Note: This module is much faster with a GPU.
+µ±Ç°µçÁ¿Îª£º174 
+ÈÎÎñ¿ªÊ¼£¬Ö´ĞĞ 1 ´ÎÑ­»·
+[37m2025-06-26T21:40:11.739936+0800[0m [1mINFO[0m[1mµ±Ç°µçÁ¿Îª£º174 ÈÎÎñ¿ªÊ¼£¬Ö´ĞĞ 1 ´ÎÑ­»·[0m
+ÕıÔÚ·µ»Ø²Ëµ¥,Çë±£³ÖÓÎÏ·»­Ãæ´¦ÓÚÇ°Ì¨
+[37m2025-06-26T21:40:11.895097+0800[0m [34m[1mDEBUG[0m[34m[1mÕıÔÚ·µ»ØÖ÷²Ëµ¥[0m
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 751, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 691, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 518, in upgrade
+    menu('leave')
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 192, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:Ö÷Ïß³Ì³ö´í
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 751, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 691, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 518, in upgrade
+    menu('leave')
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 192, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 777, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 774, in run
+    input('Exception:Ö÷Ïß³Ì³ö´í\n°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

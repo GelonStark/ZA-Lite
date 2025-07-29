@@ -1,0 +1,24 @@
+2025-07-16 02:00:25 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-16 02:00:30 [DEBUG] 【线程启动】Ter_liS
+2025-07-16 02:00:30 [DEBUG] 【线程启动】Atk_dEt
+2025-07-16 02:00:30 [DEBUG] 【线程启动】Glo_Lis
+2025-07-16 02:00:30 [DEBUG] 权限检查通过
+2025-07-16 02:00:31 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-16 02:00:33 [DEBUG] 【启动游戏】 D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+2025-07-16 02:02:06 [ERROR] ----------------未知错误--------------------
+2025-07-16 02:02:06 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 816, in start_daily
+    getwin()  #启动游戏或激活窗口
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 282, in getwin
+    allwin = pygetwindow.getAllTitles()
+  File "C:\Python\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 160, in getAllTitles
+    return [window.title for window in getAllWindows()]
+            ^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\pygetwindow\_pygetwindow_win.py", line 297, in title
+    ctypes.windll.user32.GetWindowTextW(self._hWnd, stringBuffer, textLenInCharacters + 1)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+2025-07-16 02:02:06 [INFO] 【零号空洞】现在执行 1 次
+2025-07-16 02:02:06 [DEBUG] 初始化完毕..启动{零号空洞}模块

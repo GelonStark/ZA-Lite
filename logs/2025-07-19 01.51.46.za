@@ -1,0 +1,275 @@
+2025-07-19 01:51:48 [INFO] 现在执行 2 次零号空洞
+2025-07-19 01:51:48 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-19 01:51:50 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-19 01:51:50 [TRACE] 【线程启动】Hol_Sea
+2025-07-19 01:51:50 [TRACE] 【线程启动】Hol_liS
+2025-07-19 01:51:50 [TRACE] 【线程启动】HoL_Bat
+2025-07-19 01:51:50 [TRACE] 【线程启动】ATt_dEt
+2025-07-19 01:51:50 [TRACE] 【线程启动】Ter_liS
+2025-07-19 01:51:50 [TRACE] 【线程启动】Glo_Lis
+2025-07-19 01:51:50 [DEBUG] 发现已存在的游戏窗口
+2025-07-19 01:51:53 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:51:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:51:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:51:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:51:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:51:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:51:56 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:51:58 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9501293301582336
+2025-07-19 01:51:58 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-19 01:52:01 [TRACE] 【空洞监听】无匹配已持续：7秒
+2025-07-19 01:52:04 [ERROR] 初次检测
+2025-07-19 01:52:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:08 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.749069333076477
+2025-07-19 01:52:10 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:52:12 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:52:14 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-19 01:52:16 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8119308352470398
+2025-07-19 01:52:16 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-19 01:52:19 [TRACE] 【空洞监听】无匹配已持续：8秒
+2025-07-19 01:52:21 [TRACE] 【空洞监听】无匹配已持续：11秒
+2025-07-19 01:52:22 [ERROR] 第四次
+2025-07-19 01:52:22 [ERROR] 满足
+2025-07-19 01:52:23 [TRACE] 【空洞监听】无匹配已持续：13秒
+2025-07-19 01:52:26 [TRACE] 【空洞监听】无匹配已持续：15秒
+2025-07-19 01:52:26 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8065380454063416
+2025-07-19 01:52:28 [TRACE] 【空洞监听】无匹配已持续：18秒
+2025-07-19 01:52:30 [TRACE] 【空洞监听】无匹配已持续：20秒
+2025-07-19 01:52:32 [ERROR] 初次检测
+2025-07-19 01:52:32 [TRACE] 【空洞监听】无匹配已持续：22秒
+2025-07-19 01:52:33 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:34 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:34 [TRACE] 【空洞监听】无匹配已持续：24秒
+2025-07-19 01:52:35 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9106134176254272
+2025-07-19 01:52:37 [TRACE] 【空洞监听】无匹配已持续：26秒
+2025-07-19 01:52:42 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:43 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:45 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:52:48 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:49 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:52:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:52 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:52 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:53 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:54 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:54 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9920591711997986
+2025-07-19 01:52:55 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:56 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:56 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:52:57 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:52:58 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:52:59 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9390228390693665
+2025-07-19 01:52:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:53:00 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9398233890533447
+2025-07-19 01:53:02 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:53:04 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:53:06 [ERROR] 第四次
+2025-07-19 01:53:06 [ERROR] 满足
+2025-07-19 01:53:06 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-19 01:53:09 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-19 01:53:10 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:10 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_1.png 置信度：0.998327374458313
+2025-07-19 01:53:10 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：1.0
+2025-07-19 01:53:21 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:53:25 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999993443489075
+2025-07-19 01:53:25 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:53:28 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9583070874214172
+2025-07-19 01:53:29 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:53:31 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:53:33 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-19 01:53:33 [ERROR] 初次检测
+2025-07-19 01:53:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:53:35 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-19 01:53:36 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:53:36 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_1.png 置信度：1.0
+2025-07-19 01:53:37 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999997615814209
+2025-07-19 01:53:42 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:53:45 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:53:49 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-19 01:53:49 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:49 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:49 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:50 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:51 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:51 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:53:51 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:53:52 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:53:52 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999992251396179
+2025-07-19 01:53:53 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:53:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9603834748268127
+2025-07-19 01:53:55 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8496127128601074
+2025-07-19 01:53:57 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:53:59 [TRACE] 【空洞监听】无匹配已持续：1秒
+2025-07-19 01:54:01 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-19 01:54:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:03 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-19 01:54:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:04 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:05 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:06 [TRACE] 【空洞监听】无匹配已持续：8秒
+2025-07-19 01:54:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:08 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-07-19 01:54:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:11 [TRACE] 【空洞监听】无匹配已持续：13秒
+2025-07-19 01:54:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:11 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:12 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:13 [TRACE] 【空洞监听】无匹配已持续：15秒
+2025-07-19 01:54:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:13 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:14 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:15 [TRACE] 【空洞监听】无匹配已持续：18秒
+2025-07-19 01:54:16 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:54:18 [TRACE] 【空洞监听】无匹配已持续：20秒
+2025-07-19 01:54:18 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9253379702568054
+2025-07-19 01:54:20 [TRACE] 【空洞监听】无匹配已持续：22秒
+2025-07-19 01:54:22 [TRACE] 【空洞监听】无匹配已持续：24秒
+2025-07-19 01:54:24 [TRACE] 【空洞监听】无匹配已持续：26秒
+2025-07-19 01:54:24 [ERROR] 第四次
+2025-07-19 01:54:24 [ERROR] 满足
+2025-07-19 01:54:26 [TRACE] 【空洞监听】无匹配已持续：29秒
+2025-07-19 01:54:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:27 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:28 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:29 [TRACE] 【空洞监听】无匹配已持续：31秒
+2025-07-19 01:54:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:30 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_2.png 置信度：0.9999997615814209
+2025-07-19 01:54:30 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:54:30 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：0.9999999403953552
+2025-07-19 01:54:34 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_3.png 置信度：1.0
+2025-07-19 01:54:38 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:54:40 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9192971587181091
+2025-07-19 01:54:41 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.7032127380371094
+2025-07-19 01:54:44 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:54:46 [TRACE] 【空洞监听】无匹配已持续：1秒
+2025-07-19 01:54:47 [ERROR] 初次检测
+2025-07-19 01:54:48 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-19 01:54:50 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.9250372648239136
+2025-07-19 01:54:51 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-19 01:54:53 [TRACE] 【空洞监听】无匹配已持续：9秒
+2025-07-19 01:54:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：1.0
+2025-07-19 01:54:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/card.png 置信度：0.986535370349884
+2025-07-19 01:54:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999996423721313
+2025-07-19 01:54:57 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/card.png 置信度：0.98653644323349
+2025-07-19 01:54:57 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:54:57 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:54:58 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:54:58 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:54:59 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:01 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:55:02 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:02 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:03 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:03 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-19 01:55:03 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:03 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/card.png 置信度：0.98653644323349
+2025-07-19 01:55:03 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:03 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:04 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:05 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:06 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:06 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/resonium.png 置信度：0.9999998807907104
+2025-07-19 01:55:06 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:07 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/card.png 置信度：0.986535370349884
+2025-07-19 01:55:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:07 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:08 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:08 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:09 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:10 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:11 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999993443489075
+2025-07-19 01:55:12 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:12 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:55:14 [TRACE] 【目标检测】TRAPPED！ 类型：red_portal 置信度：0.8713655471801758
+2025-07-19 01:55:16 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:55:17 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9888126850128174
+2025-07-19 01:55:20 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9943645596504211
+2025-07-19 01:55:20 [ERROR] 第四次
+2025-07-19 01:55:20 [ERROR] 满足
+2025-07-19 01:55:22 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.963360607624054
+2025-07-19 01:55:24 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 01:55:26 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:55:27 [TRACE] 【目标检测】TRAPPED！ 类型：guide_point 置信度：0.8340421915054321
+2025-07-19 01:55:28 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:55:31 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-19 01:55:32 [ERROR] 初次检测
+2025-07-19 01:55:33 [TRACE] 【空洞监听】无匹配已持续：6秒
+2025-07-19 01:55:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:34 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:35 [TRACE] 【空洞监听】无匹配已持续：8秒
+2025-07-19 01:55:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:35 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:36 [TRACE] 【状态】战斗模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_5.png 置信度：0.9764403700828552
+2025-07-19 01:55:41 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:55:44 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:55:47 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-07-19 01:55:53 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:55:53 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/battle_end_boss.png 置信度：0.9999361634254456
+2025-07-19 01:55:54 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 01:55:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:56 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:57 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:58 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 01:55:58 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:55:59 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:56:00 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:56:00 [TRACE] 【空洞监听】无匹配已持续：2秒
+2025-07-19 01:56:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:56:01 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:56:02 [TRACE] 【目标检测】屏幕内没有目标
+2025-07-19 01:56:02 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.8978531360626221
+2025-07-19 01:56:03 [TRACE] 【空洞监听】无匹配已持续：4秒
+2025-07-19 01:56:10 [TRACE] 【目标检测】TRAPPED！ 类型：interact 置信度：0.930816113948822
+2025-07-19 01:56:16 [ERROR] 第四次
+2025-07-19 01:56:16 [ERROR] 满足
+2025-07-19 01:56:19 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/next_area.png 置信度：0.9999992251396179
+2025-07-19 01:56:20 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8008659482002258
+2025-07-19 01:56:23 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9770293235778809
+2025-07-19 01:56:26 [ERROR] 初次检测
+2025-07-19 01:56:27 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9611005187034607
+2025-07-19 01:56:28 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8063733577728271
+2025-07-19 01:56:29 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9774594902992249
+2025-07-19 01:56:35 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9702731966972351
+2025-07-19 01:56:36 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8610495328903198
+2025-07-19 01:56:38 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9138907790184021
+2025-07-19 01:56:41 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9152645468711853
+2025-07-19 01:56:42 [ERROR] 第四次
+2025-07-19 01:56:42 [ERROR] 满足
+2025-07-19 01:56:44 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9299171566963196
+2025-07-19 01:56:46 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.7692195773124695
+2025-07-19 01:56:47 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9265900254249573
+2025-07-19 01:56:51 [ERROR] 初次检测
+2025-07-19 01:56:52 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9346769452095032
+2025-07-19 01:56:54 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8598621487617493
+2025-07-19 01:56:55 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9299430847167969
+2025-07-19 01:56:58 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9577548503875732
+2025-07-19 01:57:01 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9695825576782227
+2025-07-19 01:57:03 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.7545157074928284

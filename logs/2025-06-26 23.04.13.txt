@@ -1,0 +1,66 @@
+【发现已存在的游戏窗口】
+
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度：0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：188 
+任务开始，执行 1 次循环
+
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度：0.9999196529388428
+【等待目标中】images/tactics.png[1]
+【等待目标中】images/tactics.png[2]
+【等待目标中】images/tactics.png[3]
+【等待目标中】images/tactics.png[4]
+【等待目标中】images/tactics.png[5]
+【等待目标中】images/tactics.png[6]
+【等待目标中】images/tactics.png[7]
+【等待目标中】images/tactics.png[8]
+【等待目标中】images/tactics.png[9]
+【等待目标中】images/tactics.png[10]
+【等待目标中】images/tactics.png[11]
+【等待目标中】images/tactics.png[12]
+【等待目标中】images/tactics.png[13]
+【等待目标中】images/tactics.png[14]
+【等待目标中】images/tactics.png[15]
+【等待目标中】images/tactics.png[16]
+【等待目标中】images/tactics.png[17]
+【等待目标中】images/tactics.png[18]
+【等待目标中】images/tactics.png[19]
+【等待目标中】images/tactics.png[20]
+--------等待超时,开始重试--------
+【正在返回菜单】请保持游戏画面处于前台[1]【正在返回菜单】请保持游戏画面处于前台[2]【正在返回菜单】请保持游戏画面处于前台[3]-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 738, in run
+    battery=battery_check()    #获取体力信息
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 245, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 191, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+Exception:主线程出错
+按回车键退出(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 738, in run
+    battery=battery_check()    #获取体力信息
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 245, in battery_check
+    menu('stay')
+    ~~~~^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 191, in menu
+    time.sleep(wait_speed)
+    ~~~~~~~~~~^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 768, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 765, in run
+    input('Exception:主线程出错\n按回车键退出(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

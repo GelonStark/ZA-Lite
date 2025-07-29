@@ -1,0 +1,83 @@
+【启动游戏】 D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：192 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765910506248474
+【目标出现】images/combat.png 置信度是：0.9763240814208984
+【目标出现】images/go.png 置信度是：0.9890545010566711
+【1】等待目标中 images/hunt_1.png
+【2】等待目标中 images/hunt_1.png
+【3】等待目标中 images/hunt_1.png
+【4】等待目标中 images/hunt_1.png
+【目标出现】images/hunt_1.png 置信度是：0.9539787173271179
+【1】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.983962893486023
+【1】等待目标中 images/hunt_off.png
+【2】等待目标中 images/hunt_off.png
+【3】等待目标中 images/hunt_off.png
+【4】等待目标中 images/hunt_off.png
+【5】等待目标中 images/hunt_off.png
+【6】等待目标中 images/hunt_off.png
+【7】等待目标中 images/hunt_off.png
+【8】等待目标中 images/hunt_off.png
+【跳过】images/hunt_off.png
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【跳过】images/confirm.png
+【目标出现】images/level.png 置信度是：0.9822465181350708
+【目标出现】images/level.png 置信度是：0.982291042804718
+【目标出现】images/next_step.png 置信度是：0.9826769232749939
+【目标出现】images/squad_preset.png 置信度是：0.986170768737793
+【目标出现】images/squad_6.png 置信度是：0.956576406955719
+【目标出现】images/select_squad.png 置信度是：0.9694491028785706
+【目标出现】images/start_battle.png 置信度是：0.9775545597076416
+【目标检测】ALIGNED！0.91949862241745
+【目标出现】images/select.png 置信度是：0.9996985793113708
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 

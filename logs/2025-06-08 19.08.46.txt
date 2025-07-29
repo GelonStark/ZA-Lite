@@ -1,0 +1,25 @@
+【发现已存在的游戏窗口】
+bm
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+bm
+当前电量为：320 
+任务开始，执行 5 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+bm
+【目标出现】images/tactics.png 置信度是：0.9765916466712952
+【目标出现】images/train.png 置信度是：0.9761331081390381
+【目标出现】images/sidebar_disc.png 置信度是：0.9976672530174255
+【目标出现】images/go.png 置信度是：0.9999024271965027
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【9】等待目标中 images/confirm.png

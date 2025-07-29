@@ -1,0 +1,82 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+bm
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+bm
+当前电量为：320 
+任务开始，执行 5 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9765913486480713
+【目标出现】images/train.png 置信度是：0.9761356711387634
+bm
+【目标出现】images/sidebar_disc.png 置信度是：0.9976673722267151
+【目标出现】images/go.png 置信度是：0.9999024868011475
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.9678007364273071
+【1】等待目标中 images/bait_disc.png
+【2】等待目标中 images/bait_disc.png
+【3】等待目标中 images/bait_disc.png
+【4】等待目标中 images/bait_disc.png
+【5】等待目标中 images/bait_disc.png
+【6】等待目标中 images/bait_disc.png
+bm
+【7】等待目标中 images/bait_disc.png
+【目标出现】images/bait_disc.png 置信度是：1.0
+【目标出现】images/disc_10.png 置信度是：1.0
+【目标出现】images/level.png 置信度是：0.9822466373443604
+【目标出现】images/level.png 置信度是：0.9822466373443604
+【目标出现】images/next_step.png 置信度是：0.9829258918762207
+【1】等待目标中 images/squad_preset.png
+【2】等待目标中 images/squad_preset.png
+【3】等待目标中 images/squad_preset.png
+【4】等待目标中 images/squad_preset.png
+【目标出现】images/squad_preset.png 置信度是：0.9862326979637146
+bm
+【1】等待目标中 images/squad_2.png
+【2】等待目标中 images/squad_2.png
+【3】等待目标中 images/squad_2.png
+【4】等待目标中 images/squad_2.png
+【5】等待目标中 images/squad_2.png
+【6】等待目标中 images/squad_2.png
+【7】等待目标中 images/squad_2.png
+【8】等待目标中 images/squad_2.png
+【9】等待目标中 images/squad_2.png
+【10】等待目标中 images/squad_2.png
+【11】等待目标中 images/squad_2.png
+bm
+【12】等待目标中 images/squad_2.png
+【13】等待目标中 images/squad_2.png
+【14】等待目标中 images/squad_2.png
+【15】等待目标中 images/squad_2.png
+【16】等待目标中 images/squad_2.png
+【17】等待目标中 images/squad_2.png
+【18】等待目标中 images/squad_2.png
+【19】等待目标中 images/squad_2.png
+【20】等待目标中 images/squad_2.png
+--------等待超时,开始重试--------
+正在返回菜单,请保持游戏画面处于前台
+bm
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+bm
+【目标出现】images/quit_battle.png 置信度是：0.9938649535179138
+【1】等待目标中 images/confirm.png
+【2】等待目标中 images/confirm.png
+【3】等待目标中 images/confirm.png
+【4】等待目标中 images/confirm.png
+【5】等待目标中 images/confirm.png
+【6】等待目标中 images/confirm.png
+【7】等待目标中 images/confirm.png
+【8】等待目标中 images/confirm.png
+【9】等待目标中 images/confirm.png

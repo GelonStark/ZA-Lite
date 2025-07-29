@@ -1,0 +1,22 @@
+2025-07-19 04:56:49 [INFO] 现在执行 999 次零号空洞
+2025-07-19 04:56:49 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-19 04:56:51 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-19 04:56:51 [TRACE] 【线程启动】Hol_Sea
+2025-07-19 04:56:51 [TRACE] 【线程启动】Hol_liS
+2025-07-19 04:56:51 [TRACE] 【线程启动】HoL_Bat
+2025-07-19 04:56:51 [TRACE] 【线程启动】ATt_dEt
+2025-07-19 04:56:51 [TRACE] 【线程启动】Ter_liS
+2025-07-19 04:56:51 [TRACE] 【线程启动】Glo_Lis
+2025-07-19 04:56:51 [DEBUG] 发现已存在的游戏窗口
+2025-07-19 04:56:55 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 04:56:56 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9693923592567444
+2025-07-19 04:56:57 [TRACE] 【目标检测】微调超时，无法对齐！
+2025-07-19 04:56:59 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8938719034194946
+2025-07-19 04:56:59 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9595001935958862
+2025-07-19 04:57:04 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.9181682467460632
+2025-07-19 04:57:04 [TRACE] 【目标检测】目标存在，但置信度不足
+2025-07-19 04:57:06 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.8112010955810547
+2025-07-19 04:57:09 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-07-19 04:57:10 [TRACE] 【目标检测】TRAPPED！ 类型：blue_portal 置信度：0.9006274342536926
+2025-07-19 04:57:10 [TRACE] 【状态】搜索模式：C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/meter.png 置信度：0.969014048576355
+2025-07-19 04:57:14 [TRACE] 【空洞监听】无匹配已持续：0秒

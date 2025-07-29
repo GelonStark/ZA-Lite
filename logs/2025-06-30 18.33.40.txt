@@ -1,0 +1,63 @@
+2025-06-30 18:33:40 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-06-30 18:33:42 [WARNING] <有可用的更新！ <1.0.4>，前往更新器获取>
+2025-06-30 18:33:47 [DEBUG] <【发现已存在的游戏窗口】>
+2025-06-30 18:33:50 [SUCCESS] <自动化程序已经介入操作，中途终止按下Alt>
+2025-06-30 18:33:50 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:33:52 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:33:54 [TRACE] <【现在处于主菜单】>
+2025-06-30 18:33:55 [INFO] <正在喝咖啡..>
+2025-06-30 18:33:55 [TRACE] <【1】等待目标中 images/lobby.png>
+2025-06-30 18:33:56 [TRACE] <【2】等待目标中 images/lobby.png>
+2025-06-30 18:33:56 [TRACE] <【3】等待目标中 images/lobby.png>
+2025-06-30 18:33:57 [TRACE] <【4】等待目标中 images/lobby.png>
+2025-06-30 18:33:58 [TRACE] <【5】等待目标中 images/lobby.png>
+2025-06-30 18:33:58 [TRACE] <【6】等待目标中 images/lobby.png>
+2025-06-30 18:33:59 [TRACE] <【7】等待目标中 images/lobby.png>
+2025-06-30 18:33:59 [TRACE] <【8】等待目标中 images/lobby.png>
+2025-06-30 18:34:00 [TRACE] <【9】等待目标中 images/lobby.png>
+2025-06-30 18:34:01 [TRACE] <【10】等待目标中 images/lobby.png>
+2025-06-30 18:34:01 [TRACE] <【11】等待目标中 images/lobby.png>
+2025-06-30 18:34:02 [TRACE] <【12】等待目标中 images/lobby.png>
+2025-06-30 18:34:03 [TRACE] <【13】等待目标中 images/lobby.png>
+2025-06-30 18:34:03 [TRACE] <【14】等待目标中 images/lobby.png>
+2025-06-30 18:34:04 [TRACE] <【15】等待目标中 images/lobby.png>
+2025-06-30 18:34:05 [TRACE] <【16】等待目标中 images/lobby.png>
+2025-06-30 18:34:05 [TRACE] <【17】等待目标中 images/lobby.png>
+2025-06-30 18:34:06 [TRACE] <【18】等待目标中 images/lobby.png>
+2025-06-30 18:34:06 [TRACE] <【19】等待目标中 images/lobby.png>
+2025-06-30 18:34:07 [TRACE] <【20】等待目标中 images/lobby.png>
+2025-06-30 18:34:08 [ERROR] <--------等待超时,开始重试-------->
+2025-06-30 18:34:13 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:15 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:17 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:19 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:21 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:23 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:25 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:26 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:28 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:30 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:32 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:34 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 18:34:36 [TRACE] <【现在处于主菜单】>
+2025-06-30 18:34:37 [INFO] <正在喝咖啡..>
+2025-06-30 18:34:37 [TRACE] <【目标出现】images/lobby.png 置信度是：0.9999196529388428>
+2025-06-30 18:34:39 [TRACE] <【目标出现】images/old_guide.png 置信度是：0.9993130564689636>
+2025-06-30 18:34:43 [TRACE] <【1】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:44 [TRACE] <【2】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:45 [TRACE] <【3】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:45 [TRACE] <【4】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:46 [TRACE] <【5】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:47 [TRACE] <【6】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:48 [TRACE] <【7】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:48 [TRACE] <【8】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:49 [TRACE] <【9】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:50 [TRACE] <【10】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:50 [TRACE] <【11】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:51 [TRACE] <【12】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:52 [TRACE] <【13】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:52 [TRACE] <【14】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:53 [TRACE] <【15】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:54 [TRACE] <【16】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:54 [TRACE] <【17】等待目标中 images/map_sixcent.png>
+2025-06-30 18:34:55 [TRACE] <【18】等待目标中 images/map_sixcent.png>

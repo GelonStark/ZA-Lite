@@ -1,0 +1,17 @@
+2025-07-16 16:01:19 [DEBUG] 【线程启动】Ter_liS
+2025-07-16 16:01:19 [DEBUG] 【线程启动】ATt_dEt
+2025-07-16 16:01:19 [DEBUG] 【线程启动】Glo_Lis
+2025-07-16 16:01:19 [DEBUG] 权限检查通过
+2025-07-16 16:01:20 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-16 16:01:22 [DEBUG] 【启动游戏】 D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+2025-07-16 16:01:23 [ERROR] ----------------未知错误--------------------
+2025-07-16 16:01:23 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 839, in start_daily
+    getwin()  #启动游戏或激活窗口
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Daily.py", line 291, in getwin
+    if title in allwin:
+       ^^^^^
+UnboundLocalError: cannot access local variable 'title' where it is not associated with a value
+
+2025-07-16 16:01:23 [WARNING] 程序已经结束，按回车键退出(Enter)

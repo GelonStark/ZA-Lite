@@ -1,0 +1,21 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999999403953552
+【目标出现】images/tactics.png 置信度是：0.9978101849555969
+【目标出现】images/daily.png 置信度是：0.9967972040176392
+【1】等待目标中 images/daily_reward.png
+【2】等待目标中 images/daily_reward.png
+【3】等待目标中 images/daily_reward.png
+【4】等待目标中 images/daily_reward.png
+【5】等待目标中 images/daily_reward.png
+【6】等待目标中 images/daily_reward.png
+【7】等待目标中 images/daily_reward.png
+【8】等待目标中 images/daily_reward.png
+【9】等待目标中 images/daily_reward.png
+【10】等待目标中 images/daily_reward.png
+【11】等待目标中 images/daily_reward.png
+【12】等待目标中 images/daily_reward.png
+【13】等待目标中 images/daily_reward.png

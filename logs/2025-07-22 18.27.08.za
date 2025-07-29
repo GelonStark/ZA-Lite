@@ -1,0 +1,24 @@
+2025-07-22 18:27:08 [TRACE] 【1】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:08 [TRACE] 【2】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:08 [TRACE] 【3】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:08 [TRACE] 【4】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:08 [TRACE] 【5】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:09 [TRACE] 【6】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:09 [TRACE] 【7】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:09 [TRACE] 【8】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:09 [TRACE] 【9】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:09 [TRACE] 【10】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:09 [TRACE] 【11】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:10 [TRACE] 【12】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:10 [TRACE] 【13】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:10 [TRACE] 【14】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:10 [TRACE] 【15】等待目标中 C:\Users\gelon\Pictures\Screenshots\33.png
+2025-07-22 18:27:10 [TRACE] 【开始遍历】C:\Users\gelon\Pictures\Screenshots\33.png 置信度是：1.0
+2025-07-22 18:27:19 [TRACE] 【距离过近】跳过 (np.int64(752), np.int64(715))
+2025-07-22 18:27:19 [TRACE] 【距离过近】跳过 (np.int64(753), np.int64(715))
+2025-07-22 18:27:20 [TRACE] 【距离过近】跳过 (np.int64(872), np.int64(715))
+2025-07-22 18:27:21 [TRACE] 【距离过近】跳过 (np.int64(991), np.int64(715))
+2025-07-22 18:27:22 [TRACE] 【距离过近】跳过 (np.int64(1118), np.int64(715))
+2025-07-22 18:27:24 [TRACE] 【距离过近】跳过 (np.int64(1237), np.int64(715))
+2025-07-22 18:27:25 [TRACE] 【距离过近】跳过 (np.int64(1362), np.int64(715))
+2025-07-22 18:27:31 [TRACE] 【遍历结束】C:\Users\gelon\Pictures\Screenshots\33.png 次数:17

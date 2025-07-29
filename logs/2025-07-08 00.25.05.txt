@@ -1,0 +1,4 @@
+2025-07-08 00:25:09 [WARNING] <有可用的更新！前往更新器获取 <1.0.4> >
+2025-07-08 00:25:14 [DEBUG] <权限检查通过>
+2025-07-08 00:25:15 [DEBUG] <初始化完毕..启动{日常任务}模块>
+2025-07-08 00:25:17 [DEBUG] <【启动游戏】 D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe>

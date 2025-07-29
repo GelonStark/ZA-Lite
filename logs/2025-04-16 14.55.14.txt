@@ -1,0 +1,37 @@
+【发现已存在的游戏窗口】
+正在返回菜单,请保持游戏画面处于前台
+【目标出现】images/quit_battle.png 置信度是：0.9999998211860657
+【目标出现】images/confirm.png 置信度是：0.9999998807907104
+【1】等待目标中 images/quit.png
+【2】等待目标中 images/quit.png
+【3】等待目标中 images/quit.png
+【4】等待目标中 images/quit.png
+【5】等待目标中 images/quit.png
+【6】等待目标中 images/quit.png
+【跳过】images/quit.png
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：102 
+任务开始，执行 1 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：1.0
+【目标出现】images/tactics.png 置信度是：0.9978088140487671
+【目标出现】images/train.png 置信度是：0.996136486530304
+【目标出现】images/go.png 置信度是：0.9988210797309875
+【目标出现】images/confirm.png 置信度是：0.9999997019767761
+【1】等待目标中 images/return.png
+【2】等待目标中 images/return.png
+【3】等待目标中 images/return.png
+【目标出现】images/return.png 置信度是：0.9976305961608887
+【目标出现】images/upgrade_skill.png 置信度是：0.9999737739562988
+【目标出现】images/skill_shock.png 置信度是：1.0
+【目标出现】images/level.png 置信度是：0.9999998211860657
+【目标出现】images/level.png 置信度是：0.9999998211860657
+【目标出现】images/next_step.png 置信度是：0.9909497499465942

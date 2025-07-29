@@ -1,0 +1,78 @@
+ÄãÓ¦¸Ã¿´²»¼ûÕâ¸ö[37m2025-06-26 21:43:45[0m [41m[1mCRITICAL[0m [41m[1m123[0m
+¡¾·¢ÏÖÒÑ´æÔÚµÄÓÎÏ·´°¿Ú¡¿
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾1¡¿µÈ´ýÄ¿±êÖÐ images/battery.png
+[37m2025-06-26 21:43:48[0m [1mINFO[0m [1mÖ´ÐÐÍ¼ÐÎ½çÃæ²Ù×÷ÖÐ[0m
+¡¾2¡¿µÈ´ýÄ¿±êÖÐ images/battery.png
+[37m2025-06-26 21:43:48[0m [1mINFO[0m [1mÖ´ÐÐÍ¼ÐÎ½çÃæ²Ù×÷ÖÐ[0m
+¡¾3¡¿µÈ´ýÄ¿±êÖÐ images/battery.png
+[37m2025-06-26 21:43:49[0m [1mINFO[0m [1mÖ´ÐÐÍ¼ÐÎ½çÃæ²Ù×÷ÖÐ[0m
+¡¾Ä¿±ê³öÏÖ¡¿images/battery.png ÖÃÐÅ¶ÈÊÇ£º0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+µ±Ç°µçÁ¿Îª£º175 
+ÈÎÎñ¿ªÊ¼£¬Ö´ÐÐ 1 ´ÎÑ­»·
+[37m2025-06-26 21:43:52[0m [1mINFO[0m [1mµ±Ç°µçÁ¿Îª£º175 ÈÎÎñ¿ªÊ¼£¬Ö´ÐÐ 1 ´ÎÑ­»·[0m
+¡¾ÏÖÔÚ´¦ÓÚÖ÷²Ëµ¥¡¿
+¡¾1¡¿µÈ´ýÄ¿±êÖÐ images/lobby.png
+[37m2025-06-26 21:43:53[0m [1mINFO[0m [1mÖ´ÐÐÍ¼ÐÎ½çÃæ²Ù×÷ÖÐ[0m
+¡¾2¡¿µÈ´ýÄ¿±êÖÐ images/lobby.png
+[37m2025-06-26 21:43:54[0m [1mINFO[0m [1mÖ´ÐÐÍ¼ÐÎ½çÃæ²Ù×÷ÖÐ[0m
+-------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 756, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 691, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 519, in upgrade
+    press('images/lobby.png', 'f2')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 82, in press
+    match_tpl(tpl,'press',key,skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 33, in match_tpl
+    screenshot_gray = cv2.cvtColor(screenshot_numpy(), cv2.COLOR_RGB2GRAY)  # ÆÁÄ»½ØÍ¼RGB×ª»Ò¶ÈÍ¼
+                                   ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 280, in screenshot_numpy
+    screenshot_numpy = numpy.array(screenshot)  # ÆÁÄ»½ØÍ¼PIL Image×ªNumpyÊý×é
+  File "C:\Python\Lib\site-packages\PIL\Image.py", line 738, in __array_interface__
+    @property
+    
+KeyboardInterrupt
+
+Exception:Ö÷Ïß³Ì³ö´í
+°´»Ø³µ¼üÍË³ö(Enter)Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 756, in run
+    TASK()
+    ~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 691, in <lambda>
+    TASK=lambda :upgrade(task_list[task_index])
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 519, in upgrade
+    press('images/lobby.png', 'f2')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 82, in press
+    match_tpl(tpl,'press',key,skip=skip)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 33, in match_tpl
+    screenshot_gray = cv2.cvtColor(screenshot_numpy(), cv2.COLOR_RGB2GRAY)  # ÆÁÄ»½ØÍ¼RGB×ª»Ò¶ÈÍ¼
+                                   ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 280, in screenshot_numpy
+    screenshot_numpy = numpy.array(screenshot)  # ÆÁÄ»½ØÍ¼PIL Image×ªNumpyÊý×é
+  File "C:\Python\Lib\site-packages\PIL\Image.py", line 738, in __array_interface__
+    @property
+    
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 782, in <module>
+    run()
+    ~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 779, in run
+    input('Exception:Ö÷Ïß³Ì³ö´í\n°´»Ø³µ¼üÍË³ö(Enter)')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte

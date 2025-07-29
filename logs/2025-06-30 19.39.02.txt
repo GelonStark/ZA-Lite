@@ -1,0 +1,46 @@
+2025-06-30 19:39:02 [DEBUG] <初始化完毕..ZenlessZoneZero Automation开始任务>
+2025-06-30 19:39:03 [DEBUG] <【发现已存在的游戏窗口】>
+2025-06-30 19:39:06 [SUCCESS] <ZA程序开始介入操作，请保持游戏画面处于前台，终止按下Alt>
+2025-06-30 19:39:06 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:08 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:10 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:12 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:14 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:16 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:18 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:19 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:21 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:23 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:25 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:27 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:29 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:31 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:33 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:35 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:37 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:39 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:41 [TRACE] <正在返回菜单,请保持游戏画面处于前台>
+2025-06-30 19:39:41 [ERROR] <----------------未知错误-------------------->
+2025-06-30 19:39:41 [ERROR] <Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 768, in run
+    coffee()
+    ~~~~~~^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 404, in coffee
+    menu('leave')
+    ~~~~^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 193, in menu
+    pydirectinput.press('esc', )
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 242, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 545, in press
+    upped = keyUp(k)
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 243, in wrapper
+    _handlePause(funcArgs.get("_pause"))
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 232, in _handlePause
+    time.sleep(PAUSE)
+    ~~~~~~~~~~^^^^^^^
+KeyboardInterrupt
+>
+2025-06-30 19:39:41 [WARNING] <程序已经结束，按回车键退出(Enter)>

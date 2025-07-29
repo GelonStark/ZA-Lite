@@ -1,0 +1,8 @@
+2025-07-23 15:39:35 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-23 15:39:37 [DEBUG] 发现已存在的游戏窗口
+2025-07-23 15:39:41 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-23 15:39:41 [DEBUG] 正在返回菜单
+2025-07-23 15:41:06 [TRACE] 现在处于大厅
+2025-07-23 15:41:07 [INFO] 正在喝咖啡..
+2025-07-23 15:41:07 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\lobby.png 置信度：0.9999196529388428
+2025-07-23 15:41:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZA_Lite\images/daily\old_guide.png 置信度：0.9999685883522034

@@ -1,0 +1,62 @@
+2025-07-19 18:40:37 [INFO] 现在执行 0 次零号空洞
+2025-07-19 18:40:37 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-19 18:40:37 [DEBUG] 启动游戏：D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+2025-07-19 18:40:40 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-19 18:40:40 [TRACE] 【线程启动】Hol_Sea
+2025-07-19 18:40:40 [TRACE] 【线程启动】Hol_liS
+2025-07-19 18:40:40 [TRACE] 【线程启动】HoL_Bat
+2025-07-19 18:40:40 [TRACE] 【线程启动】ATt_dEt
+2025-07-19 18:40:40 [TRACE] 【线程启动】Ter_liS
+2025-07-19 18:40:40 [TRACE] 【线程启动】Glo_Lis
+2025-07-19 18:40:40 [INFO] 正在领取空洞每周奖励
+2025-07-19 18:40:40 [DEBUG] 正在返回菜单
+2025-07-19 18:40:40 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:42 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:56 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:40:58 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:00 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:02 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:04 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:06 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:10 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:14 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:15 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:17 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:21 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:25 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:27 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:29 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:31 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:33 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:35 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-19 18:41:43 [TRACE] 现在处于主菜单
+2025-07-19 18:41:45 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png
+2025-07-19 18:41:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/combat.png 置信度：0.9763115644454956
+2025-07-19 18:41:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/zero_hollow.png 置信度：0.9999948143959045
+2025-07-19 18:41:48 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/go_hollow.png 置信度：0.9940929412841797
+2025-07-19 18:41:49 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/confirm.png 置信度：0.9839428663253784
+2025-07-19 18:41:50 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:51 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:52 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:52 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:53 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:53 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:54 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:55 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png
+2025-07-19 18:41:55 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_reward.png 置信度：0.9999998211860657
+2025-07-19 18:41:56 [TRACE] 【目标出现】C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\images/hollow/hollow_claim.png 置信度：0.9869446158409119
+2025-07-19 18:41:58 [SUCCESS] 空洞任务结束
+2025-07-19 18:41:58 [WARNING] 程序已经结束，按回车键退出(Enter)

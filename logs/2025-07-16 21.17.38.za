@@ -1,0 +1,58 @@
+2025-07-16 21:17:40 [TRACE] 【1】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:40 [TRACE] 【2】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:40 [TRACE] 【3】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:41 [TRACE] 【4】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:41 [TRACE] 【5】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:41 [TRACE] 【6】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:41 [TRACE] 【7】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:41 [TRACE] 【8】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:42 [TRACE] 【9】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:42 [TRACE] 【10】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:42 [TRACE] 【11】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:42 [TRACE] 【12】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:42 [TRACE] 【13】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:42 [TRACE] 【14】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:43 [TRACE] 【15】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:43 [TRACE] 【16】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:43 [TRACE] 【17】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:43 [TRACE] 【18】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:43 [TRACE] 【19】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:44 [TRACE] 【20】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:44 [TRACE] 【21】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:44 [TRACE] 【22】等待模板中 C:\Users\gelon\Pictures\Screenshots\123.png
+2025-07-16 21:17:44 [TRACE] 【开始遍历】C:\Users\gelon\Pictures\Screenshots\123.png 置信度是：0.9999990463256836
+2025-07-16 21:17:45 [TRACE] 【距离过近】跳过 (np.int64(852), np.int64(608))
+2025-07-16 21:17:45 [TRACE] 【距离过近】跳过 (np.int64(853), np.int64(608))
+2025-07-16 21:17:45 [TRACE] 【距离过近】跳过 (np.int64(1039), np.int64(608))
+2025-07-16 21:17:45 [TRACE] 【距离过近】跳过 (np.int64(1040), np.int64(608))
+2025-07-16 21:17:47 [TRACE] 【距离过近】跳过 (np.int64(1227), np.int64(608))
+2025-07-16 21:17:48 [TRACE] 【距离过近】跳过 (np.int64(852), np.int64(609))
+2025-07-16 21:17:48 [TRACE] 【距离过近】跳过 (np.int64(853), np.int64(609))
+2025-07-16 21:17:48 [TRACE] 【距离过近】跳过 (np.int64(1038), np.int64(609))
+2025-07-16 21:17:48 [TRACE] 【距离过近】跳过 (np.int64(1039), np.int64(609))
+2025-07-16 21:17:48 [TRACE] 【距离过近】跳过 (np.int64(1040), np.int64(609))
+2025-07-16 21:17:49 [TRACE] 【距离过近】跳过 (np.int64(1226), np.int64(609))
+2025-07-16 21:17:49 [TRACE] 【距离过近】跳过 (np.int64(1227), np.int64(609))
+2025-07-16 21:17:49 [TRACE] 【距离过近】跳过 (np.int64(1228), np.int64(609))
+2025-07-16 21:17:50 [TRACE] 【距离过近】跳过 (np.int64(852), np.int64(610))
+2025-07-16 21:17:50 [TRACE] 【距离过近】跳过 (np.int64(853), np.int64(610))
+2025-07-16 21:17:50 [TRACE] 【距离过近】跳过 (np.int64(1038), np.int64(610))
+2025-07-16 21:17:50 [TRACE] 【距离过近】跳过 (np.int64(1039), np.int64(610))
+2025-07-16 21:17:50 [TRACE] 【距离过近】跳过 (np.int64(1040), np.int64(610))
+2025-07-16 21:17:51 [TRACE] 【距离过近】跳过 (np.int64(1227), np.int64(610))
+2025-07-16 21:17:53 [TRACE] 【距离过近】跳过 (np.int64(852), np.int64(836))
+2025-07-16 21:17:53 [TRACE] 【距离过近】跳过 (np.int64(853), np.int64(836))
+2025-07-16 21:17:53 [TRACE] 【距离过近】跳过 (np.int64(1039), np.int64(836))
+2025-07-16 21:17:53 [TRACE] 【距离过近】跳过 (np.int64(1040), np.int64(836))
+2025-07-16 21:17:53 [TRACE] 【距离过近】跳过 (np.int64(1041), np.int64(836))
+2025-07-16 21:17:54 [TRACE] 【距离过近】跳过 (np.int64(1228), np.int64(836))
+2025-07-16 21:17:54 [TRACE] 【距离过近】跳过 (np.int64(1229), np.int64(836))
+2025-07-16 21:17:55 [TRACE] 【距离过近】跳过 (np.int64(852), np.int64(837))
+2025-07-16 21:17:55 [TRACE] 【距离过近】跳过 (np.int64(853), np.int64(837))
+2025-07-16 21:17:55 [TRACE] 【距离过近】跳过 (np.int64(1039), np.int64(837))
+2025-07-16 21:17:55 [TRACE] 【距离过近】跳过 (np.int64(1040), np.int64(837))
+2025-07-16 21:17:55 [TRACE] 【距离过近】跳过 (np.int64(1041), np.int64(837))
+2025-07-16 21:17:56 [TRACE] 【距离过近】跳过 (np.int64(1228), np.int64(837))
+2025-07-16 21:17:56 [TRACE] 【距离过近】跳过 (np.int64(1229), np.int64(837))
+2025-07-16 21:17:57 [TRACE] 【距离过近】跳过 (np.int64(1040), np.int64(838))
+2025-07-16 21:17:59 [TRACE] 【遍历结束】C:\Users\gelon\Pictures\Screenshots\123.png 次数:12

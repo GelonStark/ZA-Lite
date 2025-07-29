@@ -1,0 +1,15 @@
+【发现已存在的游戏窗口】
+【现在处于主菜单】
+【目标出现】images/battery.png 置信度是：0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：179 
+任务开始，执行 1 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999192953109741
+【1】等待目标中 images/tactics.png
+【2】等待目标中 images/tactics.png
+【3】等待目标中 images/tactics.png
+【4】等待目标中 images/tactics.png
+【5】等待目标中 images/tactics.png
+【6】等待目标中 images/tactics.png
+【7】等待目标中 images/tactics.png

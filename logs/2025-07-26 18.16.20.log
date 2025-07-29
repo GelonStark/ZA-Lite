@@ -1,0 +1,50 @@
+2025-07-26 18:16:23 [TRACE] 【线程启动】全局监听
+2025-07-26 18:16:23 [TRACE] 【线程启动】终止监听
+2025-07-26 18:16:24 [ERROR] 【线程错误】Thread-1 (global_listener)
+
+Traceback (most recent call last):
+  File "C:\Python\Lib\threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "C:\Python\Lib\threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\ZA-Lite\tasks\daily.py", line 124, in global_listener
+    result = match(tpl)
+  File "C:\Users\gelon\Desktop\ZA-Lite\utils\match_template.py", line 87, in match
+    return match_tpl(tpl,'match')
+  File "C:\Users\gelon\Desktop\ZA-Lite\utils\match_template.py", line 16, in match_tpl
+    template = cv2.imread(tpl)  # 读取模板
+  File "C:\Python\Lib\site-packages\ultralytics\utils\patches.py", line 26, in imread
+    return cv2.imdecode(np.fromfile(filename, np.uint8), flags)
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\gelon\\Desktop\\ZA-Lite\\assets/images/daily\\astra_yao.png'
+
+2025-07-26 18:16:25 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-07-26 18:16:30 [DEBUG] 权限检查通过
+2025-07-26 18:16:31 [DEBUG] 今日执行 1 次零号空洞
+2025-07-26 18:16:31 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-07-26 18:16:31 [DEBUG] 发现已存在的游戏窗口
+2025-07-26 18:16:36 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-26 18:16:36 [TRACE] 【线程启动】空洞搜索
+2025-07-26 18:16:36 [TRACE] 【线程启动】空洞监听
+2025-07-26 18:16:36 [TRACE] 【线程启动】空洞战斗
+2025-07-26 18:16:36 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\ZA-Lite\tasks\hollow.py", line 337, in start_hollow
+    global_thread.start() #来自daily模块 全局监听
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python\Lib\threading.py", line 967, in start
+    raise RuntimeError("threads can only be started once")
+RuntimeError: threads can only be started once
+
+2025-07-26 18:16:36 [ERROR] <--------空洞任务发生未知错误-------->
+2025-07-26 18:16:36 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-07-26 18:16:38 [DEBUG] 发现已存在的游戏窗口
+2025-07-26 18:16:42 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-07-26 18:16:42 [DEBUG] 正在返回菜单
+2025-07-26 18:16:42 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 18:16:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 18:16:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 18:16:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 18:16:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-07-26 18:16:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台

@@ -1,0 +1,91 @@
+【启动游戏】 D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+正在返回菜单,请保持游戏画面处于前台
+【现在处于主菜单】
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：188 
+任务开始，执行 3 次循环
+【现在处于主菜单】
+【目标出现】images/lobby.png 置信度是：0.9999196529388428
+【目标出现】images/tactics.png 置信度是：0.9820867776870728
+【目标出现】images/combat.png 置信度是：0.9763118028640747
+【目标出现】images/go.png 置信度是：0.9890545010566711
+【1】等待目标中 images/hunt_1.png
+【2】等待目标中 images/hunt_1.png
+【3】等待目标中 images/hunt_1.png
+【4】等待目标中 images/hunt_1.png
+【目标出现】images/hunt_1.png 置信度是：0.9539886713027954
+【1】等待目标中 images/confirm.png
+【目标出现】images/confirm.png 置信度是：0.9839516878128052
+【1】等待目标中 images/hunt_off.png
+【2】等待目标中 images/hunt_off.png
+【3】等待目标中 images/hunt_off.png
+【4】等待目标中 images/hunt_off.png
+【目标出现】images/hunt_off.png 置信度是：1.0
+【目标出现】images/confirm.png 置信度是：0.983955979347229
+【目标出现】images/level.png 置信度是：0.9822531342506409
+【目标出现】images/level.png 置信度是：0.9822532534599304
+【目标出现】images/next_step.png 置信度是：0.982157826423645
+【目标出现】images/squad_preset.png 置信度是：0.9861791729927063
+【目标出现】images/squad_6.png 置信度是：0.9355688095092773
+【目标出现】images/select_squad.png 置信度是：0.9709634780883789
+【目标出现】images/start_battle.png 置信度是：0.9754685759544373
+【目标检测】ALIGNED！0.9336943626403809
+【目标出现】images/select.png 置信度是：0.9996991753578186
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+Exception in thread Thread-1 (attack_detection):
+Traceback (most recent call last):
+  File "C:\Python\Lib\threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "C:\Python\Lib\threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\Pytutorial\ZenlessZoneZero_Automation\ZA_Main.py", line 291, in attack_detection
+    pydirectinput.mouseDown('right')
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 242, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 281, in mouseDown
+    moveTo(x, y)
+    ~~~~~~^^^^^^
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 242, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 387, in moveTo
+    x, y = _to_windows_coordinates(x, y)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python\Lib\site-packages\pydirectinput\__init__.py", line 255, in _to_windows_coordinates
+    windows_x = (x * 65536) // display_width + 1
+                ~~~~~~~~~~~~^^~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for //: 'str' and 'int'
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 
+正在战斗中，游戏内视角锁定键为 4 

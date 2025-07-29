@@ -1,0 +1,14 @@
+【发现已存在的游戏窗口】
+【正在返回菜单】请保持游戏画面处于前台 [1]【正在返回菜单】请保持游戏画面处于前台 [2]【正在返回菜单】请保持游戏画面处于前台 [3]【正在返回菜单】请保持游戏画面处于前台 [4]【正在返回菜单】请保持游戏画面处于前台 [5]【正在返回菜单】请保持游戏画面处于前台 [6]【正在返回菜单】请保持游戏画面处于前台 [7]【正在返回菜单】请保持游戏画面处于前台 [8]【正在返回菜单】请保持游戏画面处于前台 [9]【正在返回菜单】请保持游戏画面处于前台 [10]
+【现在处于主菜单】
+
+【目标出现】images/battery.png 置信度：0.9999998211860657
+Using CPU. Note: This module is much faster with a GPU.
+当前电量为：191 
+任务开始，执行 1 次循环
+
+【现在处于主菜单】
+
+【目标出现】images/lobby.png 置信度：0.9999196529388428
+【等待目标中】images/tactics.png [1]【等待目标中】images/tactics.png [2]【等待目标中】images/tactics.png [3]【等待目标中】images/tactics.png [4]【等待目标中】images/tactics.png [5]【等待目标中】images/tactics.png [6]【等待目标中】images/tactics.png [7]【等待目标中】images/tactics.png [8]【等待目标中】images/tactics.png [9]【等待目标中】images/tactics.png [10]【等待目标中】images/tactics.png [11]【等待目标中】images/tactics.png [12]【等待目标中】images/tactics.png [13]【等待目标中】images/tactics.png [14]【等待目标中】images/tactics.png [15]【等待目标中】images/tactics.png [16]【等待目标中】images/tactics.png [17]【等待目标中】images/tactics.png [18]【等待目标中】images/tactics.png [19]【等待目标中】images/tactics.png [20]--------等待超时,开始重试--------
+【正在返回菜单】请保持游戏画面处于前台 [1]【正在返回菜单】请保持游戏画面处于前台 [2]【正在返回菜单】请保持游戏画面处于前台 [3]【正在返回菜单】请保持游戏画面处于前台 [4]【正在返回菜单】请保持游戏画面处于前台 [5]
