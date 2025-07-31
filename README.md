@@ -11,11 +11,12 @@
 <div align="center">
 下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release<a/> 
  <a herf=https://www.baidu.com/>国内方式<a/>
+ </div>
 
 
 
 
-## 主要功能
+# 主要功能
 
 - **日常任务 ：** 喝咖啡、自动清体力、领取奖励、刮刮卡
 - **周常任务 ：** 零号空洞（战线肃清、特遣调查）
