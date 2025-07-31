@@ -4,3 +4,4 @@
 
 <img width="300" height="360" alt="GUI_DISPLAY" src="https://github.com/user-attachments/assets/03d9eee5-8e93-4b43-8175-9f20639cde50" />
 <img width="976" height="507" alt="屏幕截图 2025-07-29 235636" src="https://github.com/user-attachments/assets/f737a6b8-b41b-446e-8ddb-783a7d980231" />
+<img width="929" height="347" alt="321" src="https://github.com/user-attachments/assets/ef854943-5274-46b5-800e-0e20a093c8f6" />
