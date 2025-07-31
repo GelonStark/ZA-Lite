@@ -11,7 +11,7 @@
 <div align="center">
 下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release</a> 
 </div>
-
+<br/>
 ## 主要功能
 
 - **日常任务 ：** 喝咖啡、自动清体力、领取奖励、刮刮卡
