@@ -20,7 +20,7 @@
  <img width="300" height="360" alt="GUI_DISPLAY" src="https://github.com/user-attachments/assets/03d9eee5-8e93-4b43-8175-9f20639cde50" />
  
  ## 下载使用
- 初次使用请下载Relase发布的完整 **ZA-Lite** ，后续使用更新器获取更新，
+ 初次使用请下载Release发布的完整 **ZA-Lite** ，后续使用更新器获取更新，  
  国内用户如果在Github下载没速度，尝试使用使用手册中的国内链接
  
 
