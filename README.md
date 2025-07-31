@@ -8,7 +8,6 @@
 下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release</a> 
 
 </div>
----
 
 ## 主要功能
 
@@ -17,6 +16,7 @@
 - 使用任务计划程序添加 ZA-Lite 可执行程序实现**定期自动**开始任务
 - 任务**结束后**自动 退出游戏/关闭电脑
  <img width="300" height="360" alt="GUI_DISPLAY" src="https://github.com/user-attachments/assets/03d9eee5-8e93-4b43-8175-9f20639cde50" />
+ 
 ## 注意事项
 - 软件仅支持 Windows 10/11 系统
 - 必须在 **1920 x 1080** 的游戏分辨率下运行，并且游戏内字体设置为**全局细体** 
