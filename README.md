@@ -1,13 +1,16 @@
-<div align="center"><img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/019f5550-3f4c-43b6-b0fc-953b220367d3" />
+<div align="center">
+<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/019f5550-3f4c-43b6-b0fc-953b220367d3" />
 </div>
 
 <div align="center">
   <h1>ZA-Lite  </h1>
 </div>
+
 为 **绝区零** 开发的视觉类自动化软件，轻量直观的 UI 易于上手，让普通玩家从重复劳动中解脱
-
+<div align="center">
 使用前阅读 <a href=https://www.yuque.com/gelonstark/kb/za>快速教程</a>
-
+</div>
+<div align="center">
 下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release</a> 
 </div>
 
