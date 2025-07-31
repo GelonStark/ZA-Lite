@@ -18,8 +18,10 @@
 - 使用任务计划程序添加 ZA-Lite 可执行程序实现**定期自动**开始任务
 - 任务**结束后**自动 退出游戏/关闭电脑
  <img width="300" height="360" alt="GUI_DISPLAY" src="https://github.com/user-attachments/assets/03d9eee5-8e93-4b43-8175-9f20639cde50" />
- ## 下载方式
- 运行请下载Relase发布的
+ 
+ ## 下载使用
+ 初次使用请下载Relase发布的完整 **ZA-Lite** ，后续使用更新器获取更新，
+ 国内用户如果在Github下载没速度，尝试使用使用手册中的国内链接
  
 
  
