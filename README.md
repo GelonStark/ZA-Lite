@@ -17,7 +17,6 @@
 <div align="center">
 <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/d81cf38b-3a50-40c0-b651-88f441863469" />
 
-<div align="center">
   <h1>ZA-Lite  </h1>
   为 <b>绝区零</b> 开发的视觉类自动化软件，小巧直观的 UI 易于上手，让玩家从不必要的重复劳动中解脱<br> 
    使用前阅读 <a href=https://www.yuque.com/gelonstark/kb/za>快速教程</a>  <br>
