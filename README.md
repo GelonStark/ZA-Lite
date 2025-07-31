@@ -9,7 +9,7 @@
 详细介绍阅读 <a href=https://www.yuque.com/gelonstark/kb/za>快速教程</a>
 </div>
 <div align="center">
-下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release/a> 
+下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release</a>  
  <a href=https://www.baidu.com/>国内方式</a>
  </div>
 
