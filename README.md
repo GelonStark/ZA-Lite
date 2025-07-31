@@ -3,13 +3,13 @@
 <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/d81cf38b-3a50-40c0-b651-88f441863469" />
   <h1>ZA-Lite  </h1>
   为 <b>绝区零</b> 开发的视觉类自动化软件，小巧直观的 UI 易于上手，让玩家从不必要的重复劳动中解脱<br> 
-   使用前阅读 <a href=https://www.yuque.com/gelonstark/kb/za>快速教程</a>  <br>
-下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release</a> 
+
+
 
 </div>
 
  ## 关于软件
- >ZA-Lite 的开发初衷实现**最主要的**日常任务自动化，解决基础菲林来源的重复性劳动，不包括非重复有限任务与活动，注重于图形界面的轻量美观，而不是功能大杂烩，目前已经实现所有设想功能，进入稳定维护期，软件不会**频繁更新**，正常情况下与游戏版本同步进行更新
+ >ZA-Lite 的开发初衷实现**最主要的**日常任务自动化，解决基础菲林来源的重复性劳动，不包括活动和杂项，注重于图形界面的轻量美观，而不是功能大杂烩，目前已经实现所有设想功能，进入稳定维护期，所以软件不会**频繁更新**，正常情况下与游戏版本同步进行更新
 
 ## 主要功能
 
@@ -18,12 +18,15 @@
 - **领取奖励 ：** 日周常活跃度、大小月卡、邮件、版本签到活动
 - 使用任务计划程序添加 ZA-Lite 可执行程序实现**定期自动**开始任务
 - 任务**结束后**自动 退出游戏/关闭电脑
+-    详细功能介绍阅读 <a href=https://www.yuque.com/gelonstark/kb/za>使用手册</a>  <br>
  <img width="300" height="360" alt="GUI_DISPLAY" src="https://github.com/user-attachments/assets/03d9eee5-8e93-4b43-8175-9f20639cde50" />
+ 
  
  ## 下载使用
 
- 初次使用请下载Release发布的完整 **ZA-Lite** ，后续使用更新器获取更新，  
- 国内用户如果在Github下载没速度，尝试使用使用手册中的国内链接
+ 初次使用请下载Release发布的 <a href=https://www.github.com/GelonStark/ZA-Lite/releases/latest>ZA-Lite</a> 完整压缩包，日后的更新使用更新器获取，  
+ 国内用户如果在Github下载没速度，尝试 <a href=https://www.yuque.com/gelonstark/kb/za>使用手册</a>  的国内网盘
+
  
 
  
@@ -31,6 +34,7 @@
 - 软件仅支持 Windows 10/11 系统
 - 必须在 **1920 x 1080** 的游戏分辨率下运行，并且游戏内字体设置为**全局细体** 
 - 点击**开始**按钮后，程序会在前台进行操作，如果要中途退出先按下**Alt键**终止程序
+- 零号空洞功能处理器**负载高**对性能有要求，为了稳定运行不要超频CPU和RAM
 
 
 
