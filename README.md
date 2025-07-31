@@ -6,11 +6,11 @@
 
 为 **绝区零** 开发的视觉类自动化软件，轻量直观的 UI 易于上手，一键式启动，让普通玩家从重复劳动中解脱
 <div align="center">
-详细介绍阅读 <a herf=https://www.yuque.com/gelonstark/kb/za>快速教程<a/>
+详细介绍阅读 <a href=https://www.yuque.com/gelonstark/kb/za>快速教程<a/>
 </div>
 <div align="center">
 下载 <a href=https://github.com/GelonStark/ZA-Lite/releases/tag/download>Release<a/> 
- <a herf=https://www.baidu.com/>国内方式<a/>
+ <a hreff=https://www.baidu.com/>国内方式<a/>
  </div>
 
 # 主要功能
