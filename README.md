@@ -33,9 +33,9 @@
  
  ## 下载使用
 
- 初次使用请下载Release发布的 <a href=https://www.github.com/GelonStark/ZA-Lite/releases/latest>ZA-Lite</a> 完整压缩包
+ 初次使用请下载Release发布的完整压缩包 <a href=https://www.github.com/GelonStark/ZA-Lite/releases/latest>点击下载</a> 
  
- 国内用户如果在Github下载没速度，尝试 <a href=https://www.yuque.com/gelonstark/kb/za>使用手册</a>  内的国内网盘
+ 国内用户如果下载没速度，尝试 <a href=https://www.yuque.com/gelonstark/kb/za>使用手册</a>  内的国内网盘
 
  
 
@@ -44,7 +44,7 @@
 - 软件仅支持 Windows 10/11 系统
 - 必须在 ***1920 x 1080*** 的游戏分辨率下运行，并且游戏内字体设置为**全局细体** 
 - 点击**开始**按钮后，程序会在前台进行操作，如果要中途退出先按下**Alt键**终止程序
-- 零号空洞功能对配置有要求，处理器**负载高**，为了稳定运行不要超频CPU和RAM
+- 零号空洞功能对配置有一定要求，处理器**负载高**，为了稳定运行不要超频CPU和RAM
 
 ## 问题反馈
 PASS
