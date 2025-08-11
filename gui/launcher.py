@@ -287,8 +287,8 @@ class ZA(QWidget):
         #QTimer.singleShot(0, self.anime_opacity_lottery.start)
 
         def launch():
-            subprocess.run('taskkill /IM "ZA Lite.exe" /F')  #cmd tasklist查询
-            subprocess.Popen('ZA Lite.exe')
+            subprocess.run('taskkill /IM "ZA Main.exe" /F')  #cmd tasklist查询
+            subprocess.Popen('ZA Main.exe')
             time.sleep(0)
             self.showMinimized()
 

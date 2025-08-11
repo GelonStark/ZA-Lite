@@ -1,0 +1,49 @@
+2025-08-07 00:21:29 [TRACE] 【线程启动】全局监听
+2025-08-07 00:21:29 [TRACE] 【线程启动】终止监听
+2025-08-07 00:21:33 [WARNING] 有可用的更新！前往更新器获取 <1.0.4> 
+2025-08-07 00:21:38 [DEBUG] 权限检查通过
+2025-08-07 00:21:39 [DEBUG] 跳过零号空洞
+2025-08-07 00:21:41 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-08-07 00:21:44 [DEBUG] 启动游戏：D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+2025-08-07 00:21:45 [ERROR] [WinError 2] 系统找不到指定的文件。
+2025-08-07 00:21:45 [ERROR] 启动游戏失败，请检查路径
+2025-08-07 00:21:51 [ERROR] Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\ZA-Lite\utils\getwin.py", line 36, in getwin
+    subprocess.Popen(f'{game_path} -popupwindow -screen-width 1920 -screen-height 1080 -screen-fullscreen 1') #启动参数
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\subprocess.py", line 1038, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\subprocess.py", line 1550, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+                             # no special security
+                             ^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+                             cwd,
+                             ^^^^
+                             startupinfo)
+                             ^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gelon\Desktop\ZA-Lite\main.py", line 30, in <module>
+    start_daily() #每日任务
+    ~~~~~~~~~~~^^
+  File "C:\Users\gelon\Desktop\ZA-Lite\tasks\daily.py", line 540, in start_daily
+    getwin(zh_title="绝区零",en_title="ZenlessZoneZero",config_path=game_path)  #启动游戏或激活窗口
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\ZA-Lite\utils\getwin.py", line 41, in getwin
+    raise OSError
+OSError
+
+2025-08-07 00:21:51 [ERROR] <---------出现未知错误--------->

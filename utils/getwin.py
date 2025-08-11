@@ -34,9 +34,10 @@ def getwin(zh_title=None,en_title=None,game_path=None,config_path=None):
         time.sleep(1)
         try:
             subprocess.Popen(f'{game_path} -popupwindow -screen-width 1920 -screen-height 1080 -screen-fullscreen 1') #启动参数
-        except Exception as e:
+        except OSError as e:
             logger.error(e)
-            logger.error("启动游戏失败")
+            logger.error("启动游戏失败，请检查路径")
+            input()
             return
         while True:
             allwin = pygetwindow.getAllTitles()

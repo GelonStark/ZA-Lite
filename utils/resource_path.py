@@ -28,8 +28,8 @@ class ResourcePath:
             else:
                 current_dir = os.path.dirname(current_dir)
                 if current_dir == os.path.dirname(current_dir):
-                    print("找不到顶层目录")
-                    raise FileNotFoundError
+                    print("找不到用于定位顶层的目录")
+                    input()
 
     def file(self, file_name):
         """拼接 文件名"""
