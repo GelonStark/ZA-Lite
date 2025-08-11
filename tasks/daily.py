@@ -118,13 +118,16 @@ def global_listener():
     while True:
         if not event_global.is_set():
             time.sleep(1)
-            templates = [RPAID.file('reconnect.png'), RPAID.file('login.png'), RPAID.file("monthly_membership.png"), RPAID.file("astra_yao.png"), RPAID.file('connect_retry.png')]
+            templates = [RPAID.file('reconnect.png'), RPAID.file('login.png'), RPAID.file("monthly_membership.png"),
+                         RPAID.file("astra_yao.png"), RPAID.file('connect_retry.png'),RPAID.path('assets/images/hollow/mission_completed.png')]
             for tpl in templates:
                 result = match(tpl)
                 if result :
                     if tpl==RPAID.file('astra_yao.png'): #检测耀佳音前场
                         time.sleep(2)
                         pydirectinput.press("space")
+                    if tpl==RPAID.path('assets/images/hollow/mission_completed.png'): # 空洞完成按钮 有时按到没反应，此处兜底
+                        time.sleep(4)
 
                     pyautogui.moveTo(result[1])  #点击出现的模板(max_loc)
                     time.sleep(action_speed)
@@ -190,8 +193,7 @@ def object_search(model,clsid,tpl=None):
                 logger.trace(f'【目标检测】类型错误:{result[0].boxes.cls}')
                 pydirectinput.moveRel(-100, 0, relative=True)
 
-def cprint(text,color):
-    print(f"\033[{color}m{text}\033[0m")  #ANSI转义码 标准30-37 高亮90-97
+
 
 def admin_check():
     if ctypes.windll.shell32.IsUserAnAdmin():
@@ -532,52 +534,46 @@ except:
 #-------------------------------------------------------------------------------------------------------------
 def start_daily():
     timeout_count = 0
-    try:
-        logger.debug("初始化完毕..启动{日常任务}模块")
-        time.sleep(3)
-        getwin(zh_title="绝区零",en_title="ZenlessZoneZero",config_path=game_path)  #启动游戏或激活窗口
-        print()
-        logger.success("程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键")
 
-        while True:
-            status.timeout=False            #重置超时状态
-            if check_coffee:
-                coffee()
-            daily_task()
-            daily_task()
-            if check_reward:
-                reward()
-                events()
-            if check_lottery:
-                lottery()
-            if status.timeout:
-                timeout_count+=1
-                if timeout_count >= 3 :
-                    logger.warning("任务在某一步无法继续，请检查运行日志或降低速度挡位")
-                    return
-            if not status.timeout:
-                battery_remaining=battery_check()
-                if battery_remaining >= 240 :
-                    battery_report=f"电量剩余：{battery_remaining}，已达到上限"
-                else:
-                    battery_report=f"电量剩余：{battery_remaining}，距离回满还有 {int((240*5-battery_remaining*5)/60)} 小时"
-                try:
-                    win = pygetwindow.getWindowsWithTitle("ZA")  #Windows全屏程序自动打开免打扰，需要借用ZA窗口的允许通知状态
-                    win[0].activate()  #激活ZA窗口
-                except Exception as e:
-                    logger.error(e)
-                WindowsNotification(RPAID.path("assets/images/daily/icon.ico")).push("任务完成✅", f"程序已经结束，电量剩余：{battery_remaining}")
-                logger.info(battery_report)
-                logger.success('<--------每日任务结束-------->')
-                event_global.clear()  # 阻塞模板监听线程
+    logger.debug("初始化完毕..启动{日常任务}模块")
+    time.sleep(3)
+    getwin(zh_title="绝区零",en_title="ZenlessZoneZero",config_path=game_path)  #启动游戏或激活窗口
+    print()
+    logger.success("程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键")
+
+    while True:
+        status.timeout=False            #重置超时状态
+        if check_coffee:
+            coffee()
+        daily_task()
+        daily_task()
+        if check_reward:
+            reward()
+            events()
+        if check_lottery:
+            lottery()
+        if status.timeout:
+            timeout_count+=1
+            if timeout_count >= 3 :
+                logger.warning("任务在某一步无法继续，请检查运行日志或降低速度挡位")
                 return
+        if not status.timeout:
+            battery_remaining=battery_check()
+            if battery_remaining >= 240 :
+                battery_report=f"电量剩余：{battery_remaining}，已达到上限"
+            else:
+                battery_report=f"电量剩余：{battery_remaining}，距离回满还有 {int((240*5-battery_remaining*5)/60)} 小时"
+            try:
+                win = pygetwindow.getWindowsWithTitle("ZA")  #Windows全屏程序自动打开免打扰，需要借用ZA窗口的允许通知状态
+                win[0].activate()  #激活ZA窗口
+            except Exception as e:
+                logger.error(e)
+            WindowsNotification(RPAID.path("assets/images/daily/icon.ico")).push("任务完成✅", f"程序已经结束，电量剩余：{battery_remaining}")
+            logger.info(battery_report)
+            logger.success('<--------每日任务结束-------->')
+            event_global.clear()  # 阻塞模板监听线程
+            return
 
-    # except OSError as e:
-    #     logger.error(e)
-    #     logger.error("路径错误或管理员权限缺失")
-    except Exception:
-        logger.error(traceback.format_exc())
-        logger.error('<--------每日任务发生未知错误-------->')
 
 
 if __name__=="__main__":
