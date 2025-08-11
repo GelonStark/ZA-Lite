@@ -49,7 +49,8 @@
 
 ## 问题反馈
 如果遇到无法解决的问题，请通过B站评论区反馈程序的报错信息，或运行日志的异常片段
-本项目单人开发维护，你觉得ZA有帮到你吗？点Star收藏 [![GitHub Stars](https://img.shields.io/github/stars/GelonStark/ZA-Lite?style=flat-square)](https://github.com/GelonStark/ZA-Lite)
+
+本项目单人开发维护，你觉得ZA有帮到你吗？点Star收藏  [![GitHub Stars](https://img.shields.io/github/stars/GelonStark/ZA-Lite?style=flat-square)](https://github.com/GelonStark/ZA-Lite) [![Star Count](https://img.shields.io/github/stars/GelonStark/ZA-Lite?color=gold&label=Stars&style=for-the-badge)](https://github.com/GelonStark/ZA-Lite/stargazers) [![Stars](https://img.shields.io/github/stars/GelonStark/ZA-Lite?logo=github&color=blueviolet&labelColor=181717)](https://github.com/GelonStark/ZA-Lite) [![Stars](https://img.shields.io/github/stars/GelonStark/ZA-Lite?label=&style=social)](https://github.com/GelonStark/ZA-Lite)
 
 ## 免责声明
 本软件基于计算机视觉和深度学习开发，不会对游戏文件进行修改，不涉及开发影响游戏公平性的功能，同时禁止将本软件用于任何形式的商业用途，使用软件产生的一切问题与本软件和开发者无关，项目开源仅供学习交流目的使用，开发者拥有对软件的最终解释权
