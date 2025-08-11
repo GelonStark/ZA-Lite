@@ -6,16 +6,16 @@
 <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/579dcd01-c68a-420f-8a15-e1269bf12f57" />
   <h1>ZA-Lite  </h1>
   
-  为 <b>绝区零</b> 开发的视觉类自动化软件，现在开始，让玩家从不必要的重复劳动中解脱
+  为 <b>绝区零</b> 开发的视觉类自动化软件，现在开始，从不必要的重复劳动中解脱
  <br>
  
-  [![Latest Release](https://img.shields.io/github/v/release/GelonStark/ZA-Lite?include_prereleases&sort=semver)](https://github.com/GelonStark/ZA-Lite/releases) [![AGPLv3 License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+ [![AGPLv3 License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Windows 11](https://img.shields.io/badge/OS-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Latest Release](https://img.shields.io/github/v/release/GelonStark/ZA-Lite?include_prereleases&sort=semver)](https://github.com/GelonStark/ZA-Lite/releases)
   
 
 </div>
 
  ## 关于软件
- >ZA-Lite 的开发初衷实现游戏最主要的**日常任务**自动化，解决每天的重复性劳动，专注于图形界面的轻量美观和简单易用，软件不会频繁更新，正常情况下与游戏版本同步进行更新
+ >ZA-Lite 的开发初衷实现游戏最主要的**日常任务**自动化，解决每天的重复性打卡上班，专注于图形界面的轻量美观和简单易用，软件不会频繁更新，正常情况下与游戏版本同步进行更新
 
 ## 主要功能
 
