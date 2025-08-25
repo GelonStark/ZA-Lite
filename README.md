@@ -31,7 +31,8 @@
  
  ## 下载使用
 
- 初次使用下载 <a href=https://www.github.com/GelonStark/ZA-Lite/releases/latest>ZA-Lite.zip</a>  后运行 **Updater** 自动安装，完成后打开 **Launcher** 即可使用
+
+   运行请使用Release版本，初次使用下载 <a href=https://www.github.com/GelonStark/ZA-Lite/releases/latest>ZA-Lite.zip</a>  后运行 **Updater** 自动安装，完成后打开 **Launcher** 即可使用
  
  国内用户如果下载没速度，尝试 <a href=https://www.yuque.com/gelonstark/kb/za>使用手册</a>  内的国内网盘
 
