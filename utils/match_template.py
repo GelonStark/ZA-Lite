@@ -31,7 +31,7 @@ def match_tpl(tpl,action=None,key=None,skip=None,reverse=None):
             status.timeout = True
             logger.error('等待超时,开始重试')
         if status.timeout:
-            return # 用于其他模块导入判断超时  #这里原本是return True 我忘了这个True是干什么的，可能有用，可能是BUG，先删了
+            return 
 
         if max_val > 0.9 :
             logger.trace(f'【目标出现】{tpl} 置信度：{max_val}')
