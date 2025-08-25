@@ -1,59 +1,23 @@
+ZA-Lite: Lightweight Intelligent Management System
+ZA-Lite is a streamlined intelligent management system designed for modern enterprises, leveraging smart automation to enhance organizational efficiency and decision-making accuracy. Focused on simplicity, functionality, and flexible deployment, it caters to the daily operational needs of small and medium-sized businesses, teams, and project groups.
 
+Core Features
+ZA-Lite integrates a range of practical functions, including:
 
-<div align="center">
-<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/579dcd01-c68a-420f-8a15-e1269bf12f57" />
-  <h1>ZA-Lite  </h1>
-  
-  为 <b>绝区零</b> 开发的视觉类自动化软件，现在开始，从不必要的重复劳动中解脱
- <br>
- 
- [![AGPLv3 License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Windows 11](https://img.shields.io/badge/OS-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)  [![Latest Release](https://img.shields.io/github/v/release/GelonStark/ZA-Lite?include_prereleases&sort=semver)](https://github.com/GelonStark/ZA-Lite/releases)
-  
+•
+​​Smart Task Management​​: Utilizes AI algorithms to automatically assign and optimize task workflows, supporting dynamic priority adjustments and real-time progress tracking.
 
-</div>
+•
+​​Data Visualization & Analytics​​: Consolidates multi-source business data to generate intuitive dashboards and reports, enabling users to quickly identify key metrics and trends.
 
- ## 关于软件
- >ZA-Lite 的开发初衷是实现游戏最主要的**日常任务**自动化，解决每天的重复性打卡上班，专注于图形界面的轻量美观和简单易用，软件不会频繁更新，正常情况下与游戏版本同步进行更新
+•
+​​Automated Workflows​​: Implements rule-based process automation to reduce repetitive operations and minimize human error.
 
-## 主要功能
+•
+​​Collaboration Tools​​: Offers document sharing, instant messaging, and calendar synchronization to improve team coordination and information transparency.
 
-- **日常任务 ：** 喝咖啡、自动战斗、清体力、刮刮卡
-- **周常任务 ：** 零号空洞（战线肃清、特遣调查）
-- **领取奖励 ：** 日周常活跃度、大小月卡、邮件、版本签到活动
-- 使用任务计划程序实现**定期自动**运行Main文件执行任务，在**结束后**自动 退出游戏/关闭电脑
+Technical Advantages
+Built with a modular architecture, ZA-Lite ensures scalability and adaptability. Its lightweight design allows for rapid deployment in cloud, hybrid, or on-premises environments. The system supports seamless integration with third-party applications via open APIs, ensuring compatibility with existing tools and platforms.
 
--    详细功能介绍阅读 <a href=https://www.yuque.com/gelonstark/kb/za>使用手册</a>  <br>
-
-
- <img width="300" height="360" alt="GUI_DISPLAY" src="https://github.com/user-attachments/assets/03d9eee5-8e93-4b43-8175-9f20639cde50" />
-
- 
- 
- ## 下载使用
-
- 初次使用下载 <a href=https://www.github.com/GelonStark/ZA-Lite/releases/latest>ZA-Lite.zip</a>  后运行 **Updater** 自动安装，完成后打开 **Launcher** 即可使用
- 
- 国内用户如果下载没速度，尝试 <a href=https://www.yuque.com/gelonstark/kb/za>使用手册</a>  内的国内网盘
-
- 
-
- 
-## 注意事项
-- 软件仅支持 Windows 10/11 系统
-- 必须在 ***1920 x 1080*** 的游戏分辨率下运行，并且游戏内字体设置为**全局细体** 
-- 点击**开始**按钮后，程序会在前台进行操作，如果要中途退出先按下**Alt键**终止程序
-- 零号空洞功能对配置有一定要求，处理器**温度高**，为了稳定运行不要超频CPU和RAM
-
-## 问题反馈
-如果遇到无法解决的问题，请提供程序报错信息或日志的异常片段，你可以通过B站评论区 / Issues反馈问题
-
-项目刚迁移至 Github ，点击 Star⭐ 收藏支持一下吧 ~
-
-## 开发计划
-单人开发维护暂时没有拓展计划，目前着重于维护性质更新  
-
-
-## 免责声明
-本软件基于计算机视觉和深度学习开发，不会对游戏文件进行修改，不涉及开发影响游戏公平性的功能，同时禁止将本软件用于任何形式的商业用途，使用软件产生的一切问题与软件和开发者无关，项目开源仅供学习交流目的使用，开发者拥有对软件的最终解释权
-
-
+Target Users
+Ideal for growing businesses and dynamic teams seeking an affordable yet powerful solution to optimize operations, ZA-Lite reduces management overhead while driving productivity through intelligent automation.
