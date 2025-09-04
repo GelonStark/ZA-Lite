@@ -470,6 +470,7 @@ RPAID.file('skill_freeze.png'),
 RPAID.file('skill_shock.png'),
 RPAID.file('skill_ether.png'),
 
+RPAID.file('disc_11.png'),
 RPAID.file('disc_10.png'), #云岿如我
 RPAID.file('disc_9.png'),
 RPAID.file('disc_8.png'),
