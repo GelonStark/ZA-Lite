@@ -33,7 +33,7 @@ def getwin(zh_title=None,en_title=None,game_path=None,config_path=None):
         logger.debug(f'启动游戏：{game_path}')
         time.sleep(1)
         try:
-            subprocess.Popen(f'{game_path} -popupwindow -screen-width 1920 -screen-height 1080 -screen-fullscreen 1') #启动参数
+            subprocess.Popen(f'{game_path} -popupwindow -screen-width 1920 -screen-height 1080 -screen-fullscreen 0') #启动参数 无边框非全屏
         except OSError as e:
             logger.error(e)
             logger.error("启动游戏失败，请检查路径")
@@ -44,4 +44,4 @@ def getwin(zh_title=None,en_title=None,game_path=None,config_path=None):
             if en_title in allwin or zh_title in allwin:
                 break
 if __name__=="__main__":
-    getwin(zh_title="绝区零",en_title="ZenlessZoneZero",game_path=r"D:\Game Files\Wuthering Waves\launcher.exe")
+    getwin(zh_title="绝区零",en_title="ZenlessZoneZero",game_path=r"D:\Game Files\ZenlessZoneZero Game\ZenlessZoneZero.exe")
