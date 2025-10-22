@@ -16,7 +16,7 @@ else:
 logger.remove()  # 移除默认版本logger输出
 timestamp = datetime.now().strftime('%Y-%m-%d %H.%M.%S')
 logger.add(sink=sys.stdout,
-           format="<light-black>{time:YYYY-MM-DD HH:mm:ss}</light-black> [<level>{level}</level>] <level>{message}</level>",
+           format="<light-black>{time:YYYY-MM-DD HH:mm:ss}</light-black> [<level>{level}</level>] [{function}] [{line}] <level>{message}</level>",
            colorize=True, level=logger_level)  # 格式化logger
 logger.add(sink=RPL.file(f"{timestamp}.log"),
            format="<light-black>{time:YYYY-MM-DD HH:mm:ss}</light-black> [<level>{level}</level>] <level>{message}</level>",
@@ -28,4 +28,6 @@ logger.level("SUCCESS", color="<light-green>")
 logger.level("ERROR", color="<light-red>")
 
 if __name__=="__main__":
+    logger.debug("123")
+    logger.trace("321")
     pass

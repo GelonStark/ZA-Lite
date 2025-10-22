@@ -5,6 +5,7 @@ from shared import status
 from utils.screenshot import screenshot
 from ultralytics import YOLO
 import threading
+from utils import logger_init
 
 
 class AttackDetection:

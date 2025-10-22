@@ -3,7 +3,7 @@ import time
 import keyboard
 import os
 import threading
-
+from utils import logger_init
 class ProcessTerminator:
     def __init__(self):
         self.thread=threading.Thread(target=self.handler,daemon=True)

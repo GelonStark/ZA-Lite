@@ -33,7 +33,7 @@ def getwin(zh_title=None,en_title=None,game_path=None,config_path=None):
         logger.debug(f'启动游戏：{game_path}')
         time.sleep(1)
         try:
-            subprocess.Popen(f'{game_path} -popupwindow -screen-width 1920 -screen-height 1080 -screen-fullscreen 0') #启动参数 无边框非全屏
+            subprocess.Popen(f'{game_path} -popupwindow -screen-width 1920 -screen-height 1080 -screen-fullscreen 0') #启动参数 无边框 窗口化
         except OSError as e:
             logger.error(e)
             logger.error("启动游戏失败，请检查路径")

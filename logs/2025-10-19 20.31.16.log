@@ -1,0 +1,39 @@
+2025-10-19 20:31:22 [TRACE] 【线程启动】全局监听
+2025-10-19 20:31:22 [TRACE] 【线程启动】终止监听
+2025-10-19 20:31:22 [INFO] 现在执行 1 次零号空洞
+2025-10-19 20:31:24 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-10-19 20:31:27 [DEBUG] 发现已存在的游戏窗口
+2025-10-19 20:31:32 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-10-19 20:31:32 [TRACE] 【线程启动】空洞搜索
+2025-10-19 20:31:32 [TRACE] 【线程启动】空洞监听
+2025-10-19 20:31:32 [TRACE] 【线程启动】空洞战斗
+2025-10-19 20:31:32 [DEBUG] 正在返回菜单
+2025-10-19 20:31:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-19 20:31:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-19 20:31:37 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-19 20:31:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-19 20:31:41 [TRACE] 现在处于大厅
+2025-10-19 20:31:42 [INFO] 执行零号空洞任务中
+2025-10-19 20:31:42 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png
+2025-10-19 20:31:43 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png 置信度：0.9763127565383911
+2025-10-19 20:31:45 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\zero_hollow.png 置信度：0.9999935626983643
+2025-10-19 20:31:46 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\go_hollow.png 置信度：0.9940804839134216
+2025-10-19 20:31:47 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\confirm.png 置信度：0.983957827091217
+2025-10-19 20:31:49 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:50 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:50 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:51 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:52 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:53 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:53 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:54 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:55 [TRACE] 【9】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:56 [TRACE] 【10】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:56 [TRACE] 【11】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:57 [TRACE] 【12】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:58 [TRACE] 【13】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:59 [TRACE] 【14】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:31:59 [TRACE] 【15】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:32:00 [TRACE] 【16】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:32:01 [TRACE] 【17】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-19 20:32:02 [TRACE] 【18】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png

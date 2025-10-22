@@ -1,0 +1,101 @@
+2025-10-23 03:04:24 [TRACE] 【线程启动】全局监听
+2025-10-23 03:04:24 [TRACE] 【线程启动】终止监听
+2025-10-23 03:04:24 [TRACE] 【线程启动】窗口保持
+2025-10-23 03:04:24 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-10-23 03:04:27 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-10-23 03:04:27 [DEBUG] 正在返回菜单
+2025-10-23 03:04:27 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:04:30 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:04:32 [TRACE] 现在处于大厅
+2025-10-23 03:04:32 [INFO] 领取奖励中
+2025-10-23 03:04:33 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：1.0
+2025-10-23 03:04:34 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\tactics.png 置信度：0.9765864014625549
+2025-10-23 03:04:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily.png 置信度：0.9965629577636719
+2025-10-23 03:04:37 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png
+2025-10-23 03:04:38 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\daily_reward.png 置信度：0.9735109210014343
+2025-10-23 03:04:39 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9618180990219116
+2025-10-23 03:04:41 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward.png 置信度：0.9983759522438049
+2025-10-23 03:04:42 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:43 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:44 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:44 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:45 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:46 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:47 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:47 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:48 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_2.png
+2025-10-23 03:04:48 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\weekly_reward_3.png 置信度：0.997993528842926
+2025-10-23 03:04:50 [DEBUG] 正在返回菜单
+2025-10-23 03:04:50 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:04:52 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:04:55 [TRACE] 现在处于大厅
+2025-10-23 03:04:55 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：0.9999997615814209
+2025-10-23 03:04:57 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png
+2025-10-23 03:04:58 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_ads.png 置信度：0.9969540238380432
+2025-10-23 03:04:59 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_task.png 置信度：0.9991456866264343
+2025-10-23 03:05:01 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png 置信度：0.9986243844032288
+2025-10-23 03:05:02 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_battlepass.png 置信度：0.9969903826713562
+2025-10-23 03:05:04 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:04 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:05 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:06 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:07 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:07 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:08 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:09 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:09 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\monthly_claim.png
+2025-10-23 03:05:09 [DEBUG] 正在返回菜单
+2025-10-23 03:05:10 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:05:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:05:14 [TRACE] 现在处于主菜单
+2025-10-23 03:05:15 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\mail.png 置信度：0.9836172461509705
+2025-10-23 03:05:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\mail_claim.png 置信度：0.9643244743347168
+2025-10-23 03:05:18 [DEBUG] 正在返回菜单
+2025-10-23 03:05:18 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:05:20 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:05:22 [TRACE] 现在处于主菜单
+2025-10-23 03:05:23 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\events.png 置信度：1.0
+2025-10-23 03:05:24 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\bait_event.png
+2025-10-23 03:05:25 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\bait_event.png 置信度：0.9999847412109375
+2025-10-23 03:05:28 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift.png 置信度：0.9982126355171204
+2025-10-23 03:05:29 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:30 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:31 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:31 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:32 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:33 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:33 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:34 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:35 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:35 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png 置信度：0.9995883703231812
+2025-10-23 03:05:36 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.961808443069458
+2025-10-23 03:05:38 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\bait_event.png 置信度：0.9999916553497314
+2025-10-23 03:05:41 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:42 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:43 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:44 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:44 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:45 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:46 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:47 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:48 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_gift_2.png
+2025-10-23 03:05:48 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:49 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:49 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:50 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:51 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:51 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:52 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:53 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:53 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim.png
+2025-10-23 03:05:54 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:54 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:55 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:56 [TRACE] 【4】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:56 [TRACE] 【5】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:57 [TRACE] 【6】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:58 [TRACE] 【7】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:59 [TRACE] 【8】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:05:59 [TRACE] 【跳过】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\event_claim_2.png
+2025-10-23 03:06:00 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-10-23 03:06:00 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png

@@ -1,0 +1,158 @@
+2025-10-20 04:00:48 [TRACE] 【线程启动】全局监听
+2025-10-20 04:00:48 [TRACE] 【线程启动】终止监听
+2025-10-20 04:00:48 [INFO] 现在执行 1 次零号空洞
+2025-10-20 04:00:50 [DEBUG] 初始化完毕..启动{零号空洞}模块
+2025-10-20 04:00:53 [DEBUG] 启动游戏：D:/Game Files/ZenlessZoneZero Game/ZenlessZoneZero.exe
+2025-10-20 04:00:58 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-10-20 04:00:58 [TRACE] 【线程启动】空洞搜索
+2025-10-20 04:00:58 [TRACE] 【线程启动】空洞监听
+2025-10-20 04:00:58 [TRACE] 【线程启动】空洞战斗
+2025-10-20 04:00:58 [DEBUG] 正在返回菜单
+2025-10-20 04:00:59 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:01 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:03 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:05 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:08 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:10 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:12 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:15 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:17 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:19 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:22 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:24 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:27 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:29 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:32 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:34 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:36 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:39 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:41 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:53 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:01:55 [TRACE] 现在处于大厅
+2025-10-20 04:01:56 [INFO] 执行零号空洞任务中
+2025-10-20 04:01:56 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png
+2025-10-20 04:01:57 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\combat.png 置信度：0.9763051271438599
+2025-10-20 04:01:59 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\zero_hollow.png 置信度：0.9999938011169434
+2025-10-20 04:02:00 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\go_hollow.png 置信度：0.9940933585166931
+2025-10-20 04:02:01 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\confirm.png 置信度：0.9839440584182739
+2025-10-20 04:02:03 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-20 04:02:04 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-20 04:02:04 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png
+2025-10-20 04:02:05 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\hollow_taskforce.png 置信度：0.9999842047691345
+2025-10-20 04:02:07 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy.png 置信度：0.9988663196563721
+2025-10-20 04:02:08 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png
+2025-10-20 04:02:08 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\strategy_confirm.png 置信度：0.9999997615814209
+2025-10-20 04:02:10 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\next_step.png 置信度：0.9771214723587036
+2025-10-20 04:02:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png 置信度：0.9862318634986877
+2025-10-20 04:02:13 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_4.png 置信度：0.986510157585144
+2025-10-20 04:02:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\select_squad.png 置信度：0.9686330556869507
+2025-10-20 04:02:16 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/hollow\start_battle.png 置信度：0.9790863394737244
+2025-10-20 04:02:17 [TRACE] 【空洞监听】无匹配已持续：0秒
+2025-10-20 04:02:17 [ERROR] 【线程错误】Thread-6 (hollow_search)
+
+Traceback (most recent call last):
+  File "C:\Python\Lib\threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "C:\Python\Lib\threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gelon\Desktop\ZA-Lite\tasks\hollow.py", line 189, in hollow_search
+    result=yolo_hollow(source=screenshot("bgr"),sd=1280,verbose=False)   #推理 YOLO支持批量输入，单图片需要result[0]
+  File "C:\Python\Lib\site-packages\ultralytics\engine\model.py", line 180, in __call__
+    return self.predict(source, stream, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\engine\model.py", line 550, in predict
+    self.predictor = (predictor or self._smart_load("predictor"))(overrides=args, _callbacks=self.callbacks)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\engine\predictor.py", line 91, in __init__
+    self.args = get_cfg(cfg, overrides)
+                ~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\cfg\__init__.py", line 306, in get_cfg
+    check_dict_alignment(cfg, overrides)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\ultralytics\cfg\__init__.py", line 493, in check_dict_alignment
+    raise SyntaxError(string + CLI_HELP_MSG) from e
+SyntaxError: '[31m[1msd[0m' is not a valid YOLO argument. Similar arguments are i.e. ['seed=0'].
+
+    Arguments received: ['yolo']. Ultralytics 'yolo' commands use the following syntax:
+
+        yolo TASK MODE ARGS
+
+        Where   TASK (optional) is one of frozenset({'pose', 'classify', 'obb', 'detect', 'segment'})
+                MODE (required) is one of frozenset({'predict', 'benchmark', 'val', 'export', 'train', 'track'})
+                ARGS (optional) are any number of custom 'arg=value' pairs like 'imgsz=320' that override defaults.
+                    See all ARGS at https://docs.ultralytics.com/usage/cfg or with 'yolo cfg'
+
+    1. Train a detection model for 10 epochs with an initial learning_rate of 0.01
+        yolo train data=coco8.yaml model=yolo11n.pt epochs=10 lr0=0.01
+
+    2. Predict a YouTube video using a pretrained segmentation model at image size 320:
+        yolo predict model=yolo11n-seg.pt source='https://youtu.be/LNwODJXcvt4' imgsz=320
+
+    3. Val a pretrained detection model at batch-size 1 and image size 640:
+        yolo val model=yolo11n.pt data=coco8.yaml batch=1 imgsz=640
+
+    4. Export a YOLO11n classification model to ONNX format at image size 224 by 128 (no TASK required)
+        yolo export model=yolo11n-cls.pt format=onnx imgsz=224,128
+
+    5. Ultralytics solutions usage
+        yolo solutions count or in ['heatmap', 'queue', 'speed', 'workout', 'analytics', 'trackzone', 'inference'] source="path/to/video/file.mp4"
+
+    6. Run special commands:
+        yolo help
+        yolo checks
+        yolo version
+        yolo settings
+        yolo copy-cfg
+        yolo cfg
+        yolo solutions help
+
+    Docs: https://docs.ultralytics.com
+    Solutions: https://docs.ultralytics.com/solutions/
+    Community: https://community.ultralytics.com
+    GitHub: https://github.com/ultralytics/ultralytics
+    
+
+2025-10-20 04:02:22 [TRACE] 【空洞监听】无匹配已持续：5秒
+2025-10-20 04:02:27 [TRACE] 【空洞监听】无匹配已持续：10秒
+2025-10-20 04:02:33 [TRACE] 【空洞监听】无匹配已持续：16秒
+2025-10-20 04:02:38 [TRACE] 【空洞监听】无匹配已持续：21秒
+2025-10-20 04:02:44 [TRACE] 【空洞监听】无匹配已持续：27秒
+2025-10-20 04:02:50 [TRACE] 【空洞监听】无匹配已持续：33秒
+2025-10-20 04:02:56 [TRACE] 【空洞监听】无匹配已持续：39秒
+2025-10-20 04:03:02 [TRACE] 【空洞监听】无匹配已持续：45秒
+2025-10-20 04:03:07 [TRACE] 【空洞监听】无匹配已持续：50秒
+2025-10-20 04:03:13 [TRACE] 【空洞监听】无匹配已持续：56秒
+2025-10-20 04:03:19 [TRACE] 【空洞监听】无匹配已持续：62秒
+2025-10-20 04:03:19 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:03:26 [TRACE] 【空洞监听】无匹配已持续：68秒
+2025-10-20 04:03:26 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:03:32 [TRACE] 【空洞监听】无匹配已持续：74秒
+2025-10-20 04:03:32 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:03:37 [TRACE] 【空洞监听】无匹配已持续：80秒
+2025-10-20 04:03:37 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:03:42 [TRACE] 【空洞监听】无匹配已持续：85秒
+2025-10-20 04:03:42 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:03:49 [TRACE] 【空洞监听】无匹配已持续：91秒
+2025-10-20 04:03:49 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:03:55 [TRACE] 【空洞监听】无匹配已持续：97秒
+2025-10-20 04:03:55 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:04:01 [TRACE] 【空洞监听】无匹配已持续：104秒
+2025-10-20 04:04:01 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:04:07 [TRACE] 【空洞监听】无匹配已持续：110秒
+2025-10-20 04:04:07 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:04:12 [TRACE] 【空洞监听】无匹配已持续：115秒
+2025-10-20 04:04:12 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:04:19 [TRACE] 【空洞监听】无匹配已持续：122秒
+2025-10-20 04:04:19 [TRACE] 【空洞监听】即将超时，重启搜索线程
+2025-10-20 04:04:19 [WARNING] 空洞任务异常，跳过本轮
+2025-10-20 04:04:19 [INFO] 本轮耗时:2分钟
+2025-10-20 04:04:19 [INFO] 当前已完成空洞 0 次 
+2025-10-20 04:04:19 [DEBUG] 正在返回菜单
+2025-10-20 04:04:20 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-20 04:04:23 [TRACE] 正在返回菜单,请保持游戏画面处于前台

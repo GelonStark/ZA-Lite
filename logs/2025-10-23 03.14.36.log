@@ -1,0 +1,37 @@
+2025-10-23 03:14:38 [TRACE] 【线程启动】全局监听
+2025-10-23 03:14:38 [TRACE] 【线程启动】终止监听
+2025-10-23 03:14:38 [TRACE] 【线程启动】窗口保持
+2025-10-23 03:14:38 [DEBUG] 初始化完毕..启动{日常任务}模块
+2025-10-23 03:14:41 [SUCCESS] 程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键
+2025-10-23 03:14:41 [DEBUG] 正在返回菜单
+2025-10-23 03:14:42 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:14:44 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:14:46 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:14:48 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:14:51 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:14:53 [TRACE] 现在处于主菜单
+2025-10-23 03:14:54 [INFO] 当前电量为：260，执行 6 次循环
+2025-10-23 03:14:54 [DEBUG] 正在返回菜单
+2025-10-23 03:14:54 [TRACE] 正在返回菜单,请保持游戏画面处于前台
+2025-10-23 03:14:57 [TRACE] 现在处于大厅
+2025-10-23 03:14:57 [INFO] 执行核心技任务
+2025-10-23 03:14:57 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\lobby.png 置信度：0.9999995827674866
+2025-10-23 03:14:59 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\tactics.png 置信度：0.9766026139259338
+2025-10-23 03:15:00 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\train.png 置信度：0.976133406162262
+2025-10-23 03:15:02 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\sidebar_core.png 置信度：0.995283842086792
+2025-10-23 03:15:03 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\go.png 置信度：0.9999023079872131
+2025-10-23 03:15:04 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\core_12.png 置信度：0.9999998211860657
+2025-10-23 03:15:05 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png
+2025-10-23 03:15:06 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.9839544892311096
+2025-10-23 03:15:07 [TRACE] 【1】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\double_on.png
+2025-10-23 03:15:08 [TRACE] 【2】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\double_on.png
+2025-10-23 03:15:09 [TRACE] 【3】等待目标中 C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\double_on.png
+2025-10-23 03:15:09 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\double_on.png 置信度：0.9638143181800842
+2025-10-23 03:15:11 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\confirm.png 置信度：0.983954668045044
+2025-10-23 03:15:12 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\level.png 置信度：0.9822437167167664
+2025-10-23 03:15:14 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\level.png 置信度：0.9821787476539612
+2025-10-23 03:15:15 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\next_step.png 置信度：0.9829254746437073
+2025-10-23 03:15:17 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_preset.png 置信度：0.9861429333686829
+2025-10-23 03:15:18 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\squad_6.png 置信度：0.9557996392250061
+2025-10-23 03:15:19 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\select_squad.png 置信度：0.9682507514953613
+2025-10-23 03:15:21 [TRACE] 【目标出现】C:\Users\gelon\Desktop\ZA-Lite\assets/images/daily\start_battle.png 置信度：0.9854788184165955

@@ -20,8 +20,8 @@ from shared import status
 from modules.attack_detection import AttackDetection
 from utils.screenshot import screenshot
 from utils.windows_notification import WindowsNotification
-from utils.getwin import getwin
-from utils.match_template import click,match,press,move,scroll_move,traversal_tpl
+from utils.window_check import window_check,WindowKeeper
+from utils.match_template import click,match,press,move,scroll_move,multi_click
 from utils.resource_path import ResourcePath
 from utils.process_terminator import ProcessTerminator
 from config.load_config import wait_speed,action_speed,squad_index,level_index,task_index,check_reward,check_coffee,check_lottery,game_path
@@ -30,9 +30,11 @@ from config.load_config import wait_speed,action_speed,squad_index,level_index,t
 def menu(action):
     if status.timeout:
         return
+
     logger.debug('正在返回菜单')
     while True:
-
+        if status.timeout:
+            status.timeout=False # 防止下面的匹配超时，导致卡在无限循环里
         if match(RPAID.file('quit_battle.png')):  #退出战斗 和 退出空洞
             logger.trace("退出战斗返回菜单")
             click(RPAID.file('quit_battle.png'))
@@ -51,7 +53,7 @@ def menu(action):
         else:
             logger.trace('正在返回菜单,请保持游戏画面处于前台')
             time.sleep(wait_speed)
-            pydirectinput.press('esc', )
+            pydirectinput.press('esc')
             time.sleep(1)
 def battle():
     if status.timeout:
@@ -140,7 +142,8 @@ def object_search(model,clsid,tpl=None):
     scw,sch=sw/2,sh/2 #屏幕中心 screen_center_w
     no_target=0  #无目标计数
     while True:
-        result=model(source=screenshot("bgr"),imgsz=640,verbose=False)
+
+        result=model(source=screenshot("bgr"),imgsz=1280,verbose=False)  #原推理分辨率640，因在21：9比例置信度下降，暂时提高到1280
 
         if result[0].boxes.conf.numel() == 0:   #判断置信度张量内元素的数量,没有目标即 0
             pydirectinput.moveRel(-100,0,relative=True)
@@ -154,7 +157,7 @@ def object_search(model,clsid,tpl=None):
         else:
             try:
                 for target in result[0]: # 支持多源输入，result是列表
-                    if target.boxes.conf >0.6:
+                    if target.boxes.conf > 0.6:
                         cls=int(target.boxes.cls.tolist()[0]) #张量转列表 转整数
                         if not cls==clsid:
                             pydirectinput.moveRel(-100, 0, relative=True) #出现目标 但非指定类型，继续搜索
@@ -189,11 +192,11 @@ def object_search(model,clsid,tpl=None):
                                     status.timeout=True
 
                             return
+                    else:
+                        logger.trace(f"置信度不足：{target.boxes.conf}")
             except ValueError:
                 logger.trace(f'【目标检测】类型错误:{result[0].boxes.cls}')
                 pydirectinput.moveRel(-100, 0, relative=True)
-
-
 
 def admin_check():
     if ctypes.windll.shell32.IsUserAnAdmin():
@@ -226,7 +229,7 @@ def reward():
         click(RPAID.file('confirm.png'), True)
 
         click(RPAID.file('weekly_reward.png'))   #每周奖励
-        traversal_tpl(RPAID.file('weekly_reward_2.png'), skip=True)
+        multi_click(RPAID.file('weekly_reward_2.png'), skip=True)
         click(RPAID.file('weekly_reward_3.png'), True)
         pydirectinput.click()
 
@@ -252,7 +255,7 @@ def events():
             pyautogui.scroll(-1)
         scroll_move(RPAID.file('event_gift.png'), reverse=True, skip=True) #全新放送
         pydirectinput.click()
-        click(RPAID.file('event_claim.png'), True)
+        multi_click(RPAID.file('event_claim.png'), True)
         click(RPAID.file('event_claim_2.png'), True)
         click(RPAID.file('confirm.png'), True)
 
@@ -263,7 +266,7 @@ def events():
             pyautogui.scroll(-1)
         scroll_move(RPAID.file('event_gift_2.png'), reverse=True, skip=True)  #嗯呢大惊喜
         pydirectinput.click()
-        click(RPAID.file('event_claim.png'), True)
+        multi_click(RPAID.file('event_claim.png'), True)
         click(RPAID.file('event_claim_2.png'), True)
         click(RPAID.file("confirm.png"), True)
 def lottery():
@@ -482,6 +485,7 @@ RPAID.file('disc_3.png'),
 RPAID.file('disc_2.png'),
 RPAID.file('disc_1.png'),
 
+RPAID.file('core_12.png'),
 RPAID.file('core_11.png'),
 RPAID.file('core_10.png'),
 RPAID.file('core_9.png'),
@@ -522,6 +526,7 @@ try:
 
     process_terminator=ProcessTerminator()# 实例化 终止监听
     process_terminator.start() #启动 终止监听
+    WindowKeeper("绝区零", "zenlesszonezero").start()
 
     attack_detection=AttackDetection(yolo_attack) # 实例化 攻击检测
 
@@ -538,7 +543,7 @@ def start_daily():
 
     logger.debug("初始化完毕..启动{日常任务}模块")
     time.sleep(3)
-    getwin(zh_title="绝区零",en_title="ZenlessZoneZero",config_path=game_path)  #启动游戏或激活窗口
+    window_check("绝区零","ZenlessZoneZero",game_path)  #启动游戏或激活窗口
     print()
     logger.success("程序开始接管操作，请保持游戏画面处于前台，终止按下Alt键")
 
@@ -579,6 +584,7 @@ def start_daily():
 
 if __name__=="__main__":
     start_daily()  #启动日常
+
     logger.warning("程序已经结束，按回车键退出(Enter)")
     input()
     os._exit(0)
